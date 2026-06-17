@@ -218,7 +218,7 @@ Starting at Veteran you can start spending XP to make an ability a signature abi
 
 # **Skills**
 
-**Skills **are your aptitude at specific or generic tasks in the world. Skills are what define your characteristics such as your physical, mental aptitude and your senses, both arcane and physical.
+Skills are your aptitude at specific or generic tasks in the world. Skills are what define your characteristics such as your physical, mental aptitude and your senses, both arcane and physical.
 
 | File                                                                | Description                                                                                                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
