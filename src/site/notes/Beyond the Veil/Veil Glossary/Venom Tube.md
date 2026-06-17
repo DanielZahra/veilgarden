@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/venom-tube/","tags":["WeaponTrait"],"dg-note-properties":{"base":"[[Veil Glossary.base]]","Type":null,"Description":"","tags":["WeaponTrait"]}}
----
-
-This weapon has a special mechanism that allows you to use an [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Interact\|Interact]] action to use the [[Beyond the Veil/Veil Glossary/Venom\|Venom]] on the weapon. While stores this way the [[Beyond the Veil/Veil Glossary/Venom\|Venom]] can be released with any [[Beyond the Veil/Veil Glossary/Strike\|Strike]] you make with this weapon as a Free Action, rather than with the first attack. When the [[Beyond the Veil/Veil Glossary/Venom\|Venom]] is used this way it is consumed immediately and expires when you [[Beyond the Veil/Veil Glossary/Rest/Rest\|Rest]]. The [[Beyond the Veil/Veil Glossary/Venom\|Venom]] still has one use.
