@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/unseen/","tags":["WeaponTrait"],"dg-note-properties":{"base":"[[Veil Glossary.base]]","Type":null,"Description":"","tags":["WeaponTrait"]}}
----
-
-An [[Beyond the Veil/Veil Glossary/Unseen\|Unseen]] weapon cannot be seen while not held.  A normal weapon that is unseen functions and is used like a normal weapon but opponents cannot tell the wearer has a weapon on them. Unlike the [[Beyond the Veil/Veil Glossary/Concealable\|Concealable]] trait, you automatically succeed (or the searcher automatically fails) at any visual checks made to spot the weapon on your weapon. Once you use or hold the weapon, the [[Beyond the Veil/Veil Glossary/Unseen\|Unseen]] trait has no effect. [[Beyond the Veil/Veil Glossary/Unarmed\|Beyond the Veil/Veil Glossary/Unarmed]] weapons are always [[Beyond the Veil/Veil Glossary/Unseen\|Unseen]] and they aren't held so an opponent can only tell you’re using your fists as weapons after you punch them in the face.
