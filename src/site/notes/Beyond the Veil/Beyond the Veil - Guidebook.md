@@ -220,33 +220,19 @@ Starting at Veteran you can start spending XP to make an ability a signature abi
 
 **Skills **are your aptitude at specific or generic tasks in the world. Skills are what define your characteristics such as your physical, mental aptitude and your senses, both arcane and physical.
 
+| File                                                                | Description                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Beyond the Veil/Veil Content/Skills/Agility\|Agility]]         | Breaking a Fall, Tumbling, Squeezing, Catch a Ledge, Cover Utilization and benefits, Walking on difficult ground, dancing, flexibility. You move with control and snap decisions. Keep balance, tumble through danger, slip tight spaces, recover from falls, and reposition under fire.                             |
+| [[Beyond the Veil/Veil Content/Skills/Athletics\|Athletics]]     | You turn muscle and grit into motion. Force open paths, climb and leap across obstacles, shove and wrestle foes, and keep going under sustained strain. Athletics governs, Stamina, Strength and Endurance.                                                                                                          |
+| [[Beyond the Veil/Veil Content/Skills/Intuition\|Intuition]]     | Sensing emotions, insight or magic. You trust the read beneath the surface. Sense motives and patterns, follow hunches, commune with the world’s currents (mundane or mystical), and choose the right moment to act.                                                                                                 |
+| [[Beyond the Veil/Veil Content/Skills/Perception\|Perception]]   | Sight, Smell, Hearing, Search, Spotting Traps, Tracking Creatures. You notice what others miss. Spot ambushes and traps, sift scenes for clues, track fresh signs, and pick out fleeting tells in the chaos.                                                                                                         |
+| [[Beyond the Veil/Veil Content/Skills/Influence\|Influence]]     | Persuasion, diplomacy, debating, negotiation, coercing, deceit and bluffing. You’re good at influencing others, motive, persuasion or charm. Influence also gives you a semblance of leadership skills needed to tarry on in an adventure.                                                                           |
+| [[Beyond the Veil/Veil Content/Skills/Smarts\|Smarts]]           | Deductive assessment, Logic and reasoning challenges, cryptography, mathematics, linguistics, strategy. You win with knowledge and synthesis. Recall lore across disciplines, crack codes and puzzles, test hypotheses, and turn information into plans that give your team the edge.                                |
+| [[Beyond the Veil/Veil Content/Skills/Subterfuge\|Subterfuge]]   | Hiding Yourself, Hiding Objects, Hiding in Cover, Silent Movement, Darkness Training, Remove Evidence, Hide your Tracks, Sleight of Hand. You operate where eyes don’t. Vanish into shadows, trail or shake a tail, lift or plant small objects unseen, and infiltrate guarded spaces.                               |
+| [[Beyond the Veil/Veil Content/Skills/Tinkering\|Tinkering]]     | Open Physical Locks, Disable Physical Traps, Operate Machinery, Operate Vehicles, Operate Strange Devices, Forgery, Create Things, customize gear. You converse with mechanisms. Pick and bypass locks, disable or rig devices and traps, repair or modify gear, and coax balky vehicles or constructs into working. |
+| [[Beyond the Veil/Veil Content/Skills/Restoration\|Restoration]] | Treat Wounds, Treat Curses, Treat Afflictions, Autopsy, First Aid, Prevention Medicine, Making Medicine or Potions. You keep people standing. Stabilize the fallen, treat wounds and afflictions, counter toxins and maladies, and prepare field remedies that stave off worse harm.                                 |
 
-```base
-filters:
-  and:
-    - note["base"] == link("Skills.base")
-properties:
-  file.name:
-    displayName: Categories
-  Category:
-    displayName: Category
-  Actions/Usage/Benefits:
-    displayName: Actions/Usage/Benefits
-  note.Actions/Usage/Benefits:
-    displayName: Description
-views:
-  - type: table
-    name: Table View
-    order:
-      - file.name
-      - Description
-    sort:
-      - property: Category
-        direction: ASC
-    cardSize: 800
-
-```
-
+{ .block-language-dataview}
 
 ## Skill Proficiency
 
