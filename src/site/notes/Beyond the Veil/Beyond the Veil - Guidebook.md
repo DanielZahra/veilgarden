@@ -32,7 +32,7 @@ When making a veil roll, there are specific rules that apply when several boons 
     - E.g. If you have a major boon and a minor bane, your roll is made with a +2.
     - E.g.. if you have 3 minor banes and a minor boon, your roll is still made with a -4.
 ### **Open Rolls**
-Veil’s dice rolling is usually done in the open for the whole table to see. The only time where a roll is done in secret, it is indicated by a **Secret trait**.
+Veil’s dice rolling is usually done in the open for the whole table to see. The only time where a roll is done in secret, it is indicated by a [[Beyond the Veil/Veil Glossary/Secret\|Secret]] trait.
 
 ---
 # Player Roles
