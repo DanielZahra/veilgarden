@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/combination/","tags":["WeaponTrait"],"dg-note-properties":{"base":"[[Veil Glossary.base]]","Type":null,"Description":"","tags":["WeaponTrait"]}}
----
-
-To make a [[Beyond the Veil/Veil Glossary/Combination\|Combination]] weapon, you need to separate 2 weapons with the same ‘hand’ value. ([[Beyond the Veil/Veil Glossary/1+ Hand\|1+ Hand]] Counts as 1).  Once these 2 weapons both have the [[Beyond the Veil/Veil Glossary/Combination\|Combination]] trait, they take one [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]] slot for you and, Once per round you can switch between the 2 as a Free Action. You can still use an [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Interact\|Interact]] action, to switch again after the first free use per round. Both Weapons can have separate runes and traits, however they must both have the [[Beyond the Veil/Veil Glossary/Combination\|Combination]] trait. For example you can combine a Firearm with a Sword and create a Gunblade.
