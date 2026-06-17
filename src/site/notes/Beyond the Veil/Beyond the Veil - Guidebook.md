@@ -473,33 +473,6 @@ The more you know the harder it becomes to learn more. When you make a Learning 
 
 When you fail a Learning Roll, the next learning roll about the same Domain is made with a Bonus. This Bonus stacks on itself to ensure that eventually you succeed.
 
-## Knowledge Topics
-
-
-```base
-filters:
-  and:
-    - note["base"] == link("Knowledge Topics.base")
-properties:
-  file.name:
-    displayName: Name
-  Type:
-    displayName: Type
-  Description:
-    displayName: Description
-views:
-  - type: table
-    name: Table View
-    order:
-      - file.name
-      - tags
-  - type: cards
-    name: View
-    cardSize: 260
-
-```
-
-
 # Resources
 
 Veil is meant to use a small amount of resources which allows the party to mostly stay at full power throughout their journey. However as the party ventures forth into more danger they can get injured and cannot fully recover until they rest.
