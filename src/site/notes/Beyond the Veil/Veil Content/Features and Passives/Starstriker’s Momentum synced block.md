@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/starstriker-s-momentum-synced-block/","dg-note-properties":{}}
+---
+
+| Mastery Level | Effect |
+| --- | --- |
+| Adept | You gain the [[NOTION_PAGE:28375a22-781a-8052-a60c-f5a25e51e0b8\|NOTION_PAGE:28375a22-781a-8052-a60c-f5a25e51e0b8]] Feature<br><br>Every time you deal damage with an [[NOTION_PAGE:22875a22-781a-809a-b68e-f70172b83b95\|NOTION_PAGE:22875a22-781a-809a-b68e-f70172b83b95]]  [[NOTION_PAGE:26675a22-781a-8067-882b-cfe6823f5f59\|NOTION_PAGE:26675a22-781a-8067-882b-cfe6823f5f59]] or [[NOTION_PAGE:28275a22-781a-8088-8bc2-d92c3b0a2c70\|NOTION_PAGE:28275a22-781a-8088-8bc2-d92c3b0a2c70]] you gain a charge of [[NOTION_PAGE:28375a22-781a-8052-a60c-f5a25e51e0b8\|NOTION_PAGE:28375a22-781a-8052-a60c-f5a25e51e0b8]].<br><br>When using [[NOTION_PAGE:28375a22-781a-8028-ab26-dc2ff07a3f98\|NOTION_PAGE:28375a22-781a-8028-ab26-dc2ff07a3f98]] you unleash all of your [[NOTION_PAGE:28375a22-781a-8052-a60c-f5a25e51e0b8\|NOTION_PAGE:28375a22-781a-8052-a60c-f5a25e51e0b8]].<br><br>[[NOTION_PAGE:28375a22-781a-8052-a60c-f5a25e51e0b8\|NOTION_PAGE:28375a22-781a-8052-a60c-f5a25e51e0b8]] Charges expire after 1 minute.<br><br>You can have 3 Stacks of [[NOTION_PAGE:28375a22-781a-8052-a60c-f5a25e51e0b8\|NOTION_PAGE:28375a22-781a-8052-a60c-f5a25e51e0b8]] |
+| Veteran | You can have 6 Stacks of [[NOTION_PAGE:28375a22-781a-8052-a60c-f5a25e51e0b8\|NOTION_PAGE:28375a22-781a-8052-a60c-f5a25e51e0b8]] |
+| Master | You can have 9 Stacks of [[NOTION_PAGE:28375a22-781a-8052-a60c-f5a25e51e0b8\|NOTION_PAGE:28375a22-781a-8052-a60c-f5a25e51e0b8]] |
