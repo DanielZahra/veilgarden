@@ -11,7 +11,7 @@ Beyond the Veil (Veil) is a high-fantasy tabletop RPG with tactical action based
 
 # Creator’s Words
 
-*Veil lets you build characters without chasing small modifiers. As you gain more experience and grow in power, you don’t inflate numbers, you unlock more options to solve problems. Pick tools that help you achieve your goals rather than just make die and modifiers bigger.**In the world of Veil, you will often find descriptions that use the words, magic, arcane or mana. Veil is designed for a world far removed from our own real world where all creatures can control a semblance of mana or magic and the supernatural is a part of the world. The people that live in these worlds use mana as a second nature as they develop the skill to control it, just as they would develop their muscles and other everyday skills.*
+Veil lets you build characters without chasing small modifiers. As you gain more experience and grow in power, you don’t inflate numbers, you unlock more options to solve problems. Pick tools that help you achieve your goals rather than just make die and modifiers bigger. In the world of Veil, you will often find descriptions that use the words, magic, arcane or mana. Veil is designed for a world far removed from our own real world where all creatures can control a semblance of mana or magic and the supernatural is a part of the world. The people that live in these worlds use mana as a second nature as they develop the skill to control it, just as they would develop their muscles and other everyday skills.
 
 # Main Resolution Mechanic
 
