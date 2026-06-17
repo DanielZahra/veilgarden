@@ -98,7 +98,7 @@ Characters in Veil are the player characters that act as the avatars of the play
 | Name              | Description                                                                                                                                                                                                                                                                     |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]]      | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/vitality/#c9e55e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -107,7 +107,7 @@ When [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] reaches 0, you are clo
 </div></div>
                                                                                                                                                                                                                                                            |
 | [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]]       | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/prowess/#9ca385" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -116,7 +116,7 @@ When [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] reaches 0, you are clo
 </div></div>
                                                                                                                                                                                                                                                             |
 | [[Beyond the Veil/Veil Glossary/Defense\|Defense]]       | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/defense/#5300c7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -125,7 +125,7 @@ When [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] reaches 0, you are clo
 </div></div>
                                                                                                                                                                                                                                                             |
 | [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]]     | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/fortitude/#9d80d2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -134,7 +134,7 @@ Your toughness and grit, resisting poison, disease, fatigue, and brute force. **
 </div></div>
                                                                                                                                                                                                                                                           |
 | [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]]        | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/reflex/#3f1d6b" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -143,7 +143,7 @@ Your toughness and grit, resisting poison, disease, fatigue, and brute force. **
 </div></div>
                                                                                                                                                                                                                                                              |
 | [[Beyond the Veil/Veil Glossary/Will\|Will]]          | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/will/#ad8719" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -152,7 +152,7 @@ Your toughness and grit, resisting poison, disease, fatigue, and brute force. **
 </div></div>
                                                                                                                                                                                                                                                                |
 | [[Beyond the Veil/Veil Glossary/Speed/Speed\|Speed]]         | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/speed/speed/#7d8812" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -224,13 +224,13 @@ Starting at Veteran you can start spending XP to make an ability a signature abi
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Beyond the Veil/Veil Content/Skills/Agility\|Agility]]         | Breaking a Fall, Tumbling, Squeezing, Catch a Ledge, Cover Utilization and benefits, Walking on difficult ground, dancing, flexibility. You move with control and snap decisions. Keep balance, tumble through danger, slip tight spaces, recover from falls, and reposition under fire.                             |
 | [[Beyond the Veil/Veil Content/Skills/Athletics\|Athletics]]     | You turn muscle and grit into motion. Force open paths, climb and leap across obstacles, shove and wrestle foes, and keep going under sustained strain. Athletics governs, Stamina, Strength and Endurance.                                                                                                          |
+| [[Beyond the Veil/Veil Content/Skills/Influence\|Influence]]     | Persuasion, diplomacy, debating, negotiation, coercing, deceit and bluffing. You’re good at influencing others, motive, persuasion or charm. Influence also gives you a semblance of leadership skills needed to tarry on in an adventure.                                                                           |
 | [[Beyond the Veil/Veil Content/Skills/Intuition\|Intuition]]     | Sensing emotions, insight or magic. You trust the read beneath the surface. Sense motives and patterns, follow hunches, commune with the world’s currents (mundane or mystical), and choose the right moment to act.                                                                                                 |
 | [[Beyond the Veil/Veil Content/Skills/Perception\|Perception]]   | Sight, Smell, Hearing, Search, Spotting Traps, Tracking Creatures. You notice what others miss. Spot ambushes and traps, sift scenes for clues, track fresh signs, and pick out fleeting tells in the chaos.                                                                                                         |
-| [[Beyond the Veil/Veil Content/Skills/Influence\|Influence]]     | Persuasion, diplomacy, debating, negotiation, coercing, deceit and bluffing. You’re good at influencing others, motive, persuasion or charm. Influence also gives you a semblance of leadership skills needed to tarry on in an adventure.                                                                           |
+| [[Beyond the Veil/Veil Content/Skills/Restoration\|Restoration]] | Treat Wounds, Treat Curses, Treat Afflictions, Autopsy, First Aid, Prevention Medicine, Making Medicine or Potions. You keep people standing. Stabilize the fallen, treat wounds and afflictions, counter toxins and maladies, and prepare field remedies that stave off worse harm.                                 |
 | [[Beyond the Veil/Veil Content/Skills/Smarts\|Smarts]]           | Deductive assessment, Logic and reasoning challenges, cryptography, mathematics, linguistics, strategy. You win with knowledge and synthesis. Recall lore across disciplines, crack codes and puzzles, test hypotheses, and turn information into plans that give your team the edge.                                |
 | [[Beyond the Veil/Veil Content/Skills/Subterfuge\|Subterfuge]]   | Hiding Yourself, Hiding Objects, Hiding in Cover, Silent Movement, Darkness Training, Remove Evidence, Hide your Tracks, Sleight of Hand. You operate where eyes don’t. Vanish into shadows, trail or shake a tail, lift or plant small objects unseen, and infiltrate guarded spaces.                               |
 | [[Beyond the Veil/Veil Content/Skills/Tinkering\|Tinkering]]     | Open Physical Locks, Disable Physical Traps, Operate Machinery, Operate Vehicles, Operate Strange Devices, Forgery, Create Things, customize gear. You converse with mechanisms. Pick and bypass locks, disable or rig devices and traps, repair or modify gear, and coax balky vehicles or constructs into working. |
-| [[Beyond the Veil/Veil Content/Skills/Restoration\|Restoration]] | Treat Wounds, Treat Curses, Treat Afflictions, Autopsy, First Aid, Prevention Medicine, Making Medicine or Potions. You keep people standing. Stabilize the fallen, treat wounds and afflictions, counter toxins and maladies, and prepare field remedies that stave off worse harm.                                 |
 
 { .block-language-dataview}
 
