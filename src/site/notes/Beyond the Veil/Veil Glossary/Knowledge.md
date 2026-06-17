@@ -19,7 +19,7 @@ Knowledge is not a skill, it is simply the sum of what topics you are versed abo
     - Domain knowledge is the knowledge of a specific topic or subject that the character would know about. For example: undead is a domain topic so if a character has this Domain knowledge they would know a lot about undead.
     - Some simple knowledge can be given automatically but usually you will need to do a knowledge check to see what you know about the given topic.
 - **Specialized Knowledge**
-    - Specialized knowledge is always part of a larger domain. But about a specific subset. (eg. Wolves being part of Mammals. When you make a **Specialized **Knowledge check, you roll with** Advantage**.
+    - Specialized knowledge is always part of a larger domain. But about a specific subset. (eg. Wolves being part of Mammals. When you make a Specialized Knowledge check, you roll with Advantage.
     - Specialized Knowledge is often harder to obtain as opposed to regular domain knowledge.
 
 The Director is the judge of what knowledge belongs in which category based on the setting or subject.

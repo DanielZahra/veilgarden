@@ -15,13 +15,14 @@ Veil lets you build characters without chasing small modifiers. As you gain more
 
 # Main Resolution Mechanic
 
-You’ll often make a [[Beyond the Veil/Veil Glossary/Veil Roll\|Veil Roll]]: roll a d20 vs a Difficulty (DC). Every roll matters. Most outcomes use **four degrees of success**. **Mastery** gates power and tiers: Adept, Veteran and Master. **In Veil whenever you have to round numbers, you ‘Always Round Down’. When rolling in Veil, the roll measures your degree of success or failure, even simply when you are attacking with a weapon, the roll measures how successful your damage is rather than measuring whether you hit or miss, then rolling for damage separately. 
-## 4 Degrees of Success and Failure**
+You’ll often make a [[Beyond the Veil/Veil Glossary/Veil Roll\|Veil Roll]]: roll a d20 vs a Difficulty (DC). Every roll matters. Most outcomes use four degrees of success. Mastery gates power and tiers: Adept, Veteran and Master. In Veil whenever you have to round numbers, you ‘Always Round Down’. When rolling in Veil, the roll measures your degree of success or failure, even simply when you are attacking with a weapon, the roll measures how successful your damage is rather than measuring whether you hit or miss, then rolling for damage separately. 
+
+## 4 Degrees of Success and Failure
 
 When making a Veil Roll against a DC, if you roll 10 or higher than the DC, it is considered a critical success. Conversely if you roll 10 or lower than the DC, it is considered a critical failure. When you roll a 20, on the Veil Roll, your ‘degree of success is increased by one’, conversely if you roll a 1, your degree of success is reduced by 1. The natural 20/1 step applies to the **d20** after considering any modifiers then compare the final total to the check goal to determine degree, applying the step up or down. To achieve more success and avoid failure the party needs to help each other. With Veil having little modifiers, every small bonus counts.
 ## **Boons and Banes**
 
-Veil rolls can be mainly modified with a [[Beyond the Veil/Veil Glossary/Boon\|Boon]] and/or a [[Beyond the Veil/Veil Glossary/Bane\|Bane]]. Boons are bonuses and give you the edge in most situations while Banes are harmful effects, penalties or debilitating situations. Boons and Banes can be minor or major. A **minor** Boon or Bane is a + or - 2 modifier added to the veil roll. While a **major **Boon or Bane is a + or - 4 to the veil roll. Boons and Banes are applied to specific rolls. The feature, condition, ability, or circumstance that provides the boon or bane will specify when it applies.
+Veil rolls can be mainly modified with a [[Beyond the Veil/Veil Glossary/Boon\|Boon]] and/or a [[Beyond the Veil/Veil Glossary/Bane\|Bane]]. Boons are bonuses and give you the edge in most situations while Banes are harmful effects, penalties or debilitating situations. Boons and Banes can be minor or major. A **minor** Boon or Bane is a + or - 2 modifier added to the veil roll. While a major [[Beyond the Veil/Veil Glossary/Boon\|Boon]] or [[Beyond the Veil/Veil Glossary/Bane\|Bane]] is a + or - 4 to the veil roll. Boons and Banes are applied to specific rolls. The feature, condition, ability, or circumstance that provides the boon or bane will specify when it applies.
 ### Boon and Bane stacking
 
 When making a veil roll, there are specific rules that apply when several boons and banes are present.
@@ -31,11 +32,15 @@ When making a veil roll, there are specific rules that apply when several boons 
 - Minor and major boon or banes are additive with each other on the same roll;
     - E.g. If you have a major boon and a minor bane, your roll is made with a +2.
     - E.g.. if you have 3 minor banes and a minor boon, your roll is still made with a -4.
+
 ### **Open Rolls**
 Veil’s dice rolling is usually done in the open for the whole table to see. The only time where a roll is done in secret, it is indicated by a [[Beyond the Veil/Veil Glossary/Secret\|Secret]] trait.
 
+
 ---
+
 # Player Roles
+
 When playing Veil, it is suggested that each player takes some role at the table to make the game flow better and shares the burden of tracking everything.
 
 | Role                     | Description                                                                                                                                                                                                                                                                                                                                      |
@@ -53,7 +58,7 @@ When building your character you start by choosing their origins. You choose a s
 
 ## [[Species\|Species]]
 
-Choose a **species**. Species primarily shape **size, silhouette, and flavor**. Your species has no bearing on what you can do within the game.
+Choose a **species**. Species primarily shape size, silhouette, and flavor. Your species has no bearing on what you can do within the game.
 
 ## [[Origins\|Origins]]
 
@@ -69,9 +74,9 @@ As you gain power in the worlds of Veil, you grow your repertoire of abilities a
 ## Tiers of Play
 The tiers of play are divided into three. Adept, Veteran and Master. These tiers demonstrate your experience, renown and training as a party.
 
-- **Adept**: Adept ranges from the fresh but competent adventurer that is a cut above the rest of their peers. When the town militia or guard fail to combat a threat, Adepts are called in to handle the problem.
-- **Veteran**: As a Veteran, you have had your fair share of adventures, successes and failures. These results are shown in your magical gear, allies and renown you have. When a country leader or king calls on a brave group of adventurers, Veterans will often respond to the call and take on the challenge.
-- **Master**: When you survive life as a veteran and keep accumulating power, wealth, magical gear and artifacts, and experience, your story becomes legendary. You become the Master. As a master, there are very few people in the world that match your ability and skill. Masters deal with the largest of threats that would be an impossible challenge for common mortals.
+- **[[Adept\|Adept]]**: Adept ranges from the fresh but competent adventurer that is a cut above the rest of their peers. When the town militia or guard fail to combat a threat, Adepts are called in to handle the problem.
+- **[[Veteran\|Veteran]]**: As a Veteran, you have had your fair share of adventures, successes and failures. These results are shown in your magical gear, allies and renown you have. When a country leader or king calls on a brave group of adventurers, Veterans will often respond to the call and take on the challenge.
+- **[[Master\|Master]]**: When you survive life as a veteran and keep accumulating power, wealth, magical gear and artifacts, and experience, your story becomes legendary. You become the Master. As a master, there are very few people in the world that match your ability and skill. Masters deal with the largest of threats that would be an impossible challenge for common mortals.
 
 # Experience Points (XP)
 
@@ -100,73 +105,19 @@ You can spend XP as a point buy system. Your available options are based on the 
 
 Characters in Veil are the player characters that act as the avatars of the players in the worlds they play in. The following stats are the basic stats used to allow rolls and rules to interact with what you are doing in the field.
 
-| Name              | Description                                                                                                                                                                                                                                                                     |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]]      | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/vitality/#c9e55e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-When [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] reaches 0, you are closer to death. Vitality represents your strength, energy, endurance , a lively physical or mental vigor. You start with a maximum of 20 [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]]. 
-
-</div></div>
-                                                                                                                                                                                                                                                           |
-| [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]]       | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/prowess/#9ca385" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-[[Beyond the Veil/Veil Glossary/Prowess\|Prowess]] measures your offensive aptitude. You use Prowess for attacks or for using abilities against others. Prowess encompasses all your offensive abilities into one core statistic; this includes most abilities learnt from Skills and Masteries. 
-
-</div></div>
-                                                                                                                                                                                                                                                            |
-| [[Beyond the Veil/Veil Glossary/Defense\|Defense]]       | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/defense/#5300c7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-[[Beyond the Veil/Veil Glossary/Defense\|Defense]] is your ability to block, parry, or avoid attacks. **Base Defense is 10.** Typical starting armor/clothing sets your Defense to **12.** Most attacks target your Defense. 
-
-</div></div>
-                                                                                                                                                                                                                                                            |
-| [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]]     | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/fortitude/#9d80d2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-Your toughness and grit, resisting poison, disease, fatigue, and brute force. **Base Fortitude value is 10** before your Strong/Moderate/Weak bonus. Effects that batter the body often target your [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]]. 
-
-</div></div>
-                                                                                                                                                                                                                                                          |
-| [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]]        | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/reflex/#3f1d6b" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-[[Beyond the Veil/Veil Glossary/Reflex\|Reflex]] represents your quickness and balance, dodging blasts, slipping past traps, and staying on your feet. **Base Reflex is 10** before your Strong/Moderate/Weak bonus. Many hazards and area effects target your [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]]. 
-
-</div></div>
-                                                                                                                                                                                                                                                             |
-| [[Beyond the Veil/Veil Glossary/Will\|Will]]          | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/will/#ad8719" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-[[Beyond the Veil/Veil Glossary/Will\|Will]] represents your resolve and focus, resisting fear, charm, and mental intrusion. **Base Will  is 10** before your Strong/Moderate/Weak bonus. Mind-affecting effects target your [[Beyond the Veil/Veil Glossary/Will\|Will]]. 
-
-</div></div>
-                                                                                                                                                                                                                                                               |
-| [[Beyond the Veil/Veil Glossary/Speed\|Speed]]         | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/speed/#7d8812" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-[[Beyond the Veil/Veil Glossary/Speed\|Speed]] is how far you go with the [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Move\|Move]] action. Most creatures start at **6**. Gear, abilities, and conditions (like [Difficult terrain]) can modify this. (Movements can be measured, in Squares, Meters or Inches using the same value depending on your preferred method of play.) [[Beyond the Veil/Veil Glossary/Movement\|Movement]] is a trait used within Veil to portray the action or ability that includes movement. 
-
-</div></div>
-                                                                                                                                                                                                                                                              |
-| [[Creature Size\|Creature Size]] | Size is controlled by the species you choose.<br>Size can also be altered in steps<br>Sizes include the following: Minuscule (eg. a fly), Tiny (eg. a mouse), Small (eg. a dog), Medium (eg. a human), Large (eg. a bear), Huge (eg. an Elephant), Colossal (eg. a Blue Whale). |
-|                   |                                                                                                                                                                                                                                                                                 |
+| Name              | Description                                                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]]      | When [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] reaches 0, you are closer to death. Vitality represents your strength, energy, endurance , a lively physical or mental vigor. You start with a maximum of 20 [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]].                                                                                                                                                                                                  |
+| [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]]       | [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]] measures your offensive aptitude. You use Prowess for attacks or for using abilities against others. Prowess encompasses all your offensive abilities into one core statistic; this includes most abilities learnt from Skills and Masteries.                                                                                                                                     |
+| [[Beyond the Veil/Veil Glossary/Defense\|Defense]]       | [[Beyond the Veil/Veil Glossary/Defense\|Defense]] is your ability to block, parry, or avoid attacks. **Base Defense is 10.** Typical starting armor/clothing sets your Defense to **12.** Most attacks target your Defense.                                                                                                                                                                                                         |
+| [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]]     | Your toughness and grit, resisting poison, disease, fatigue, and brute force. **Base Fortitude value is 10** before your Strong/Moderate/Weak bonus. Effects that batter the body often target your [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]].                                                                                                                                                                            |
+| [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]]        | [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]] represents your quickness and balance, dodging blasts, slipping past traps, and staying on your feet. **Base Reflex is 10** before your Strong/Moderate/Weak bonus. Many hazards and area effects target your [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]].                                                                                                                                                          |
+| [[Beyond the Veil/Veil Glossary/Will\|Will]]          | [[Beyond the Veil/Veil Glossary/Will\|Will]] represents your resolve and focus, resisting fear, charm, and mental intrusion. **Base Will  is 10** before your Strong/Moderate/Weak bonus. Mind-affecting effects target your [[Beyond the Veil/Veil Glossary/Will\|Will]].
+{ #ad8719}
+                                                                                                                                                                                    |
+| [[Beyond the Veil/Veil Glossary/Speed\|Speed]]         | [[Beyond the Veil/Veil Glossary/Speed\|Speed]] is how far you go with the [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Move\|Move]] action. Most creatures start at **6**. Gear, abilities, and conditions (like [Difficult terrain]) can modify this. (Movements can be measured, in Squares, Meters or Inches using the same value depending on your preferred method of play.) [[Beyond the Veil/Veil Glossary/Movement\|Movement]] is a trait used within Veil to portray the action or ability that includes movement. |
+| [[Creature Size\|Creature Size]] | Size is controlled by the species you choose.<br>Size can also be altered in steps<br>Sizes include the following: Minuscule (eg. a fly), Tiny (eg. a mouse), Small (eg. a dog), Medium (eg. a human), Large (eg. a bear), Huge (eg. an Elephant), Colossal (eg. a Blue Whale).                                                                                                               |
+|                   |                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ## Choose Your Defenses
 
@@ -178,7 +129,7 @@ Choose one **Strong (+4)**, one **Moderate (+2)**, and one **Weak (+0)** among [
 
 ### Masteries and Skill Buying (Unlock)
 
-When you spend XP to learn a Mastery (such as Stormweaver or Swords), you ‘unlock’ the mastery and you can then spend more XP into the mastery itself to learn abilities or upgrade them into signature abilities. When you move into a new **Tier of Play, **you can upgrade your already known masteries to the next tier (which gives you access to more options). To unlock higher tiers of a mastery you need to unlock the previous tier beforehand. (eg. You cannot unlock Master in Swords, unless you were already a Veteran in Swords).
+When you spend XP to learn a Mastery (such as Stormweaver or Swords), you ‘unlock’ the mastery and you can then spend more XP into the mastery itself to learn abilities or upgrade them into signature abilities. When you move into a new Tier of Play, you can upgrade your already known masteries to the next tier (which gives you access to more options). To unlock higher tiers of a mastery you need to unlock the previous tier beforehand. (eg. You cannot unlock Master in Swords, unless you were already a Veteran in Swords).
 
 When you spend XP to learn a Skill Proficiency, your Veil roll for said skill (Such as Subterfuge) is made with advantage (roll 2d20 and take the highest). Unlocking a skill proficiency also allows you to buy skill features that belong to your chosen skill proficiency.  Unlike masteries, once you have a skill proficiency, when you move into the next tier of play, you can simply buy skill features from the next tier without needing to upgrade.
 
@@ -374,7 +325,7 @@ Weapons are grouped by **Family** (e.g., *Swords*) and by **Type** (e.g., *Short
 
 ### **Protection**
 
-You start with standard protective clothing that sets your **Defense to 12.** Its look (leather, chain, etc.) is flavor. You can buy and invest in **Armor, Wards or Vestment Equipment Mastery which** let you modify and upgrade this armor into specific protective clothing and gives specialized traits.
+You start with standard protective clothing that sets your **Defense to 12.** Its look (leather, chain, etc.) is flavor. You can buy and invest in Armor, Wards or Vestment Equipment Mastery which let you modify and upgrade this armor into specific protective clothing and gives specialized traits.
 
 ## Magical Items
 
@@ -416,7 +367,7 @@ Knowledge is not a skill, it is simply the sum of what topics you are versed abo
     - Domain knowledge is the knowledge of a specific topic or subject that the character would know about. For example: undead is a domain topic so if a character has this Domain knowledge they would know a lot about undead.
     - Some simple knowledge can be given automatically but usually you will need to do a knowledge check to see what you know about the given topic.
 - **Specialized Knowledge**
-    - Specialized knowledge is always part of a larger domain. But about a specific subset. (eg. Wolves being part of Mammals. When you make a **Specialized **Knowledge check, you roll with** Advantage**.
+    - Specialized knowledge is always part of a larger domain. But about a specific subset. (eg. Wolves being part of Mammals. When you make a Specialized Knowledge check, you roll with Advantage.
     - Specialized Knowledge is often harder to obtain as opposed to regular domain knowledge.
 
 The Director is the judge of what knowledge belongs in which category based on the setting or subject.
