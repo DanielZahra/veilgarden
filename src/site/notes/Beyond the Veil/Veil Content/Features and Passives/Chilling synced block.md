@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/chilling-synced-block/","dg-note-properties":{}}
+---
+
+| Mastery Level | Effect |
+| --- | --- |
+| Adept | You gain the [[NOTION_PAGE:2c875a22-781a-8054-80a6-eedd50f3d1e1\|NOTION_PAGE:2c875a22-781a-8054-80a6-eedd50f3d1e1]] Feature.<br><br>When you successfully attack a foe with [[NOTION_PAGE:2a175a22-781a-8070-bfc1-f51510138330\|NOTION_PAGE:2a175a22-781a-8070-bfc1-f51510138330]] or they fail saving throws against your [[NOTION_PAGE:27175a22-781a-80b8-9f2a-faf5048cb48a\|NOTION_PAGE:27175a22-781a-80b8-9f2a-faf5048cb48a]] Trait Abilities, you can choose to make them lose 1 [[NOTION_PAGE:26675a22-781a-8084-a712-cd1c30a0ea93\|NOTION_PAGE:26675a22-781a-8084-a712-cd1c30a0ea93]] until [[NOTION_PAGE:2cd75a22-781a-8008-b952-c388bf701774\|NOTION_PAGE:2cd75a22-781a-8008-b952-c388bf701774]] <br><br>[[NOTION_PAGE:2c875a22-781a-8054-80a6-eedd50f3d1e1\|NOTION_PAGE:2c875a22-781a-8054-80a6-eedd50f3d1e1]] is limited to one target, once per turn. |
+| Veteran | Chilling can impact multiple creatures.<br><br>You gain a [[NOTION_PAGE:29775a22-781a-80a6-8e2f-fbfed11bf439\|NOTION_PAGE:29775a22-781a-80a6-8e2f-fbfed11bf439]] [[NOTION_PAGE:2a175a22-781a-8070-bfc1-f51510138330\|NOTION_PAGE:2a175a22-781a-8070-bfc1-f51510138330]] |
+| Master | Chilling can be used multiple times in a single turn.<br><br>Chilling’s effect is increased to 2.<br><br>You gain [[NOTION_PAGE:29775a22-781a-80a5-a1ce-f7e75c5b8cf8\|NOTION_PAGE:29775a22-781a-80a5-a1ce-f7e75c5b8cf8]] against [[NOTION_PAGE:2a175a22-781a-8070-bfc1-f51510138330\|NOTION_PAGE:2a175a22-781a-8070-bfc1-f51510138330]] |

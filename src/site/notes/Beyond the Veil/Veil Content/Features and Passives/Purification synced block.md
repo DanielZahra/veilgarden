@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/purification-synced-block/","dg-note-properties":{}}
+---
+
+| Mastery Level | Effect |
+| --- | --- |
+| Adept | You gain the [[NOTION_PAGE:28475a22-781a-8025-8891-fb0a01e9e8af\|NOTION_PAGE:28475a22-781a-8025-8891-fb0a01e9e8af]] Feature<br><br>Once per turn, when you deal [[NOTION_PAGE:30d75a22-781a-802d-99ae-c3c1dfa8a0cc\|NOTION_PAGE:30d75a22-781a-802d-99ae-c3c1dfa8a0cc]] you can use an action to trigger [[NOTION_PAGE:28475a22-781a-8025-8891-fb0a01e9e8af\|NOTION_PAGE:28475a22-781a-8025-8891-fb0a01e9e8af]]. <br><br>[[NOTION_PAGE:28475a22-781a-8025-8891-fb0a01e9e8af\|NOTION_PAGE:28475a22-781a-8025-8891-fb0a01e9e8af]] heals a target creature within 6 range of you for 3 [[NOTION_PAGE:1dc75a22-781a-805e-974b-ceadff2d79cc\|NOTION_PAGE:1dc75a22-781a-805e-974b-ceadff2d79cc]].<br><br>Damage done is calculated off a single source of damage such as a [[NOTION_PAGE:26675a22-781a-8067-882b-cfe6823f5f59\|NOTION_PAGE:26675a22-781a-8067-882b-cfe6823f5f59]] or Ability. It has to be direct damage. Persistent, falling or environmental damage does not trigger [[NOTION_PAGE:28475a22-781a-8025-8891-fb0a01e9e8af\|NOTION_PAGE:28475a22-781a-8025-8891-fb0a01e9e8af]]. |
+| Veteran | [[NOTION_PAGE:28475a22-781a-8025-8891-fb0a01e9e8af\|NOTION_PAGE:28475a22-781a-8025-8891-fb0a01e9e8af]] range is increased to 9 and you can choose to trigger it in a 3x3 Burst. |
+| Master | [[NOTION_PAGE:28475a22-781a-8025-8891-fb0a01e9e8af\|NOTION_PAGE:28475a22-781a-8025-8891-fb0a01e9e8af]] range is increased to 12 and you can choose to trigger it in a 5x5 Burst. |

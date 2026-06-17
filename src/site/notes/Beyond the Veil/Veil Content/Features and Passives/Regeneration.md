@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/regeneration/","dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":"","Skill/Mastery":["[[Regrowth]]"],"Traits":[],"Rank":["[[Adept]]"]}}
+---
+
+When you apply any [❤️Healing](https://app.notion.com/aeternum-engine/p/Healing-29e75a22781a805ba528d5c73227ef99?pvs=24) to a creature gain 2 [⏱️Persistent](https://app.notion.com/aeternum-engine/p/Persistent-27175a22781a809995f9de6081dbe8fa?pvs=24) [❤️Healing](https://app.notion.com/aeternum-engine/p/Healing-29e75a22781a805ba528d5c73227ef99?pvs=24) to [🧬Vitality](https://app.notion.com/aeternum-engine/p/Vitality-1dc75a22781a805e974bceadff2d79cc?pvs=24) until [🕰️End of Encounter](https://app.notion.com/aeternum-engine/p/End-of-Encounter-2ad75a22781a80afacc8fb6a1bdb0547?pvs=24).

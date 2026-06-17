@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/knowledge-topics/smithing-knowledge/","tags":["SpecializedKnowledge"],"dg-note-properties":{"base":"[[Knowledge Topics.base]]","Type":null,"Description":null,"tags":["SpecializedKnowledge"]}}
+---
+
+You know a good deal about smithing, the art of forging with metal.
