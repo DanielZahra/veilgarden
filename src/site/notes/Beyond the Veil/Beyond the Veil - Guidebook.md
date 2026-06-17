@@ -5,8 +5,6 @@
 
 # **Introduction**
 
-![Beyond the Veil SRD Cover.png](/img/user/Content%20Folder/Media/Beyond%20the%20Veil%20SRD%20Cover.png)
-
 ## What is Beyond the Veil?
 
 Beyond the Veil (Veil) is a high-fantasy tabletop RPG with tactical action based combat, simultaneous turns and flexible horizontal progression that allows anyone to build the character of their dreams with little to no restrictions. There are no classic ability scores or fiddly modifiers. Instead, challenges have a Difficulty Check (DC) and most outcomes use **four degrees of success**. Rolls are rarely modified with additional dice and small bonuses and penalties. Players shape their characters through Masteries, Skills and Equipment, choosing from tactical and narrative options that run on a **3-action economy with 1 Reaction**. Magic and other powers aren’t a spell list, they are expressed as abilities within the masteries or skills that anyone can learn if they meet the prerequisites. Veil is not a game spending time on minute details, or maximizing your attributes and stats. You will find that some features are built so you spend more time roleplaying and enjoying the game rather than tracking modifiers on a character sheet.
