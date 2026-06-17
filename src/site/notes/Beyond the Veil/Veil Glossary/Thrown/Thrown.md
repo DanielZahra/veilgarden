@@ -7,9 +7,6 @@ You can throw this weapon as a ranged attack; it is a ranged weapon when thrown.
 
 
 [[Beyond the Veil/Veil Glossary/Thrown/Thrown 6\|Thrown 6]]
-
 [[Beyond the Veil/Veil Glossary/Thrown/Thrown 9\|Thrown 9]]
-
 [[Beyond the Veil/Veil Glossary/Thrown/Thrown 12\|Thrown 12]]
-
 [[Beyond the Veil/Veil Glossary/Thrown/Thrown 24\|Thrown 24]]

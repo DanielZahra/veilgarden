@@ -10,5 +10,5 @@ To use a [[Beyond the Veil/Veil Glossary/Venom\|Venom]] you make an [[Notion/Uni
 
 ### Ingested Venom
 
-When a [[Beyond the Veil/Veil Glossary/Venom\|Venom]] is ingested by a creature, you roll [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]] as if you had a [[Beyond the Veil/Veil Glossary/Boon/Major Boon\|Major Boon]] applied.
+When a [[Beyond the Veil/Veil Glossary/Venom\|Venom]] is ingested by a creature, you roll [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]] as if you had a [[Beyond the Veil/Veil Glossary/Major Boon\|Major Boon]] applied.
 

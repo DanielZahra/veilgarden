@@ -21,12 +21,12 @@ You’ll often make a [[Beyond the Veil/Veil Glossary/Veil Roll\|Veil Roll]]: ro
 When making a Veil Roll against a DC, if you roll 10 or higher than the DC, it is considered a critical success. Conversely if you roll 10 or lower than the DC, it is considered a critical failure. When you roll a 20, on the Veil Roll, your ‘degree of success is increased by one’, conversely if you roll a 1, your degree of success is reduced by 1. The natural 20/1 step applies to the **d20** after considering any modifiers then compare the final total to the check goal to determine degree, applying the step up or down. To achieve more success and avoid failure the party needs to help each other. With Veil having little modifiers, every small bonus counts.
 ## **Boons and Banes**
 
-Veil rolls can be mainly modified with a [[Beyond the Veil/Veil Glossary/Boon/Boon\|Boon]] and/or a [[Beyond the Veil/Veil Glossary/Bane/Bane\|Bane]]. Boons are bonuses and give you the edge in most situations while Banes are harmful effects, penalties or debilitating situations. Boons and Banes can be minor or major. A **minor** Boon or Bane is a + or - 2 modifier added to the veil roll. While a **major **Boon or Bane is a + or - 4 to the veil roll. Boons and Banes are applied to specific rolls. The feature, condition, ability, or circumstance that provides the boon or bane will specify when it applies.
+Veil rolls can be mainly modified with a [[Beyond the Veil/Veil Glossary/Boon\|Boon]] and/or a [[Beyond the Veil/Veil Glossary/Bane\|Bane]]. Boons are bonuses and give you the edge in most situations while Banes are harmful effects, penalties or debilitating situations. Boons and Banes can be minor or major. A **minor** Boon or Bane is a + or - 2 modifier added to the veil roll. While a **major **Boon or Bane is a + or - 4 to the veil roll. Boons and Banes are applied to specific rolls. The feature, condition, ability, or circumstance that provides the boon or bane will specify when it applies.
 ### Boon and Bane stacking
 
 When making a veil roll, there are specific rules that apply when several boons and banes are present.
-- A [[Beyond the Veil/Veil Glossary/Boon/Boon\|Boon]] or [[Beyond the Veil/Veil Glossary/Bane/Bane\|Bane]]  adds or subtracts 2.
-- A [[Beyond the Veil/Veil Glossary/Boon/Major Boon\|Major Boon]] or [[Beyond the Veil/Veil Glossary/Bane/Major Bane\|Major Bane]] adds or subtracts 4.
+- A [[Beyond the Veil/Veil Glossary/Boon\|Boon]] or [[Beyond the Veil/Veil Glossary/Bane\|Bane]]  adds or subtracts 2.
+- A [[Beyond the Veil/Veil Glossary/Major Boon\|Major Boon]] or [[Beyond the Veil/Veil Glossary/Major Bane\|Major Bane]] adds or subtracts 4.
 - Regardless of many boons or banes you have, the maximum added or subtracted for a roll is +4 or - 4.
 - Minor and major boon or banes are additive with each other on the same roll;
     - E.g. If you have a major boon and a minor bane, your roll is made with a +2.
@@ -50,17 +50,22 @@ When playing Veil, it is suggested that each player takes some role at the table
 ---
 # **Heroes in Veil**
 When building your character you start by choosing their origins. You choose a species/sub-species and 2 origins and pick 4 knowledge topics or you can create your own custom origin . Every character starts with at least one known language. As you put together your origin choices, you build yourself your character’s background which can also be polished with a written backstory if you desire.
+
 ## [[Species\|Species]]
 
 Choose a **species**. Species primarily shape **size, silhouette, and flavor**. Your species has no bearing on what you can do within the game.
+
 ## [[Origins\|Origins]]
 
 Origin represents where you have spent a good part of your life, did you live in a fortified city, or lived in a small village? Did you get into education, profession or job prior to starting the adventure? Origins give you your starting knowledge and some minor unlocks towards progression. Regardless of the origin you start with 10 [[Beyond the Veil/Veil Glossary/Wealth\|Wealth]] , a set of clothing and a [[Backpack\|Backpack]]
+
 ## **Unique Aspect & Backstory**
 
 Your character’s One Aspect (their *unique*) is a special feature invented by you, the player, which sets your character apart from every other person in the world. It is a unique and special trait to your player, and markedly unusual. The intent is that it provides a special flavor to the campaign and can assist the Director in determining how your character can interact with characters and story in the campaign. Your character’s *uniqueness* should not provide general practical value in combat. That is not the intent. The intent is to open up story arcs and fun roleplaying opportunities.
+
 ## Character Progression
 As you gain power in the worlds of Veil, you grow your repertoire of abilities and skills while unlock new ways to improve what you already know. Numbers do not automatically go up. Your character does learn better and stronger abilities, or find strong magical gear as they adventure through the tiers of play. However this is not shown directly in increasing numbers. [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]], Weapon Damage and Ability damage. This applies to both characters and monsters.
+
 ## Tiers of Play
 The tiers of play are divided into three. Adept, Veteran and Master. These tiers demonstrate your experience, renown and training as a party.
 
@@ -151,12 +156,12 @@ Your toughness and grit, resisting poison, disease, fatigue, and brute force. **
 
 </div></div>
                                                                                                                                                                                                                                                                |
-| [[Beyond the Veil/Veil Glossary/Speed/Speed\|Speed]]         | 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/speed/speed/#7d8812" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+| [[Beyond the Veil/Veil Glossary/Speed\|Speed]]         | 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/speed/#7d8812" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-[[Beyond the Veil/Veil Glossary/Speed/Speed\|Speed]] is how far you go with the [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Move\|Move]] action. Most creatures start at **6**. Gear, abilities, and conditions (like [Difficult terrain]) can modify this. (Movements can be measured, in Squares, Meters or Inches using the same value depending on your preferred method of play.) [[Beyond the Veil/Veil Glossary/Movement\|Movement]] is a trait used within Veil to portray the action or ability that includes movement. 
+[[Beyond the Veil/Veil Glossary/Speed\|Speed]] is how far you go with the [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Move\|Move]] action. Most creatures start at **6**. Gear, abilities, and conditions (like [Difficult terrain]) can modify this. (Movements can be measured, in Squares, Meters or Inches using the same value depending on your preferred method of play.) [[Beyond the Veil/Veil Glossary/Movement\|Movement]] is a trait used within Veil to portray the action or ability that includes movement. 
 
 </div></div>
                                                                                                                                                                                                                                                               |
@@ -183,44 +188,45 @@ When you spend XP to learn a Skill Proficiency, your Veil roll for said skill (S
 
 You have mortal limits and when choosing discipline and equipment masteries and skill proficiencies. These limits grow as you move through the tiers of play. This means that when you hit your limit, you cannot spend more XP to learn more Masteries or Skill Proficiencies. This does not stop you from learning from abilities or skill features.
 
-| Tier | Mastery Limit | Skill Proficiency Limit |
-| --- | --- | --- |
-| Adept | 4 | 3 |
-| Veteran | 5 | 4 |
-| Master | 6 | 5 |
+| Tier    | Mastery Limit | Skill Proficiency Limit |
+| ------- | ------------- | ----------------------- |
+| Adept   | 4             | 3                       |
+| Veteran | 5             | 4                       |
+| Master  | 6             | 5                       |
 
-## [[Beyond the Veil/Veil Glossary/Mastery/Mastery\|Mastery]] 
+## [[Beyond the Veil/Veil Glossary/Mastery\|Mastery]] 
 
 A mastery encapsulates your training, education, practice or innate capabilities at performing a specific set of abilities, control of function with particular equipment.
 
-### [[Beyond the Veil/Veil Glossary/Mastery/Discipline Mastery\|Discipline Mastery]]
+### [[Beyond the Veil/Veil Glossary/Discipline Mastery\|Discipline Mastery]]
 
 **Discipline Mastery** is a trained school of techniques, martial, magical, or mixed (e.g., Pyromancy, Berserker, Vanguard). Your rank (Adept, Veteran or Master) in a Discipline gates which abilities and passives you can learn. Higher ranks unlock new actions, features and abilities. You spend XP to learn abilities within the Disciplines you possess or to rank up in the Discipline itself. Each **Discipline Mastery** has a passive or active ability that is unlocked and improved as you invest more XP into the Discipline.
 
-### [[Beyond the Veil/Veil Glossary/Mastery/Equipment Mastery\|Equipment Mastery]] 
+### [[Beyond the Veil/Veil Glossary/Equipment Mastery\|Equipment Mastery]] 
 
 **Equipment Mastery** defines your abilities and proficiencies with weapons, armor and other specialized equipment. As you invest your XP into Equipment masteries, you can learn more abilities and gain passive traits and effects for the chosen piece of equipment. Abilities gained from Equipment Mastery, generally need the equipment to be activated and used.
+
 #### Equipment Families
 
 Some of the Equipment masteries are tied to a family of items rather than a very specific item type. For example, the Sword family of items includes short swords, long swords and great swords. While these weapons have different damage, handling and traits, they share the same equipment mastery tree.
 
-### [[Beyond the Veil/Veil Glossary/Mastery/Companion Mastery\|Companion Mastery]] 
+### [[Beyond the Veil/Veil Glossary/Companion Mastery\|Companion Mastery]] 
 
 Companion Mastery typically involves you controlling another creature as a [[Beyond the Veil/Veil Glossary/Companion\|Companion]] . As you invest XP into this mastery, your companion gets stronger and gains more traits and you both learn more abilities to act in tandem.
 
-### [[Beyond the Veil/Veil Glossary/Mastery/Core Mastery\|Core Mastery]] 
+### [[Beyond the Veil/Veil Glossary/Core Mastery\|Core Mastery]] 
 
-Core mastery is focused on change, adapting or breaking the mold for how you act. A [[Beyond the Veil/Veil Glossary/Mastery/Core Mastery\|Core Mastery]] has a single significant defining feature but has a restricted amount of abilities. Core masteries typically are better suited to support other masteries.
+Core mastery is focused on change, adapting or breaking the mold for how you act. A [[Beyond the Veil/Veil Glossary/Core Mastery\|Core Mastery]] has a single significant defining feature but has a restricted amount of abilities. Core masteries typically are better suited to support other masteries.
 
-### [[Beyond the Veil/Veil Glossary/Signature/Signature\|Signature]] Abilities
+### [[Beyond the Veil/Veil Glossary/Signature\|Signature]] Abilities
 
-Starting at Veteran you can start spending XP to make an ability a signature ability, you can enhance it with new effects or change its effects to do something new during its use. When using a [[Beyond the Veil/Veil Glossary/Signature/Signature\|Signature]] ability you can choose only a **single** signature effect, and you can also choose not to add any effect to your ability. 
+Starting at Veteran you can start spending XP to make an ability a signature ability, you can enhance it with new effects or change its effects to do something new during its use. When using a [[Beyond the Veil/Veil Glossary/Signature\|Signature]] ability you can choose only a **single** signature effect, and you can also choose not to add any effect to your ability. 
 
 # **Skills**
 
 Skills are your aptitude at specific or generic tasks in the world. Skills are what define your characteristics such as your physical, mental aptitude and your senses, both arcane and physical.
 
-| File                                                                | Description                                                                                                                                                                                                                                                                                                          |
+| Name                                                                | Description                                                                                                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Beyond the Veil/Veil Content/Skills/Agility\|Agility]]         | Breaking a Fall, Tumbling, Squeezing, Catch a Ledge, Cover Utilization and benefits, Walking on difficult ground, dancing, flexibility. You move with control and snap decisions. Keep balance, tumble through danger, slip tight spaces, recover from falls, and reposition under fire.                             |
 | [[Beyond the Veil/Veil Content/Skills/Athletics\|Athletics]]     | You turn muscle and grit into motion. Force open paths, climb and leap across obstacles, shove and wrestle foes, and keep going under sustained strain. Athletics governs, Stamina, Strength and Endurance.                                                                                                          |
@@ -281,12 +287,12 @@ Example:
 
 On a success the party defeats their opponents easily, on a failure, the party defeats the opponents easily but the [[luck\|luck]] die is rolled. If you roll a critical failure (personal roll), you also gain a Reaper’s Mark representing a blunder on your side or the opponents getting a lucky shot on you.
 
-|**Degree**|**Effect**|
-|---|---|
-|Critical Success|You gain 2 successes|
-|Success|You gain 1 success|
-|Failure|You gain a failure|
-|Critical Failure|You gain 2 failures, and you personally gain 1 Reaper’s Mark.|
+| **Degree**       | **Effect**                                                    |
+| ---------------- | ------------------------------------------------------------- |
+| Critical Success | You gain 2 successes                                          |
+| Success          | You gain 1 success                                            |
+| Failure          | You gain a failure                                            |
+| Critical Failure | You gain 2 failures, and you personally gain 1 Reaper’s Mark. |
 
 ### Secret Checks
 
@@ -353,9 +359,9 @@ As you adventure, solve problems, make friends and gain more wealth, you can upg
 
 Cargo is additional storage that you have in your camp, this represents the items that are not carried with the party all the time. [[Beyond the Veil/Veil Glossary/Cargo\|Cargo]] can be used and accessed during [[Beyond the Veil/Veil Glossary/Rest/Rest\|Rest]].
 
-### Gear Slots ([[Beyond the Veil/Veil Glossary/Worn/Worn\|Worn]] Items)
+### Gear Slots ([[Beyond the Veil/Veil Glossary/Worn\|Worn]] Items)
 
- [[Beyond the Veil/Veil Glossary/Worn/Worn\|Worn]] items, gear or weapons allowed them to used without being held and they are on your person.  They might require [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Interact\|Interact]] action to use or [[Beyond the Veil/Veil Glossary/Strike\|Strike]] to be used. [[Beyond the Veil/Veil Glossary/Worn/Worn\|Worn]] [[Beyond the Veil/Veil Content/Weapons/Weapons\|Weapons]]  typically, require a [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]] slot. [[Beyond the Veil/Veil Glossary/Worn/Worn\|Worn]] items include the following categories; [[Beyond the Veil/Veil Glossary/Worn/Boots\|Boots]], [[Beyond the Veil/Veil Glossary/Worn/Eyewear\|Eyewear]], [[Beyond the Veil/Veil Glossary/Worn/Headwear\|Headwear]], [[Beyond the Veil/Veil Glossary/Worn/Cape\|Cape]], [[Beyond the Veil/Veil Glossary/Worn/Gloves\|Gloves]], [[Beyond the Veil/Veil Glossary/Worn/Chestpiece\|Chestpiece]], [[Beyond the Veil/Veil Glossary/Worn/Belt\|Belt]].
+ [[Beyond the Veil/Veil Glossary/Worn\|Worn]] items, gear or weapons allowed them to used without being held and they are on your person.  They might require [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Interact\|Interact]] action to use or [[Beyond the Veil/Veil Glossary/Strike\|Strike]] to be used. [[Beyond the Veil/Veil Glossary/Worn\|Worn]] [[Beyond the Veil/Veil Content/Weapons/Weapons\|Weapons]]  typically, require a [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]] slot. [[Beyond the Veil/Veil Glossary/Worn\|Worn]] items include the following categories; [[Beyond the Veil/Veil Glossary/Boots\|Boots]], [[Beyond the Veil/Veil Glossary/Eyewear\|Eyewear]], [[Beyond the Veil/Veil Glossary/Headwear\|Headwear]], [[Beyond the Veil/Veil Glossary/Cape\|Cape]], [[Beyond the Veil/Veil Glossary/Gloves\|Gloves]], [[Beyond the Veil/Veil Glossary/Chestpiece\|Chestpiece]], [[Beyond the Veil/Veil Glossary/Belt\|Belt]].
 ## Equipment
 
 [[Beyond the Veil/Veil Content/Weapons/Weapons\|Weapons]]
@@ -547,7 +553,7 @@ When you make an attack or strike with a specific damage type, the attack automa
     - Example: You are striking a wolf, which has Defense of 8. You make a Veil Roll and roll a 9, this means your Strike was successful and you resolve accordingly.
 - [[Beyond the Veil/Veil Glossary/Power Attack\|Power Attack]] a power attack is an attack that deals half the damage on a failure or failure. These attacks are usually parts of more abilities or features. 
 - [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Strike Action/Power Strike\|Power Strike]] **Power Strikes, are strikes that deal half damage on failure.
-- **Overpower** - When [[Beyond the Veil/Veil Glossary/Overpower/Overpower\|Overpower]] is present the attack targets the [[Beyond the Veil/Veil Glossary/Defense\|Defense]] normally, however the ability or feature will also target a [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]], [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]] or [[Beyond the Veil/Veil Glossary/Will\|Will]]. When this occurs, the result of the roll made for the attack or strike is used for both checks. An [[Beyond the Veil/Veil Glossary/Overpower/Overpower\|Overpower]] can only be triggered if **any damage** is dealt to [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] of the target. If the whole damage is negated by a [[Beyond the Veil/Veil Glossary/Barrier/Barrier\|Barrier]], a [[Beyond the Veil/Veil Glossary/Boon/Boon\|Boon]] or [[Notion/Universal Actions, Mastery Actions and Activities/Mastery Actions/Shield Block\|Shield Block]] or other damage reductions, [[Beyond the Veil/Veil Glossary/Overpower/Overpower\|Overpower]] is not applied.
+- **Overpower** - When [[Beyond the Veil/Veil Glossary/Overpower/Overpower\|Overpower]] is present the attack targets the [[Beyond the Veil/Veil Glossary/Defense\|Defense]] normally, however the ability or feature will also target a [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]], [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]] or [[Beyond the Veil/Veil Glossary/Will\|Will]]. When this occurs, the result of the roll made for the attack or strike is used for both checks. An [[Beyond the Veil/Veil Glossary/Overpower/Overpower\|Overpower]] can only be triggered if **any damage** is dealt to [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] of the target. If the whole damage is negated by a [[Beyond the Veil/Veil Glossary/Barrier\|Barrier]], a [[Beyond the Veil/Veil Glossary/Boon\|Boon]] or [[Notion/Universal Actions, Mastery Actions and Activities/Mastery Actions/Shield Block\|Shield Block]] or other damage reductions, [[Beyond the Veil/Veil Glossary/Overpower/Overpower\|Overpower]] is not applied.
 - **Prowess rolls that target Fortitude, Reflex or Will** - some abilities are not meant to target a creature’s Defenses directly. One such attack is the [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Shove\|Shove]] action. In case of shove, it rolls directly against the target’s Fortitude, so you make a Veil Roll modified by your Prowess against the target creature’s Fortitude.
     - Example: You are trying to [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Shove\|Shove]] a wolf backwards, the wolf has a Fortitude of 10. You make a Veil Roll and add your Prowess modifiers. Let’s say you roll a 9 and you have a bonus of 2, leading to a total of 11. Your Shove succeeds.
 - **Unarmed Attacks - **Unarmed attacks have some specific conditions. Unarmed attack can be done with any part of the body such as head butting, punching, kicking and using your tail. Without being at least an Adept in unarmed combat, you deal 1 Crushing Damage and you cannot Engage opponents without training.
@@ -558,7 +564,7 @@ Abilities take many shapes or forms but combined together they form the capabili
 
 ### Basic Defenses
 
-When a [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]] roll targets a one of the [[Beyond the Veil/Veil Glossary/Basic Defenses/Basic Defenses\|Basic Defenses]] (one of the 3), the damage being applied and the degree of success is applied as below:
+When a [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]] roll targets a one of the [[Beyond the Veil/Veil Glossary/Basic Defenses\|Basic Defenses]] (one of the 3), the damage being applied and the degree of success is applied as below:
 
 | Degree           | Effect        |
 | ---------------- | ------------- |
@@ -638,7 +644,7 @@ An emanation is similar to a burst, however an emanation’s source of origin is
 
 Line areas of effect are defined as length by width and the origin of the user of the ability unless indicated otherwise. For example a 10x2 line is 10 long, 2 wide.
 
-### [[Beyond the Veil/Veil Glossary/Cone/Cone\|Cone]]
+### [[Beyond the Veil/Veil Glossary/Cone\|Cone]]
 
 Cone areas of effect are defined only by their length. When using a grid, a cone starts with 1 square adjacent to the entity using the cone and  increases the width by 2 for each meter in length.
 
@@ -659,7 +665,7 @@ You can only engage a creature if you meet certain conditions:
 
 ### Cover
 
-When you’re positioned behind something that can block blows, blunt blasts, you can use the [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Take Cover\|Take Cover]] action to gain the benefits of [[Beyond the Veil/Veil Glossary/Cover/Cover\|Cover]].
+When you’re positioned behind something that can block blows, blunt blasts, you can use the [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Take Cover\|Take Cover]] action to gain the benefits of [[Beyond the Veil/Veil Glossary/Cover\|Cover]].
 
 **When you’re targeted and you have cover**, roll **1d6** after the attack or prowess check is rolled.  On a success, **shift the outcome one step in your favor**:
 

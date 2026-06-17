@@ -12,4 +12,4 @@ When you gain the [[Beyond the Veil/Veil Glossary/Manafused/Manafused\|Manafused
 </div></div>
 
 
-- [[Beyond the Veil/Veil Glossary/Water/Water Damage/Water Damage\|Water Damage]]
+- [[Beyond the Veil/Veil Glossary/Water Damage\|Water Damage]]

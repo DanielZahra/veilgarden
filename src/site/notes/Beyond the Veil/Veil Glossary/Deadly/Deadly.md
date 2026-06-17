@@ -10,12 +10,8 @@
 
 
 [[Beyond the Veil/Veil Glossary/Deadly/Deadly 3\|Deadly 3]]
-
 [[Beyond the Veil/Veil Glossary/Deadly/Deadly 4\|Deadly 4]]
-
 [[Beyond the Veil/Veil Glossary/Deadly/Deadly 6\|Deadly 6]]
-
 [[Beyond the Veil/Veil Glossary/Deadly/Deadly 8\|Deadly 8]]
-
 [[Beyond the Veil/Veil Glossary/Deadly/Deadly 10\|Deadly 10]]
 

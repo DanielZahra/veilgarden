@@ -7,7 +7,7 @@
 
 
 
-- When an object has [[Beyond the Veil/Veil Glossary/Hardness/Hardness\|Hardness]], it reduces any damage taken from all sources except [[Beyond the Veil/Veil Glossary/Anima/Anima\|Anima]] and [[Beyond the Veil/Veil Glossary/Persistent/Persistent Damage\|Persistent Damage]]. 
+- When an object has [[Beyond the Veil/Veil Glossary/Hardness/Hardness\|Hardness]], it reduces any damage taken from all sources except [[Beyond the Veil/Veil Glossary/Anima\|Anima]] and [[Beyond the Veil/Veil Glossary/Persistent/Persistent Damage\|Persistent Damage]]. 
 
 </div></div>
 

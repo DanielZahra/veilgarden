@@ -22,12 +22,12 @@ Example:
 
 On a success the party defeats their opponents easily, on a failure, the party defeats the opponents easily but the [[luck\|luck]] die is rolled. If you roll a critical failure (personal roll), you also gain a Reaper’s Mark representing a blunder on your side or the opponents getting a lucky shot on you.
 
-|**Degree**|**Effect**|
-|---|---|
-|Critical Success|You gain 2 successes|
-|Success|You gain 1 success|
-|Failure|You gain a failure|
-|Critical Failure|You gain 2 failures, and you personally gain 1 Reaper’s Mark.|
+| **Degree**       | **Effect**                                                    |
+| ---------------- | ------------------------------------------------------------- |
+| Critical Success | You gain 2 successes                                          |
+| Success          | You gain 1 success                                            |
+| Failure          | You gain a failure                                            |
+| Critical Failure | You gain 2 failures, and you personally gain 1 Reaper’s Mark. |
 
 
 </div></div>

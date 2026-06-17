@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/sinister/sinister-1/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/sinister/sinister-1/","tags":["WeaponTrait"],"dg-note-properties":{"tags":["WeaponTrait"],"base":"[[Veil Glossary.base]]"}}
 ---
 
 

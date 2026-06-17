@@ -12,4 +12,4 @@ When you gain the [[Beyond the Veil/Veil Glossary/Manafused/Manafused\|Manafused
 </div></div>
 
 
-- [[Beyond the Veil/Veil Glossary/Air/Air Damage/Air Damage\|Air Damage]]
+- [[Beyond the Veil/Veil Glossary/Air Damage\|Air Damage]]

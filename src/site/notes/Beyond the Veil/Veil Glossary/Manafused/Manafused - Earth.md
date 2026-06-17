@@ -12,4 +12,4 @@ When you gain the [[Beyond the Veil/Veil Glossary/Manafused/Manafused\|Manafused
 </div></div>
 
 
-- [[Beyond the Veil/Veil Glossary/Earth/Earth Damage/Earth Damage\|Earth Damage]]
+- [[Beyond the Veil/Veil Glossary/Earth Damage\|Earth Damage]]

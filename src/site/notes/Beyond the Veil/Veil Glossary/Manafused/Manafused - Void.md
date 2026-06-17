@@ -12,4 +12,4 @@ When you gain the [[Beyond the Veil/Veil Glossary/Manafused/Manafused\|Manafused
 </div></div>
 
 
-- [[Beyond the Veil/Veil Glossary/Void/Void Damage/Void Damage\|Void Damage]]
+- [[Beyond the Veil/Veil Glossary/Void Damage\|Void Damage]]
