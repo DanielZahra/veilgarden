@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/emplacement/","tags":["WeaponTrait","Trait"],"dg-note-properties":{"base":"[[Veil Glossary.base]]","tags":["WeaponTrait","Trait"]}}
+---
+
+Weapons or gear with the [[Beyond the Veil/Veil Glossary/Emplacement\|Emplacement]] trait can be placed to be stationary in a spot by using an [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Interact\|Interact]] action. Typically you can use [[Beyond the Veil/Veil Glossary/Emplacement\|Emplacement]] on the same space you’re occupying or on an adjacent spot. Weapon or Gear with [[Beyond the Veil/Veil Glossary/Range/Range\|Range]], [[Beyond the Veil/Veil Glossary/Thrown/Thrown\|Thrown]] traits or other abilities with allow you to use [[Beyond the Veil/Veil Glossary/Emplacement\|Emplacement]] at different ranges. When a weapon such as a [[Beyond the Veil/Veil Content/Weapons/Banner\|Banner]] is emplaced, it counts as a separate entity. Abilities such as [[Beyond the Veil/Veil Glossary/Aura\|Aura]]s that are used on the [[Beyond the Veil/Veil Content/Weapons/Banner\|Banner]] don’t count towards your maximum numbers of Auras. 
