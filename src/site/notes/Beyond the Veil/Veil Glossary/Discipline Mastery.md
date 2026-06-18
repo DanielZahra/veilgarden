@@ -9,7 +9,7 @@
 
 ### [[Beyond the Veil/Veil Glossary/Discipline Mastery\|Discipline Mastery]]
 
-**Discipline Mastery** is a trained school of techniques, martial, magical, or mixed (e.g., Pyromancy, Berserker, Vanguard). Your rank (Adept, Veteran or Master) in a Discipline gates which abilities and passives you can learn. Higher ranks unlock new actions, features and abilities. You spend XP to learn abilities within the Disciplines you possess or to rank up in the Discipline itself. Each **Discipline Mastery** has a passive or active ability that is unlocked and improved as you invest more XP into the Discipline.
+Discipline Mastery represents a trained school of martial, magical, or mixed techniques (e.g., Pyromancy, Berserker, Vanguard). Your rank (Adept, Veteran, or Master) gates which abilities and passive effects you can learn. Spend XP to learn abilities within your Disciplines or to increase the Discipline's rank. Each Discipline grants a unique active or passive feature that improves as you invest XP.
 
 
 </div></div>

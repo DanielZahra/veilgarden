@@ -4,4 +4,4 @@
 
 > These weapons are naturally easy to handle.
 
-When you draw or grip this weapon as part of the same action with a [[Beyond the Veil/Veil Glossary/Strike\|Strike]] or [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Strike Action/Power Strike\|Power Strike]].
+When you draw or grip this weapon as part of the same action with a [[Beyond the Veil/Veil Glossary/Strike\|Strike]] or [[Beyond the Veil/Veil Glossary/Power Strike\|Power Strike]].

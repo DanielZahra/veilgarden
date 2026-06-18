@@ -7,49 +7,29 @@
 
 
 
-# [[Beyond the Veil/Veil Glossary/Initiative\|Initiative]]
+## [[Beyond the Veil/Veil Glossary/Initiative\|Initiative]]
 
-When [[Beyond the Veil/Veil Glossary/Encounter Mode\|Encounter Mode]] starts if your party ‘take’ the initiative your side gets to go first, than the NPCs. Each side gets to take a turn. If more than 2 parties are involved, they all get a turn. Veil using side based, initiative, so typically you get to go first, than the NPCs. NPCs typically go first on an ambush.
-
-[[Beyond the Veil/Veil Glossary/Initiative Action\|Initiative Action]]
-
-When an ability of a feature has the [[Beyond the Veil/Veil Glossary/Initiative Action\|Initiative Action]], it allows it to be used as a reaction just as initiative starts. This represents the quick danger sense of adventurers when faced with adversity.
+Veil uses side-based initiative. When Encounter Mode begins, the player characters take their turns first, followed by the NPCs. In an ambush, the ambushing side acts first. You can use an [[Beyond the Veil/Veil Glossary/Initiative Action\|Initiative Action]] and take your turn!
 
 ### Turns and Rounds
 
-When you take your turn as a party, you all go together and it is considered your turn. The order in which you execute any action is up to you. You can move, attack, use abilities in any order which makes sense. When you’re all done, the other side goes. Some effects with the [[Beyond the Veil/Veil Glossary/Combo\|Combo]] trait allow you to take more simultaneous actions during your turn. When all participants that are part of the encounter have taken a turn, it signifies a round end.
-
----
+The party acts simultaneously during their turn, executing moves, attacks, and abilities in any order. Once all party members finish, the opposing side acts. Abilities with the [[Beyond the Veil/Veil Glossary/Combo\|Combo]] trait allow simultaneous action coordination. A round ends when all factions have completed their turns.
 
 ### Delaying
 
-You may delay, letting the next faction act first and you go after.
-
----
+You can delay your turn, allowing another faction to act first.
 
 ### Ambush
 
-When one side manages to completely surprise the other side, i.e. all creatures one side are unaware of the danger, the Ambushers get to act first and until they are revealed the other side does not get their turn. An ambush continues until the ambushers make an action that reveals them, or the enemies otherwise become aware of danger.
-
-Example:
-
-If the party are trying to sneak in a very good position to attack a group of unaware bandits, the games goes into [[Beyond the Veil/Veil Glossary/Encounter Mode\|Encounter Mode]] as every action counts. The party can use the first round to sneak and get closer and in a better position. If by the end of the round, the enemies are still unaware of the party’s presence the Ambush continues.
-
----
+If one side completely surprises another, the ambushers act first. Ambushees cannot use [[Beyond the Veil/Veil Glossary/Initiative Action\|Initiative Action]]s. The ambush continues until an action reveals the ambushers or the defenders detect the threat.
 
 ### Multi-Faction Battles
 
-In three or more faction conflicts, play proceeds in a different fashion, with the initiating side acting first. Each faction alternates with the next until all have acted. Specifically the multi faction system is activated when the you have allies that join them in the fight.
-
-Example: In a 3-way battle (PCs, Bandits, Guards), the order might be:
-
-1. PC > Bandits > Guards
+In battles with three or more factions, play alternates between factions based on who initiated the conflict.
 
 ### **Combat Timer**
 
-In Veil, the ideal flow is combat is meant to be fast decision making and tactics have to be made on the spot. It is intended that each ‘round’ is concluded in under 10 minutes. That is that you are going in the turn, decide what to do and make all rolls within the 10 minute cap. The same is applied to the director when controlling NPCs. Faster combat allows a game session to move at a better pace and everyone plays more often.
-
-When the turn timer is over, any action in play is resolved and pending actions are lost.
+Combat is designed for rapid decision-making. Each round should conclude in under 10 minutes. Players and the Director must declare actions and resolve rolls within this limit. Unresolved actions are lost when the timer expires.
 
 
 </div></div>

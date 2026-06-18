@@ -9,7 +9,7 @@
 
 ### [[Beyond the Veil/Veil Glossary/Companion Mastery\|Companion Mastery]] 
 
-Companion Mastery typically involves you controlling another creature as a [[Beyond the Veil/Veil Glossary/Companion\|Companion]] . As you invest XP into this mastery, your companion gets stronger and gains more traits and you both learn more abilities to act in tandem.
+[[Beyond the Veil/Veil Glossary/Companion Mastery\|Companion Mastery]] grants control of a [[Beyond the Veil/Veil Glossary/Companion\|Companion]] creature. Spending XP in this mastery increases your companion's strength, grants them new traits, and unlocks cooperative abilities.
 
 
 </div></div>

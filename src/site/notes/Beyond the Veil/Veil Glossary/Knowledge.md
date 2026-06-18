@@ -9,28 +9,22 @@
 
 # Knowledge
 
-When building your character, most choices you make give you knowledge domains or specific knowledge.
-
-Knowledge is not a skill, it is simply the sum of what topics you are versed about. When you have knowledge about a particular domain you can make a knowledge check to see what you know. The knowledge topics do not cover everything, as such it is important to be able to make connections and allow flexibility when making these checks.
+Knowledge represents the sum of topics you understand rather than an active skill. When a topic is relevant, make a Knowledge check. Because knowledge domains are broad, the Director allows flexible connections between topics.
 
 - **Basic Knowledge**
-    - Basic knowledge is what people in a specific area, time, etc would know. This never needs a roll. And most characters are expected to know this as long as they are not extremely far away from home and in a somewhat alien place or different place of existence with different metaphysical laws.
+    - Common information known to local inhabitants. This never requires a roll.
 - **Domain Knowledge**
-    - Domain knowledge is the knowledge of a specific topic or subject that the character would know about. For example: undead is a domain topic so if a character has this Domain knowledge they would know a lot about undead.
-    - Some simple knowledge can be given automatically but usually you will need to do a knowledge check to see what you know about the given topic.
+    - Mastery of a broad topic (e.g., Undead). This requires a Knowledge check to recall specific details.
 - **Specialized Knowledge**
-    - Specialized knowledge is always part of a larger domain. But about a specific subset. (eg. Wolves being part of Mammals. When you make a Specialized Knowledge check, you roll with Advantage.
-    - Specialized Knowledge is often harder to obtain as opposed to regular domain knowledge.
+    - Expertise in a narrow subset of a domain (e.g., Wolves within Mammals). Specialized Knowledge checks gain Advantage.
 
-The Director is the judge of what knowledge belongs in which category based on the setting or subject.
+The Director categorizes information based on the setting.
 
 ## **Knowledge Checks**
 
-**Knowledge Checks,** the Director may roll these in secret. Knowledge checks are only made when the knowledge needed aren’t simple things within a domain. Knowledge checks can only be made **ONCE** per character per topic.
+The Director rolls **Knowledge Checks** in secret. These checks occur only for complex information outside common domain knowledge, and are limited to one attempt per character per topic.
 
-Knowledge checks are meant to be generous, when you have knowledge about a domain that is relevant for the topic, it is assumed that you can roll.
-
-When you have multiple domains that can be used for the check, you gain a Minor Boon for each relevant topic. Such as If you have both mammal lore and mountain lore, and you’re trying to figure out if you know which mammals live in a range of mountains, this roll gets a Boon for possessing both topics.
+Knowledge checks are generous. If multiple domains apply, you gain a Minor Boon for each relevant topic. For example, having both mountain lore and mammal lore grants a Boon when identifying mountain-dwelling beasts.
 
 | **Degree**       | **Effect**                                                |
 | ---------------- | --------------------------------------------------------- |
@@ -41,36 +35,34 @@ When you have multiple domains that can be used for the check, you gain a Minor 
 
 ### Knowledge Checks about Creatures or Monsters
 
-When making the above Knowledge Check about Monsters the check is made about the general creature and monster type rather than a specific creature.
+Knowledge checks about monsters apply to the general species rather than a specific individual.
 
 | **Degree** | **Effect** |
 | --- | --- |
-| Critical Success | You know the creature’s abilities (all of them), behaviour, movement types and habitat and general lore about them.<br><br>Any banes or boons the creature might have. |
-| Success | You know the creature’s main ability, behaviour, movement types and habitat and general lore about them. |
+| Critical Success | You know the creature’s abilities (all of them), behavior, movement types, habitat, general lore, and any boons or banes. |
+| Success | You know the creature’s main ability, behavior, movement types, habitat, and general lore. |
 | Failure | You know general lore about the creature. |
 | Critical Failure | You know nothing about the creature. |
 
 ## **Learning and gaining Knowledge**
 
-Throughout your career and adventures you will be exposed to many fascinating things, dangers, treasure and also find yourself learning a lot of new things. A wise one once said that knowledge is power, thus gaining knowledge can be very beneficial for you and yours.
+Adventurers expand their knowledge through study and experience.
 
 ### Knowledge Capacity
 
-Basic knowledge and languages are not part of the knowledge capacity. For each [[Beyond the Veil/Veil Glossary/Knowledge\|Knowledge]] domain or specialized topic you know you add 1 knowledge capacity. This capacity is used as a Knowledge DC when you roll the [[Learning\|Learning]] Checks. The Knowledge DC is a unique mechanic used specifically for learning objects and is not increased like the other DCs within Veil.
+Basic knowledge and languages do not count against your capacity. Each known [[Beyond the Veil/Veil Glossary/Knowledge\|Knowledge]] domain or specialized topic adds 1 to your knowledge capacity. This capacity serves as the DC for [[Learning\|Learning]] checks. Unlike other DCs in Veil, the Learning DC is determined solely by your current capacity.
 
 ### Learning new things
 
-When you want to learn new things you need to do three things. Acquire material to study, study and repeat until you succeed.
+To learn a new topic, you must acquire study material, study during downtime, and succeed on a check.
 
 ### Study Material
 
-When you want to study a particular domain, or rare information, you need to acquire the study material. This could be a book, a magical item or codex, studying under a tutor or master etc. The Director is responsible for deciding if the provided conditions allow for learning.
+Learning requires appropriate study material, such as a book, a codex, a magical item, or a tutor. The Director determines if your materials and conditions are sufficient.
 
 ### Learning Downtime
 
-Learning (Downtime). Spend downtime studying appropriate material. You make a [[Beyond the Veil/Veil Glossary/Skill Check/Smarts Skill Check\|Smarts Skill Check]] + Learning bonuses; succeed if the total exceeds your current knowledge DC. On failure, you gain Deep Study on your next attempt for this Domain (stacking for the same Domain).
-
-The more you know the harder it becomes to learn more. When you make a Learning roll, you roll [[Beyond the Veil/Veil Glossary/Skill Check/Smarts Skill Check\|Smarts Skill Check]] + any bonuses to learning. You have to match or beat your current DC. Several features will increase your knowledge capacity and also add bonuses to your learning.
+To learn a domain, spend a downtime action studying. Roll a [[Beyond the Veil/Veil Glossary/Skill Check/Smarts Skill Check\|Smarts Skill Check]] plus learning bonuses. If the total meets or exceeds your current Knowledge DC, you learn the domain. On a failure, you gain a stacking Deep Study +2 bonus for subsequent attempts.
 
 | Degree           | Effect                                               |
 | ---------------- | ---------------------------------------------------- |
@@ -80,7 +72,7 @@ The more you know the harder it becomes to learn more. When you make a Learning 
 
 ### Deep Study
 
-When you fail a Learning Roll, the next learning roll about the same Domain is made with a Bonus. This Bonus stacks on itself to ensure that eventually you succeed.
+Failing a Learning Roll grants a stacking +2 bonus to subsequent rolls for that specific Domain, ensuring eventual success.
 
 
 </div></div>

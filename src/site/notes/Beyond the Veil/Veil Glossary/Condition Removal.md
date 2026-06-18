@@ -7,7 +7,7 @@ When an effect applies [[Beyond the Veil/Veil Glossary/Condition Removal\|Condit
 ---
 
 - Exceptions:
-    - Conditions that require actions to remove, such as [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Grapple\|Grapple]], [[Beyond the Veil/Veil Content/Conditions/Prone\|Prone]] or [[Beyond the Veil/Veil Content/Conditions/Restrained\|Restrained]] cannot be removed.  
+    - Conditions that require actions to remove, such as [[Beyond the Veil/Veil Content/Actions/Grapple\|Grapple]], [[Beyond the Veil/Veil Content/Conditions/Prone\|Prone]] or [[Beyond the Veil/Veil Content/Conditions/Restrained\|Restrained]] cannot be removed.  
     - Conditions that are created from a situation or environment, such as being [[Beyond the Veil/Veil Content/Conditions/Exposed\|Exposed]] with 2 other creatures next to you, or having [[Difficult Terrain\|Difficult Terrain]] due to the ground you’re walking on.
     - Conditions that are permanent cannot be removed.
 - [[Beyond the Veil/Veil Glossary/Condition Removal\|Condition Removal]] can only be applied to a willing creature.

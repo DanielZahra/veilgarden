@@ -9,11 +9,11 @@
 
 ### [[Beyond the Veil/Veil Glossary/Equipment Mastery\|Equipment Mastery]] 
 
-**Equipment Mastery** defines your abilities and proficiencies with weapons, armor and other specialized equipment. As you invest your XP into Equipment masteries, you can learn more abilities and gain passive traits and effects for the chosen piece of equipment. Abilities gained from Equipment Mastery, generally need the equipment to be activated and used.
+Equipment Mastery defines your proficiency with weapons, armor, and specialized gear. Spending XP in Equipment Masteries unlocks abilities and passive traits. These abilities require you to wield or wear the corresponding equipment to activate them.
 
 #### Equipment Families
 
-Some of the Equipment masteries are tied to a family of items rather than a very specific item type. For example, the Sword family of items includes short swords, long swords and great swords. While these weapons have different damage, handling and traits, they share the same equipment mastery tree.
+Equipment Masteries apply to families of items (e.g., Swords) and specific types (e.g., Short Sword, Long Sword). Equipment Mastery applies to Type, while runes and certain abilities target Family. Types within a Family share a core identity (such as damage type, basic attacks, and critical effects) but differ in hands, reach, and traits. Weapons belonging to multiple families can use abilities from both masteries.
 
 
 </div></div>

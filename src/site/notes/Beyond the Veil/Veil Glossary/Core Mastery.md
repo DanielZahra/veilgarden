@@ -9,7 +9,7 @@
 
 ### [[Beyond the Veil/Veil Glossary/Core Mastery\|Core Mastery]] 
 
-Core mastery is focused on change, adapting or breaking the mold for how you act. A [[Beyond the Veil/Veil Glossary/Core Mastery\|Core Mastery]] has a single significant defining feature but has a restricted amount of abilities. Core masteries typically are better suited to support other masteries.
+[[Beyond the Veil/Veil Glossary/Core Mastery\|Core Mastery]] provides a single defining, rule-breaking feature with a limited set of abilities. Core Masteries support and enhance other masteries.
 
 
 </div></div>

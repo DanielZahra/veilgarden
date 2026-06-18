@@ -4,9 +4,9 @@
 
 Effects with the Size Difference trait receive a [[Beyond the Veil/Veil Glossary/Bane\|Bane]] based on size difference. When you use an ability or action with a [[Beyond the Veil/Veil Glossary/Size Difference\|Size Difference]] trait, you receive a [[Beyond the Veil/Veil Glossary/Bane\|Bane]] for each level of size difference between you and your target. 
 
-e.g.. If you are [[Beyond the Veil/Veil Glossary/Medium\|Medium]] sized and using a [[Beyond the Veil/Veil Glossary/Size Difference\|Size Difference]] action such as [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Shove\|Shove]] against a [[Beyond the Veil/Veil Glossary/Large\|Large]] creature, you make your roll with a [[Beyond the Veil/Veil Glossary/Bane\|Bane]]
+e.g.. If you are [[Beyond the Veil/Veil Glossary/Medium\|Medium]] sized and using a [[Beyond the Veil/Veil Glossary/Size Difference\|Size Difference]] action such as [[Beyond the Veil/Veil Content/Actions/Shove\|Shove]] against a [[Beyond the Veil/Veil Glossary/Large\|Large]] creature, you make your roll with a [[Beyond the Veil/Veil Glossary/Bane\|Bane]]
 
-e.g.. If you are [[Beyond the Veil/Veil Glossary/Medium\|Medium]] sized and using a [[Beyond the Veil/Veil Glossary/Size Difference\|Size Difference]] action such as [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Trip\|Trip]] against a [[Beyond the Veil/Veil Glossary/Huge\|Huge]] creature, you make your roll with a [[Beyond the Veil/Veil Glossary/Major Bane\|Major Bane]]. 
+e.g.. If you are [[Beyond the Veil/Veil Glossary/Medium\|Medium]] sized and using a [[Beyond the Veil/Veil Glossary/Size Difference\|Size Difference]] action such as [[Beyond the Veil/Veil Content/Actions/Trip\|Trip]] against a [[Beyond the Veil/Veil Glossary/Huge\|Huge]] creature, you make your roll with a [[Beyond the Veil/Veil Glossary/Major Bane\|Major Bane]]. 
 
 ---
 

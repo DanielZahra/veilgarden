@@ -9,29 +9,15 @@
 
 ### Cover
 
-When you’re positioned behind something that can block blows, blunt blasts, you can use the [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Take Cover\|Take Cover]] action to gain the benefits of [[Beyond the Veil/Veil Glossary/Cover\|Cover]].
+Positioning behind protective obstacles allows you to use the [[Beyond the Veil/Veil Content/Actions/Take Cover\|Take Cover]] action to gain [[Beyond the Veil/Veil Glossary/Cover\|Cover]].
 
-**When you’re targeted and you have cover**, roll **1d6** after the attack or prowess check is rolled.  On a success, **shift the outcome one step in your favor**:
+When targeted while in cover, roll **1d6** after the attack roll. A success shifts the attack's degree of success one step in your favor (e.g., Critical Success to Success, Success to Failure):
+- **Light cover** (low walls, foliage, intervening creatures): Succeeds on a **6**.
+- **Standard cover** (half walls, doorframes): Succeeds on a **5–6**.
+- **Heavy cover** (arrow slits, murder holes): Succeeds on a **4–6**.
+- **Total cover**: Prevents targeting entirely.
 
-- Attacks: Critical to a Successful, Successful to a Failure, Failure to Critical Failure
-
-Cover is relative to each attacker. You might have cover against one foe but not another. Cover applies only if the path from attacker to target is **partially blocked**; if a barrier fully blocks the path, you lack **line of effect** and can’t be targeted through it.
-
-When you use the [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Take Cover\|Take Cover]] action, you gain the benefits of the cover, but the cover does not obscurity you from attacking your foes or supporting your allies.
-
-The [[Beyond the Veil/Veil Glossary/Director\|Director]] usually rules this at a glance. If you need precision, draw a line from the **center of your space** to the **center of the target’s space**:
-
-- The line crossing **terrain/objects,** **standard** cover (or **heavy** if the obstruction is extreme or the target has Taken Cover).
-- The line crossing a **creature,** **light** cover. For area effects, draw from the effect’s **point of origin** to the target’s center.
-
-If a creature standing between you and your target is one or more sizes larger than both of you, it provides standard (not light) cover. Likewise, a creature might be too large to benefit from small terrain (e.g., a Huge beast behind a small trunk of a tree).
-
-Situational rulings can reduce or negate cover. Examples: firing out of an arrow slit next to you suffers no penalty, while incoming shots against you might grant you heavy cover; and the Director can measure from an edge or corner of your space instead of the center when appropriate.
-
-- **Light cover** (low wall, ally, foliage): succeeds on **6** (≈16.7%)
-- **Standard cover** (half wall, doorframe): succeeds on **5-6** (≈33%)
-- **Heavy cover** (arrow slit, narrow murder hole): succeeds on **4-6** (≈50%)
-- **Total cover**: can’t be targeted.
+Cover is relative to each attacker and requires a partially blocked line of effect.
 
 
 </div></div>

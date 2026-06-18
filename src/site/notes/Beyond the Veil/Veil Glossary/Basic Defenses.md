@@ -9,7 +9,7 @@
 
 ### Basic Defenses
 
-When a [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]] roll targets a one of the [[Beyond the Veil/Veil Glossary/Basic Defenses\|Basic Defenses]] (one of the 3), the damage being applied and the degree of success is applied as below:
+When a [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]] roll targets one of the three [[Beyond the Veil/Veil Glossary/Basic Defenses\|Basic Defenses]], apply damage and effects based on the degree of success:
 
 | Degree           | Effect        |
 | ---------------- | ------------- |
@@ -17,6 +17,7 @@ When a [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]] roll targets a one of 
 | Success          | Full Damage   |
 | Failure          | Half Damage   |
 | Critical Failure | No Effect     |
+
 
 </div></div>
 

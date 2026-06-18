@@ -9,11 +9,7 @@
 
 ## [[Beyond the Veil/Veil Glossary/Downtime Mode\|Downtime Mode]]
 
-[[Beyond the Veil/Veil Glossary/Downtime Mode\|Downtime Mode]] is where you can rest and recover for you next leg in the journey. Every day when the you sets up camp or sleeps in an inn, you have some downtime.
-
-A [[Beyond the Veil/Veil Glossary/Downtime Activity\|Downtime Activity]] can be performed during said downtime. Downtime is measured in 1 single period of rest or extended to days, weeks, months or years. (This is decided by the Director). Downtime activities can be expanded and are deeply linked to Campcraft unlocks.
-
-[[Take a Break\|Take a Break]]
+[[Beyond the Veil/Veil Glossary/Downtime Mode\|Downtime Mode]] resolves rest and recovery. Setting up camp or staying at an inn grants downtime, during which characters perform [[Beyond the Veil/Veil Glossary/Downtime Activity\|Downtime Activity]] options linked to Campcraft.
 
 
 </div></div>

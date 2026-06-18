@@ -10,7 +10,7 @@ You attack with a weapon you're wielding or with an unarmed attack, targeting on
 **Failure**: You deal no damage
 
 ---
-Some abilities may call for a [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Strike Action/Power Strike\|Power Strike]], this special [[Beyond the Veil/Veil Glossary/Strike\|Strike]] has the below effects.
+Some abilities may call for a [[Beyond the Veil/Veil Glossary/Power Strike\|Power Strike]], this special [[Beyond the Veil/Veil Glossary/Strike\|Strike]] has the below effects.
 
 **Critical Success:** You deal double weapon [[Beyond the Veil/Veil Glossary/Base Damage\|Base Damage]].
 **Success:** You deal normal weapon [[Beyond the Veil/Veil Glossary/Base Damage\|Base Damage]].

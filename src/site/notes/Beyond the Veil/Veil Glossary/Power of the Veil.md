@@ -9,29 +9,16 @@
 
 ## [[Beyond the Veil/Veil Glossary/Power of the Veil\|Power of the Veil]] 
 
-Veil Points allow you to take some agency in moving the needle for the story. They are a meta currency you can use when a need arises. Veil Points are also called VP in short.
+Veil Points (VP) are a meta-currency used to influence the narrative.
 
 ### Veil Points Basics
 
-- You gain 1 veil point at the beginning of a session, you cannot have more than one veil point.
-- Veil points can be used to use any ability with a normal cooldown to remove the cooldown.
-- **Stretch Your Powers**
-    - You can use the [[Beyond the Veil/Veil Glossary/Power of the Veil\|Power of the Veil]] to use your powers in an unusual or unexpected way.
-    - This stretch has to be something that your abilities cannot currently do but is within limits what is achievable in the world.
-        - Stretch Your Powers cannot be used in [[Beyond the Veil/Veil Glossary/Encounter Mode\|Encounter Mode]]
-    - The [[Beyond the Veil/Veil Glossary/Director\|Director]] decides the outcome.
-- **Deus Ex Machina**
-    - When you meet an unforeseen event that you might be unprepared for, using the[[Beyond the Veil/Veil Glossary/Power of the Veil\|Power of the Veil]] might allow you to alter the story in your favor
-        - e.g. You wanted to sneak in a mansion, when you show up, the mansions has several patrols. You can use Deux Ex Machina, to say that you would have tried to bribe (skill check) some of the patrols to not show up for work that day.
-        - e.g.. You need to find a specific piece of information in a city you know, you can spend a veil point so attempt assuming you know someone (skill check) and can convince them to help.
-        - e.g.. You were tasked with exploring a dungeon for a small village and getting rid of some spiders within. When you arrive at the dungeon you realize the entrance is a deep well but you have no rope. In this case, you can spend a veil point to state that you could have asked the villagers and they would have indicated that rope was needed to access the dungeon. So in this case you would have brought a rope with you.
-- **Will into existence**
-    - if there is a question whether something reasonable exists in the world, the players can make it happen by spending a veil point.
-        - For example, the party is escaping and need to jump off a rooftop, they can use the will into existence to have a bale of loose and soft hay on the floor to soften the landing.
-        - Example 2: A barred home, are there windows that are open, spending a veil point here can make sure there is one.
-- Devil’s Bargain
-    - When a player wants to use a Veil Point but does not have any, they can ask for a Devil’s Bargain, where the Director may or may not grant a Veil Point. If the Veil point is granted there is always a cost.
-        - The cost usually is usually a [[Complications\|Complications]] or a contract where the player cannot say no to the director.
+- Characters start each session with 1 VP (maximum capacity of 1).
+- Spend 1 VP to bypass an ability's standard cooldown.
+- **Stretch Your Powers**: Spend 1 VP outside of combat to use an ability in a creative, non-standard way. The Director determines the outcome.
+- **Deus Ex Machina**: Spend 1 VP to retroactively prepare for an unforeseen hazard or establish a narrative connection.
+- **Will into existence**: Spend 1 VP to establish the presence of a reasonable, helpful environmental feature (such as a hay bale to soften a fall).
+- **Devil’s Bargain**: If you have 0 VP, you can request a VP from the Director in exchange for a Complication or future narrative obligation.
 
 
 </div></div>

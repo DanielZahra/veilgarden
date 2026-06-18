@@ -12,22 +12,17 @@
 
 ### Reaper’s Marks
 
-Reaper’s Marks show how close a hero is to dying. They represent the wounds, injuries, stress and trauma a party of heroes suffer as they adventure, fight and suffer dangers of the world.
+[[Beyond the Veil/Veil Glossary/Reaper’s Mark\|Reaper’s Mark]]s track how close a hero is to permanent death, representing wounds, injuries, and trauma. Each hero has a maximum of 6 Reaper's Marks; reaching 6 results in permanent death.
 
-Each Hero starts with a maximum of 6 Reaper’s Marks. Once a hero reaches 6 Reaper’s Marks, they die permanently.
-
-- When you reach 0 [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]], you immediately gain a Reaper’s Mark. 
-	- This signifies that you’re at your limits and any further damage you take gives you another [[Beyond the Veil/Veil Glossary/Reaper’s Mark\|Reaper’s Mark]].
-- If you take damage equal to double your Maximum [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]], you die outright. (this is considered a [[Beyond the Veil/Veil Glossary/Fatality\|Fatality]])
-- If you take damage Equal to your maximum [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] but lower than 2x your maximum [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]], you go [[Beyond the Veil/Veil Content/Conditions/Unconscious\|Unconscious]] (this is considered a [[Beyond the Veil/Veil Glossary/Colossal Blow\|Colossal Blow]])
-- Reaper’s Marks are reduced by two with every [[Beyond the Veil/Veil Glossary/Rest/Rest\|Rest]]
-    - Skills, Consumables and Abilities might allow you to recover more quickly.
-    - This does mean that resting in a dungeon doesn’t typically automatically clear all marks.
+- Reaching 0 [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] immediately inflicts 1 Reaper's Mark. Any further damage taken while at 0 Vitality inflicts an additional Reaper's Mark.
+- Taking damage equal to double your maximum [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] results in instant death ([[Beyond the Veil/Veil Glossary/Fatality\|Fatality]]).
+- Taking damage equal to or exceeding your maximum [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] (but less than double) knocks you [[Beyond the Veil/Veil Content/Conditions/Unconscious\|Unconscious]] ([[Beyond the Veil/Veil Glossary/Colossal Blow\|Colossal Blow]]).
+- Rests reduce your Reaper's Marks by 2. Skills, consumables, and abilities can accelerate this recovery.
+- Resting in a dangerous dungeon reduces Reaper's Marks but does not automatically clear them.
 
 ### Hazards
 
-- While out of encounter mode, you can easily stay at full endurance. The party has to expect that Traps are built to hurt, main and ideally kill intruders. So traps likely deal direct Reaper’s Marks instead of [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]].
-    - Some more complicated Traps or Hazard might deal normal damage but these are executed in [[Beyond the Veil/Veil Glossary/Encounter Mode\|Encounter Mode]].
+Outside of combat, characters remain at full vitality. Because traps are designed to mutilate or kill, they deal direct Reaper's Marks instead of Vitality damage. Complex traps and hazards resolve in [[Beyond the Veil/Veil Glossary/Encounter Mode\|Encounter Mode]].
 
 
 </div></div>

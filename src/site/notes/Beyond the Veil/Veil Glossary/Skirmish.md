@@ -10,9 +10,9 @@
 
 ### [[Beyond the Veil/Veil Glossary/Skirmish\|Skirmish]] 
 
-A skirmish is a quick combat [[Beyond the Veil/Veil Glossary/Group Skill Check\|Group Skill Check]] that does not go into the nitty gritty of encounter mode and serves to quickly resolve encounters. A skirmish, is a group skill challenge where you are guaranteed to win and the rolls are made to measure your performance.
+A [[Beyond the Veil/Veil Glossary/Skirmish\|Skirmish]] is a high-level combat [[Beyond the Veil/Veil Glossary/Group Skill Check\|Group Skill Check]] used to resolve minor encounters without entering Encounter Mode. The party is guaranteed to win; rolls measure performance and consequences.
 
-A Skirmish has a set DC, typically particular approaches are better suited than others depending on the situation and their DC is lower. This is handled by the [[Beyond the Veil/Veil Glossary/Director\|Director]] and often not revealed.
+A Skirmish has a set DC. The Director may lower this DC if the party describes a particularly suitable approach (such as charging with [[Beyond the Veil/Veil Content/Skills/Athletics\|Athletics]] or ambushing with [[Beyond the Veil/Veil Content/Skills/Subterfuge\|Subterfuge]]).
 
 Example:
 

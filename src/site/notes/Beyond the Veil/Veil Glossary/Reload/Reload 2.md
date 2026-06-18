@@ -8,7 +8,7 @@
 
 
 
-- These Weapons Require a [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Reload Action\|Reload Action]] Action between each strike or attack. 
+- These Weapons Require a [[Beyond the Veil/Veil Content/Actions/Reload Action\|Reload Action]] Action between each strike or attack. 
 
 </div></div>
 
@@ -17,6 +17,6 @@
 
 
 
-- When [[Beyond the Veil/Veil Glossary/Reload/Reload\|Reload]] is followed by a number, it requires an additional [[Notion/Universal Actions, Mastery Actions and Activities/Universal  Actions/Reload Action\|Reload Action]]  to prepare the weapon. 
+- When [[Beyond the Veil/Veil Glossary/Reload/Reload\|Reload]] is followed by a number, it requires an additional [[Beyond the Veil/Veil Content/Actions/Reload Action\|Reload Action]]  to prepare the weapon. 
 
 </div></div>
