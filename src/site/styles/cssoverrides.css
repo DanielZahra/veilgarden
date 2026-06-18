@@ -1,0 +1,15 @@
+:root {
+    /* Unlocks the main reading view width */
+    --dg-content-max-width: 60%; 
+    
+    /* Optional: Shrink sidebars slightly to give content more room */
+    --dg-sidebar-max-width: 260px;
+}
+
+/* Force layout container breakout for wider displays */
+@media (min-width: 1150px) {
+    .content {
+        max-width: var(--dg-content-max-width) !important;
+        width: 100% !important;
+    }
+}
