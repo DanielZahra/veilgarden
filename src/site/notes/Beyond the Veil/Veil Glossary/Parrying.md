@@ -8,6 +8,6 @@ You use your weapon to deflect the attack, turning the hit into a miss or a fail
 
 ---
 
-**Trigger** A creature makes an [[Beyond the Veil/Veil Glossary/Attack\|Attack]] that is a [[Beyond the Veil/Veil Glossary/Close Succcess\|Close Succcess]] against your [[Beyond the Veil/Veil Glossary/Defense\|Defense]]. Alternatively, you can turn a failed attack into a critical failure.
+**Trigger** A creature makes an [[Beyond the Veil/Veil Glossary/Attack\|Attack]] that is a [[Beyond the Veil/Veil Glossary/Close Success\|Close Success]] against your [[Beyond the Veil/Veil Glossary/Defense\|Defense]]. Alternatively, you can turn a failed attack into a critical failure.
 
 [[Beyond the Veil/Veil Content/Actions/Parry\|Parry]] can also be used with [[Beyond the Veil/Veil Glossary/Improved Parry\|Improved Parry]].

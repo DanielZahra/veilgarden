@@ -13,4 +13,4 @@ You can only engage a creature if you meet certain conditions:
 - You must not be unconscious or incapacitated.
 - You must be wielding a weapon with the [[Beyond the Veil/Veil Glossary/Melee\|Melee]] or [[Beyond the Veil/Veil Glossary/Reach\|Reach]] trait.
     - For the purposes of Engage (Reach weapons do not engage a creature unless you’re in an [[Beyond the Veil/Veil Glossary/Adjacent\|Adjacent]] space)
-- If you are at least an Adept in [[Beyond the Veil/Veil Glossary/Unarmed\|Beyond the Veil/Veil Glossary/Unarmed]], you can engage a creature without holding a melee weapon.
+- If you are at least an Adept in [[Beyond the Veil/Veil Glossary/Unarmed Attack\|Unarmed Attack]], you can engage a creature without holding a melee weapon.

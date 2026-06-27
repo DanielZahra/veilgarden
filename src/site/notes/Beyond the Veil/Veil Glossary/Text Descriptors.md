@@ -16,3 +16,4 @@
 [[Prowess roll vs Fortitude (Static Roll)\|Prowess roll vs Fortitude (Static Roll)]]
 [[Prowess roll vs Reflex (Static Roll)\|Prowess roll vs Reflex (Static Roll)]]
 [[Prowess roll vs Will (Static Roll)\|Prowess roll vs Will (Static Roll)]]
+[[Prowess roll vs Basic Fortitude (Static Roll)\|Prowess roll vs Basic Fortitude (Static Roll)]]

@@ -3,7 +3,7 @@
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/beyond-the-veil-guidebook/#knowledge" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -16,9 +16,9 @@ Knowledge represents the sum of topics you understand rather than an active skil
 - **Domain Knowledge**
     - Mastery of a broad topic (e.g., Undead). This requires a Knowledge check to recall specific details.
 - **Specialized Knowledge**
-    - Expertise in a narrow subset of a domain (e.g., Wolves within Mammals). Specialized Knowledge checks gain Advantage.
+    - Expertise in a narrow subset of a domain (e.g., Wolves within Mammals). Specialized Knowledge checks gain [[Beyond the Veil/Veil Glossary/Advantage\|Advantage]].
 
-The Director categorizes information based on the setting.
+The [[Beyond the Veil/Veil Glossary/Director\|Director]] categorizes information based on the setting.
 
 ## **Knowledge Checks**
 
@@ -35,14 +35,14 @@ Knowledge checks are generous. If multiple domains apply, you gain a Minor Boon 
 
 ### Knowledge Checks about Creatures or Monsters
 
-Knowledge checks about monsters apply to the general species rather than a specific individual.
+A [[Beyond the Veil/Veil Content/Actions/Knowledge check\|Knowledge check]] about monsters applies to the general species rather than a specific individual.
 
-| **Degree** | **Effect** |
-| --- | --- |
+| **Degree**       | **Effect**                                                                                                                |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Critical Success | You know the creature’s abilities (all of them), behavior, movement types, habitat, general lore, and any boons or banes. |
-| Success | You know the creature’s main ability, behavior, movement types, habitat, and general lore. |
-| Failure | You know general lore about the creature. |
-| Critical Failure | You know nothing about the creature. |
+| Success          | You know the creature’s main ability, behavior, movement types, habitat, and general lore.                                |
+| Failure          | You know general lore about the creature.                                                                                 |
+| Critical Failure | You know nothing about the creature.                                                                                      |
 
 ## **Learning and gaining Knowledge**
 
@@ -50,7 +50,7 @@ Adventurers expand their knowledge through study and experience.
 
 ### Knowledge Capacity
 
-Basic knowledge and languages do not count against your capacity. Each known [[Beyond the Veil/Veil Glossary/Knowledge\|Knowledge]] domain or specialized topic adds 1 to your knowledge capacity. This capacity serves as the DC for [[Learning\|Learning]] checks. Unlike other DCs in Veil, the Learning DC is determined solely by your current capacity.
+Basic knowledge and languages do not count against your capacity. Each known [[Beyond the Veil/Veil Glossary/Knowledge\|Knowledge]] domain or specialized topic adds 1 to your knowledge capacity. This capacity serves as the DC for [[Beyond the Veil/Veil Content/Downtime Activities/Learning\|Learning]] checks. Unlike other DCs in Veil, the Learning DC is determined solely by your current capacity.
 
 ### Learning new things
 
