@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/campcraft-passive-database/venom-extractor/","dg-note-properties":{"base":"[[Campcraft Passive Database.base]]","Requirement":["[[Beyond the Veil/Veil Content/Gear/Alchemy Kit\|Alchemy Kit]]"],"Dossier":["[[Alchemy & Medicine]]"],"Wealth Cost":"4","Text":null,"Traits":[],"Rank":["Adept"],"sortOrderByRank":1}}
+---
+
+You upgrade your [[Beyond the Veil/Veil Content/Gear/Alchemy Kit\|Alchemy Kit]] to include a Venom Extractor. When you encounter, fight or kill a creature that has a natural venom, you can use the [[Beyond the Veil/Veil Content/Exploration Activities/Looting and Harvesting\|Looting and Harvesting]] exploration activity to take the Venom for yourself and you can use it once. When you do this you make a Restoration Skill Check or Poison, Venom and Toxin Knowledge against the DC of the creature. Venom Extractor can be used once per Rest and the Venom gained is consumable and is no longer effective after you Rest.
