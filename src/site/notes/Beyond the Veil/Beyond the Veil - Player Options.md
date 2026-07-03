@@ -8,6 +8,46 @@
 Within this section of Veil, you will find all options that you the player can choose for your character to obtain at the start of their adventure or they learn as they go along in the story they are living and you are telling. Options include, skills, masteries, weapons, protections and any [[Beyond the Veil/Veil Glossary/Campcraft\|Campcraft]] purchases your party decides to make.
 
 
+# Masteries
+
+
+```base
+filters:
+  and:
+    - base == link("Masteries Base.base")
+properties:
+  file.name:
+    displayName: Name
+  Description:
+    displayName: Description
+  Status:
+    displayName: Status
+  Mastery Type:
+    displayName: Mastery Type
+  Knowledge Gained:
+    displayName: Knowledge Gained
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Description
+      - Status
+      - Mastery Type
+      - Knowledge Gained
+    sort:
+      - property: Mastery Type
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.Description: 638
+      note.Status: 181
+      note.Mastery Type: 232
+    rowHeight: medium
+
+```
+
 # Actions
 
 
