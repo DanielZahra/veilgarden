@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/crimson-embroidery/","dg-note-properties":{"base":"[[Passives Database.base]]","MasterySkills":["[[Lifespinner]]"],"rank":"[[Adept]]","sortOrderByRank":1}}
+---
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-content/masteries/lifespinner/#9ebd4a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+| Mastery Level | Effect                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Adept         | You gain the [[Beyond the Veil/Veil Content/Features and Passives/Crimson Embroidery\|Crimson Embroidery]] feature.<br><br>Your [[Beyond the Veil/Veil Glossary/Healing\|Healing]] trait abilities can be used for both harming foes or healing your allies. When using abilities to harm foes, they lose the [[Beyond the Veil/Veil Glossary/Healing\|Healing]] trait . You use the abilities' attack or offensive portions. If it does not have an offensive roll you simply make a [[Prowess roll vs Basic Will\|Prowess roll vs Basic Will]] and this turns [[Beyond the Veil/Veil Glossary/Healing\|Healing]] into [[Beyond the Veil/Veil Glossary/Anima Damage\|Anima Damage]]. |
+| Veteran       |                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Master        |                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+</div></div>

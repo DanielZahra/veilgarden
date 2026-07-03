@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/trickster-s-evasion/","dg-note-properties":{"base":"[[Passives Database.base]]","MasterySkills":["[[Trickster]]"],"rank":"[[Adept]]","sortOrderByRank":1}}
+---
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-content/masteries/trickster/#d037df" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+| Mastery Level | Effect                                                                                                                                                                                                                                                                                                                                                              |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Adept         | You gain the [[Beyond the Veil/Veil Content/Features and Passives/Trickster's Evasion\|Trickster's Evasion]] feature.<br><br>When you take the [[Beyond the Veil/Veil Content/Actions/Dodge\|Dodge]] action you create an illusory double that warps your image.  If you suffer a successful [[Beyond the Veil/Veil Glossary/Attack\|Attack]], you can turn it into a failure.<br><br>[[Beyond the Veil/Veil Content/Features and Passives/Trickster's Evasion\|Trickster's Evasion]] resets at the start of your turn.<br><br>[[Beyond the Veil/Veil Content/Features and Passives/Trickster's Evasion\|Trickster's Evasion]] has no effect on critical attacks against you. |
+| Veteran       | When using [[Beyond the Veil/Veil Content/Features and Passives/Trickster's Evasion\|Trickster's Evasion]], your [[Beyond the Veil/Veil Content/Actions/Dodge\|Dodge]] sets your [[Beyond the Veil/Veil Glossary/Defense\|Defense]] to 15 rather than 14.                                                                                                                                                                                                                                                                      |
+| Master        | TBD                                                                                                                                                                                                                                                                                                                                                                 |
+
+</div></div>

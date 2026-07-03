@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/combat-mobility/","dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":"","Traits":[],"Rank":["[[Adept]]"],"MasterySkills":"[[Agility]]","sortOrderByRank":1}}
+---
+
+Description:: When you use [[Beyond the Veil/Veil Content/Actions/Slip Past\|Slip Past]] action, you increase your degree of success by 1. You learn the [[Beyond the Veil/Veil Content/Abilities/Strike n’ Slide\|Strike n’ Slide]] ability.

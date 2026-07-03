@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/ears-on-the-street/","dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":"","Traits":["[[Beyond the Veil/Veil Glossary/Downtime Activity\|Downtime Activity]]"],"Rank":["[[Adept]]"],"MasterySkills":"[[Influence]]","sortOrderByRank":1}}
+---
+
+- When you take the [[Beyond the Veil/Veil Content/Downtime Activities/Gather Information\|Gather Information]] [[Beyond the Veil/Veil Glossary/Downtime Activity\|Downtime Activity]] you always roll 1 degree of success higher. You can also use the [[Beyond the Veil/Veil Content/Downtime Activities/Gather Information\|Gather Information]] as an [[Exploration Activity\|Exploration Activity]] in a [[Beyond the Veil/Veil Glossary/Safehaven\|Safehaven]] which takes 2 hours.
