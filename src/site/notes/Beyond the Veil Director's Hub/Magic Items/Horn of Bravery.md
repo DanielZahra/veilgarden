@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/horn-of-bravery/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Ability"],"Traits":"Soulbind Worn ","Cooldown":["Normal"],"Rarity":["Exalted"],"Grade":"Veteran"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/horn-of-bravery/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Ability"],"Traits":["[[Soulbind]]","[[Worn]]"],"Cooldown":["Normal"],"Rarity":["Exalted"],"Rank":"[[Veteran]]","image":"[[hornofbravery.png]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/thunderbird/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":[],"Tags":["Bane Electricity"],"MasterySkills":["[[Stormweaver]]"],"Traits":"Air Summon ","defenses":["Basic Reflex"],"Actions":["3 Actions"],"rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/thunderbird/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":[],"Tags":["Bane Electricity"],"MasterySkills":["[[Stormweaver]]"],"Traits":["[[Air]]","[[Beyond the Veil/Veil Glossary/Summon\|Summon]]"],"defenses":["Basic Reflex"],"Actions":["3 Actions"],"rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > You summon an [[Beyond the Veil/Veil Glossary/Elemental Creature\|Elemental Creature]] of pure electric energy, as the air crackles, the birds land in a burst, shocking everything in reach. As the [[Beyond the Veil/Veil Content/Abilities/Thunderbird\|Thunderbird]] prepares to depart, it splits in smaller thunder birds, and they zap in different directions and evaporate in thin air.

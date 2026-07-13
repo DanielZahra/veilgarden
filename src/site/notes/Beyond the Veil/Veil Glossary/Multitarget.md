@@ -3,4 +3,4 @@
 ---
 
 [[Beyond the Veil/Veil Glossary/Multitarget\|Multitarget]]: You can target one additional creature.
-[[Beyond the Veil/Veil Glossary/Multitarget\|Multitarget]]: You can target two additional creature.
+[[Beyond the Veil/Veil Glossary/Multitarget\|Multitarget]]: You can target two additional creatures.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/outsider-shift/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Self]]"],"Tags":[],"MasterySkills":["[[Outsider]]"],"Actions":["1 Action"],"sortOrderByRank":2,"rank":"[[Innate]]"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/outsider-shift/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Self]]"],"Tags":[],"MasterySkills":["[[Outsider]]"],"Actions":["1 Action"],"sortOrderByRank":2,"rank":"[[Innate]]","Traits":["[[Beyond the Veil/Veil Glossary/Transformation\|Transformation]]"]}}
 ---
 
 

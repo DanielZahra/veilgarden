@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/knowledge-is-power/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":[],"Tags":[],"MasterySkills":["Smarts"],"Traits":"Skills","defenses":["Special"],"Actions":"1 Action","Rank":["[[Master]]"],"sortOrderByRank":3}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/knowledge-is-power/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":[],"Tags":[],"MasterySkills":["[[Smarts]]"],"Traits":"Skills","defenses":["Special"],"Actions":"1 Action","Rank":"[[Master]]","sortOrderByRank":3}}
 ---
 
 > 

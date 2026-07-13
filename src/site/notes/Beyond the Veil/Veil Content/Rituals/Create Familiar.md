@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/create-familiar/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["No Skill Check"],"Traits":"Companion ","Cast Time":"Downtime Activity","Primary Skill":["-"],"Kits or Tools":"","Tier":["Discipline"],"Casting Cost":"","Secondary Skill/s":["-"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/create-familiar/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["No Skill Check"],"Traits":"Companion ","Cast Time":"Downtime Activity","Kits or Tools":"","Skills":["-"],"Rank":"[[Innate]]","sortOrderByRank":0}}
 ---
 
 ### Ritual
@@ -18,7 +18,7 @@ From your imagination is born a creature of magic that is bonded to you. It usua
 ### [[Beyond the Veil/Veil Content/Masteries/Bonded Familiar\|Bonded Familiar]] Rules
 
 - You can only have 1 Active Familiar.
-- Familiars do not [[Beyond the Veil/Veil Glossary/Engage\|Engage]] when ajdacent to other creatures.
+- Familiars do not provide [[Beyond the Veil/Veil Glossary/Flanking\|Flanking]] when [[Beyond the Veil/Veil Glossary/Adjacent\|Adjacent]] to other creatures.
 - Your familiar has 3 [[Reaper's Mark\|Reaper's Mark]] not 6.
 - They can sense their master’s emotions as long as they are within 200 meters
     - Familiars can communicate with their masters through very limited emotional signals (such as, Fear, danger, safety, surprise)

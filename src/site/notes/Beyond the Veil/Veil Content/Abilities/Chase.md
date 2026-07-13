@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/chase/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Movement","Action Economy"],"MasterySkills":["Berserker"],"Traits":"Movement ","defenses":["Defense"],"Actions":"Reaction","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/chase/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Movement","Action Economy"],"MasterySkills":["[[Berserker]]"],"Traits":"Movement ","defenses":["Defense"],"Actions":"Reaction","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

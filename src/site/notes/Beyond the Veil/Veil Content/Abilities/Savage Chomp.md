@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/savage-chomp/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Boon Prowess","Condition","Damage"],"MasterySkills":["Berserker"],"Traits":"Attack ","defenses":["Defense"],"Actions":"2 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/savage-chomp/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Boon Prowess","Condition","Damage"],"MasterySkills":["[[Berserker]]"],"Traits":"Attack ","defenses":["Defense"],"Actions":"2 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

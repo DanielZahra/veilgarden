@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/light-of-solas/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["No Skill Check"],"Traits":"Light ","Wealth Cost":"2","Cast Time":"10 minutes","Primary Skill":["-"],"Kits or Tools":"Artificing Kit ","Tier":["Adept"],"Casting Cost":"","Secondary Skill/s":["-"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/light-of-solas/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["No Skill Check"],"Traits":"Light ","Wealth Cost":"2","Cast Time":"10 minutes","Kits or Tools":"Artificing Kit ","Skills":["-"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] 

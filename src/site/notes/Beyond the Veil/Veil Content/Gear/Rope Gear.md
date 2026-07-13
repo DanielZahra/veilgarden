@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/rope-gear/","dg-note-properties":{"base":"[[Gear.base]]","Traits":"Gear ","Dossier":"[[Dungeoneering & Gear]]","Multi-Purchase":true,"Stack":"1","Wealth Cost":"1","Actions":[],"Rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/rope-gear/","dg-note-properties":{"base":"[[Gear.base]]","Traits":["[[Gear]]"],"Dossier":"[[Dungeoneering & Gear]]","Multi-Purchase":true,"Stack":"1","Wealth Cost":"1","Actions":[],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 - This is a 20 meter of strong rope.

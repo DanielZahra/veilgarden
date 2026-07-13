@@ -10,7 +10,7 @@
 | Veteran | You can choose 2 traits for your [[Beyond the Veil/Veil Content/Masteries/Shields\|Shields]]. Up to Veteran.                                                   |
 | Master | You can choose 3 traits for your [[Beyond the Veil/Veil Content/Masteries/Shields\|Shields]]. Up to Master.                                                    |
 
-<!-- Linked database (not supported by Notion API) -->
+
 
 ## TODO
 

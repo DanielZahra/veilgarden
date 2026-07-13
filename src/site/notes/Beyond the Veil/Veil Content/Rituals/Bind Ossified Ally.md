@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/bind-ossified-ally/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["No Skill Check"],"Traits":["[[Beyond the Veil/Veil Glossary/Companion\|Companion]]","[[Sacrilege]]"],"Cast Time":"Downtime Activity","Primary Skill":["-"],"Kits or Tools":"","Tier":["Discipline"],"Casting Cost":"","Secondary Skill/s":["-"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/bind-ossified-ally/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["No Skill Check"],"Traits":["[[Beyond the Veil/Veil Glossary/Companion\|Companion]]","[[Sacrilege]]"],"Cast Time":"Downtime Activity","Kits or Tools":"","Skills":["-"],"Rank":"[[Innate]]","sortOrderByRank":0}}
 ---
 
 ### Ritual

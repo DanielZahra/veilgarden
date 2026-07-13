@@ -4,7 +4,7 @@
 
 
 > [!note] 🗺️
-> Said to be created directly from magic essence of [[Notion/Aeternum Wiki/Orena (Goddess of Life)\|Orena (Goddess of Life)]]
+> Said to be created directly from magic essence of [[Aeternum Lore/Lore Glossary/Orena (Goddess of Life)\|Orena (Goddess of Life)]]
 
 - You can use [[Beyond the Veil/Veil Content/Gear/Ambrosial Divinity\|Ambrosial Divinity]] on a dead creature and bring them back to life with full [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] and removes all [[Reaper's Mark\|Reaper's Mark]]s. 
     - You can also use [[Beyond the Veil/Veil Content/Gear/Ambrosial Divinity\|Ambrosial Divinity]] to remove al [[Reaper's Mark\|Reaper's Mark]]s.

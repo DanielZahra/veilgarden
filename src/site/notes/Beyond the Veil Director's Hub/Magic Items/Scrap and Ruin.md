@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/scrap-and-ruin/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Weapon Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/scrap-and-ruin/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":null,"Traits":["[[Soulbind]]","[[Weapon Rune]]"],"Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[scrapandruin.jpeg]]"}}
 ---
 
 
@@ -15,7 +15,6 @@
 
 ---
 
-> [!note] 💫
 > Scrap and Ruin got its name as the rune originally was intended to be used for tools. Like most other runes, it eventually got transferred and changes into a weapon and battle rune which is used to damage armor. 
 
 When you strike with this weapon, anything it touches changes into slightly corroded rust and is damaged.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/hemlock-v/","dg-note-properties":{"base":"[[Gear.base]]","Traits":"Consumable Venom ","Dossier":"[[Alchemy & Medicine]]","Multi-Purchase":false,"Stack":"1","Wealth Cost":"4","Actions":["1 Interact Action"],"Rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/hemlock-v/","dg-note-properties":{"base":"[[Gear.base]]","Traits":["[[Beyond the Veil/Veil Glossary/Venom\|Venom]]","[[Consumable]]"],"Dossier":"[[Alchemy & Medicine]]","Multi-Purchase":false,"Stack":"1","Wealth Cost":"4","Actions":["1 Interact Action"],"Rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 

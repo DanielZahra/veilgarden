@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/null/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Soulbind Weapon Rune ","Cooldown":["Normal"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/null/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Soulbind Weapon Rune ","Cooldown":["Normal"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[null.png]]"}}
 ---
 
 

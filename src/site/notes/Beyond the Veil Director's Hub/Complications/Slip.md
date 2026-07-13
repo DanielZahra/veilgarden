@@ -1,4 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/complications/slip/","dg-note-properties":{"base":"[[Complications.base]]","Description":"You trip and smash one of the vials in your Loadout.\n\nSelect a Random party member.\n\nYou trip and gain the Prone condition. If you have any Elixir, Oil or Bomb in your Loadout. Pick one randomly and it is Broken. \n\nThe Director also adds a Tension Die in the pool.","Severity":"Trivial"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/complications/slip/","dg-note-properties":{"base":"[[Complications.base]]","Description":null,"Severity":"Trivial"}}
 ---
 
+
+>You trip and smash one of the vials in your Loadout.
+
+  - You make an [[Beyond the Veil/Veil Glossary/Skill Check/Agility Skill Check\|Agility Skill Check]] against a DC 12.
+
+---
+Success: No Effect
+Failure: You gain [[Beyond the Veil/Veil Content/Conditions/Prone\|Prone]],  If you have any [[Beyond the Veil/Veil Glossary/Elixir\|Elixir]], [[Beyond the Veil/Veil Glossary/Oil\|Oil]], [[Beyond the Veil/Veil Glossary/Mutagen\|Mutagen]] or [[Beyond the Veil/Veil Glossary/Bomb\|Bomb]] in your [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]]. Pick one randomly and it is [[Beyond the Veil/Veil Glossary/Broken\|Broken]]

@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/glyph-of-teleportation/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["Varies"],"Traits":"Teleport Glyph ","Wealth Cost":"5","Cast Time":"Varies","Primary Skill":["Tinkering"],"Kits or Tools":"Artificing Kit ","Tier":["Veteran"],"Casting Cost":"10 Wealth Creation, 2 Wealth Activation.","Secondary Skill/s":["Intuition","Smarts","Tinkering","Perception"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/glyph-of-teleportation/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["Varies"],"Traits":["[[Teleport]]","[[Beyond the Veil/Veil Glossary/Glyph\|Glyph]]"],"Wealth Cost":"5","Cast Time":"Varies","Kits or Tools":"Artificing Kit ","Skills":["Intuition","Smarts","Tinkering","Perception"],"Rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
-> [!note] 
-> You combine a mixture of [[Notion/Aeternum Wiki/Materials, Chemicals and Flora/Materials of Aeternum/Aeternite\|Aeternite]] with liquified silver. This mixture is then used as paint to create a magical circle with a doorway within. This locks the [[Beyond the Veil/Veil Glossary/Glyph\|Glyph]] to this location and acts as a doorway to other places in the worlds.
+> You combine a mixture of [[Aeternum Lore/Lore Glossary/Materials of Aeternum/Aeternite\|Aeternite]] with liquified silver. This mixture is then used as paint to create a magical circle with a doorway within. This locks the [[Beyond the Veil/Veil Glossary/Glyph\|Glyph]] to this location and acts as a doorway to other places in the worlds.
 
 ---
 
-**Requirements: The ****[[Beyond the Veil/Veil Content/Rituals/Glyph of Teleportation\|Glyph of Teleportation]]**** need to be placed in a static flat ground or a wall which is at least 5x5 space. Any creature or objects that fit the 5x5 space can travel through.**
+**Requirements: The ****[[Beyond the Veil/Veil Content/Rituals/Glyph of Teleportation\|Glyph of Teleportation]]**** need to be placed in a static flat ground or a wall which is at least 5x5 space. Any creature or objects that fit the 5x5 space can travel through.
 
 ---
 

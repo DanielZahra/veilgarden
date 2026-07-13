@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/binding-power/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Boon Prowess","Condition"],"MasterySkills":["Pactbinder"],"Traits":"","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/binding-power/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Boon Prowess","Condition"],"MasterySkills":["[[Pactbinder]]"],"Traits":"","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

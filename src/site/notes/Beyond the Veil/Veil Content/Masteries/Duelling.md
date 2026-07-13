@@ -10,7 +10,7 @@
 | Veteran       | [[Beyond the Veil/Veil Content/Actions/Duelist’s Counter\|Duelist’s Counter]] no longer uses your reaction.                                                                                                                                      |
 | Master        | TBD                                                                                                                                                                                      |
 
-<!-- Linked database (not supported by Notion API) -->
+
 
 ## TODO
 

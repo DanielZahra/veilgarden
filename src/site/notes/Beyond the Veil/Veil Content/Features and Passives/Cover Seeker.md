@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/cover-seeker/","dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":"","Traits":[],"Rank":["[[Veteran]]"],"MasterySkills":["[[Agility]]","[[Tinkering]]","[[Subterfuge]]"],"sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/cover-seeker/","tags":["TacticalSkill"],"dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":"","Traits":[],"Rank":"[[Veteran]]","MasterySkills":["[[Agility]]","[[Tinkering]]","[[Subterfuge]]"],"sortOrderByRank":2,"tags":["TacticalSkill"]}}
 ---
 
-Description:: When you use the [[Beyond the Veil/Veil Content/Actions/Take Cover\|Take Cover]] action, your cover is increased by one rank. From light cover to standard cover. From standard cover to heavy cover.
+- When you use the [[Beyond the Veil/Veil Content/Actions/Take Cover\|Take Cover]] action, your cover is increased by one rank. From light cover to standard cover. From standard cover to heavy cover.

@@ -7,8 +7,8 @@
 
 When a magical or mana effect is active, the [[Beyond the Veil/Veil Glossary/Director\|Director]] makes a  [[Beyond the Veil/Veil Glossary/Secret\|Secret]] [[Beyond the Veil/Veil Glossary/Skill Check/Intuition Skill Check\|Intuition Skill Check]] against a DC, typically 8.
 
-**Critical Success:** You know exactly where the source of the mana is down to a 1 space range, and you understand the nature of the mana involved.**
-**Success:** You know there is magic or active mana in your [[Beyond the Veil/Veil Content/Actions/Detect Mana\|Detect Mana]] Range, and understand the , and you understand the nature of the mana involved.**
+**Critical Success:** You know exactly where the source of the mana is down to a 1 space range, and you understand the nature of the mana involved.
+**Success:** You know there is magic or active mana in your [[Beyond the Veil/Veil Content/Actions/Detect Mana\|Detect Mana]] Range, and understand the , and you understand the nature of the mana involved.
 **Failure**: No Effect
 
 ---

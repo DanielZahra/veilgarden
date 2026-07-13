@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/nature-s-edge/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Adjacent]]"],"Tags":["Effect"],"MasterySkills":["Envenomer"],"Traits":"Imbue Earth ","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/nature-s-edge/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Adjacent]]"],"Tags":["Effect"],"MasterySkills":["[[Envenomer]]"],"Traits":"Imbue Earth ","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

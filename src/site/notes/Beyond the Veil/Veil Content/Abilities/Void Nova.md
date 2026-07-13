@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/void-nova/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self","Emanation 2"],"Tags":["Damage"],"MasterySkills":["Hollow"],"Traits":"Void ","defenses":["Basic Reflex"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/void-nova/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self","Emanation 2"],"Tags":["Damage"],"MasterySkills":["[[Hollow]]"],"Traits":"Void ","defenses":["Basic Reflex"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] 

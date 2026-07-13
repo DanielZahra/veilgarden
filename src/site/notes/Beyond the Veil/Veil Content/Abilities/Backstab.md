@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/backstab/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":[],"MasterySkills":["Knives","Assassination"],"Traits":"Attack ","defenses":["Defense","Reflex"],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/backstab/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":[],"MasterySkills":["[[Knives]]","[[Assassination]]"],"Traits":"Attack ","defenses":["Defense","Reflex"],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > You rush a foe and immediately tumble to their side or behind them and strike true where their defenses are exposed.

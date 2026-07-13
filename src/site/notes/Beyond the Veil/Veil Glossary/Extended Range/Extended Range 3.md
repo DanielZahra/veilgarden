@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/extended-range/extended-range-3/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/extended-range/extended-range-3/","dg-note-properties":{"base":null}}
 ---
 
 

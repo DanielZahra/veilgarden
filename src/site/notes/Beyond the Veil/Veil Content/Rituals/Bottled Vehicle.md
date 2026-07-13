@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/bottled-vehicle/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":[],"Traits":"","Cast Time":"1 Hour","Primary Skill":[],"Kits or Tools":"","Tier":["Veteran"],"Casting Cost":"","Secondary Skill/s":[]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/bottled-vehicle/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":[],"Traits":"","Cast Time":"1 Hour","Kits or Tools":"","Skills":[],"Rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 - Shrink a vehicle into a bottle that you can carry, 1 hour to shrinky the vehicle.

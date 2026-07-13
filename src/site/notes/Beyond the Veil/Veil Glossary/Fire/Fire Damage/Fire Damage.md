@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/fire/fire-damage/fire-damage/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/fire/fire-damage/fire-damage/","dg-note-properties":{"base":"[[Veil Glossary.base]]"}}
 ---
 
 [[Beyond the Veil/Veil Glossary/Fire/Fire Damage/Fire Damage 2\|Fire Damage 2]]

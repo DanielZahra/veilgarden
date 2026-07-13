@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/roto-helm/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Headwear ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/roto-helm/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":null,"Traits":"Soulbind Worn Headwear ","Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[rotohelm.png]]"}}
 ---
 
 
@@ -9,7 +9,7 @@
 
 ---
 
-> When you [[Beyond the Veil/Veil Content/Actions/High Jump\|High Jump]] the rotor attached to this helmets triggers a [[Notion/Aeternum Wiki/Manatech\|Manatech]] spark which gives you a tiny upload making your jump longer or higher.
+> When you [[Beyond the Veil/Veil Content/Actions/High Jump\|High Jump]] the rotor attached to this helmets triggers a [[Aeternum Lore/Lore Glossary/Manatech\|Manatech]] spark which gives you a tiny upload making your jump longer or higher.
 
 
 

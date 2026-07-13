@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/automark-ocular/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":[],"Traits":"Soulbind Worn Eyewear ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Adept","image":"[[automarkocular.png]]"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/automark-ocular/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":[],"Traits":"Soulbind Worn Eyewear ","Cooldown":["Passive"],"Rarity":["Exalted"],"image":"[[automarkocular.png]]","Rank":"[[Adept]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/strike-burst/strike-burst-2x2/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/strike-burst/strike-burst-2x2/","dg-note-properties":{"base":"[[Veil Glossary.base]]"}}
 ---
 
 

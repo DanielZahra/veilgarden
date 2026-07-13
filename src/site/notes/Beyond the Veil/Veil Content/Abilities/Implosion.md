@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/implosion/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12","Emanation 1"],"Tags":["Damage","Effect"],"MasterySkills":["Pyromancer"],"Traits":"Fire ","defenses":["Basic Fortitude"],"Actions":"2 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/implosion/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Range 12]]","[[Emanation 1]]"],"Tags":["Damage","Effect"],"MasterySkills":["[[Pyromancer]]"],"Traits":["[[Fire]]"],"defenses":["[[Basic Fortitude]]"],"Actions":"2 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

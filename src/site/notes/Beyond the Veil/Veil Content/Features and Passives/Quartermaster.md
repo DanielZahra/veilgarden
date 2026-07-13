@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/quartermaster/","dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":"","Traits":[],"Rank":["[[Adept]]"],"MasterySkills":"[[Tinkering]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/quartermaster/","tags":["TacticalSkill"],"dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":["[[Pack Mule]]"],"Traits":[],"Rank":"[[Veteran]]","MasterySkills":["[[Tinkering]]","[[Athletics]]"],"sortOrderByRank":2,"tags":["TacticalSkill"]}}
 ---
 
-- You gain the [[Beyond the Veil/Veil Content/Abilities/Equipment Handler\|Equipment Handler]] Ability.
-- You gain 1 [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]] Slot.
+- You increase your [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]] slots by 2.

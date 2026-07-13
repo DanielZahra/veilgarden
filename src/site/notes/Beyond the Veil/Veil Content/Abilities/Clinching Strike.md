@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/clinching-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":["Grapple"],"MasterySkills":["Knives"],"Traits":"Attack ","defenses":["Fortitude"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/clinching-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":["Grapple"],"MasterySkills":["[[Knives]]"],"Traits":"Attack ","defenses":["Fortitude"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > You grab your opponent and pull them close and stab them at the same time rendering their defenses useless.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/downtime-activities/runeforging/","dg-note-properties":{"base":"[[Downtime Activities Database.base]]","Effect":"","Requirements":"Artificing Kit ","Related":"","Select":"Safehaven Only"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/downtime-activities/runeforging/","dg-note-properties":{"base":"[[Downtime Activities Database.base]]","Effect":"","Requirements":["[[Beyond the Veil/Veil Content/Gear/Artificing Kit\|Artificing Kit]]"],"Related":null,"Select":null}}
 ---
 
 > [[Beyond the Veil/Veil Content/Downtime Activities/Runeforging\|Runeforging]] is the process where a skilled artisan embed a rune within a weapon, this alters the very nature of the weapons or armor, including magically altering the material of the weapon or giving them elemental properties and giving it magical qualities.

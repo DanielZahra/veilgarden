@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/heartfire-prism/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Free Activation"],"Traits":"Soulbind Worn ","Cooldown":["Normal"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/heartfire-prism/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Free Activation"],"Traits":"Soulbind Worn ","Cooldown":["Normal"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[HeartfirePrism.png]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/steamrolling/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Boots ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/steamrolling/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":null,"Traits":"Soulbind Worn Boots ","Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[steamrolling.png]]"}}
 ---
 
 
@@ -16,4 +16,4 @@ While wearing [[Beyond the Veil Director's Hub/Magic Items/Steamrolling\|Steamro
 ![steamrolling.png](/img/user/Media%20and%20Images/steamrolling.png)
 
 >
-> Originally designed by a librarian in [[Notion/Aeternum Wiki/Places/Location Database/Holy City of Lancewood\|Holy City of Lancewood]] who wanted to move around the halls faster without walking per se.
+> Originally designed by a librarian in [[Aeternum Lore/Places of Aeternum/Holy City of Lancewood\|Holy City of Lancewood]] who wanted to move around the halls faster without walking per se.

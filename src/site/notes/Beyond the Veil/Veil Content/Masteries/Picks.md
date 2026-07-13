@@ -9,7 +9,7 @@
 | Veteran       | You can choose 2 traits for this weapon family. Up to Veteran.  <br>  <br>You can choose a single Modification trait for this weapon family. |
 | Master        | You can choose 3 traits for this weapon family. Up to Master.                                                                                |
 
-<!-- Linked database (not supported by Notion API) -->
+
 
 ## TODO
 

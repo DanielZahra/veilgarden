@@ -10,7 +10,7 @@
 | Veteran | [[Beyond the Veil/Veil Content/Abilities/Zone Stance\|Zone Stance]]’s area is now [[Beyond the Veil/Veil Glossary/Emanation/Emanation\|Emanation]] 2. |
 | Master |   |
 
-<!-- Linked database (not supported by Notion API) -->
+
 
 ## TODO
 

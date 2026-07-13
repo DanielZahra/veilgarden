@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/beyond-the-veil-guidebook/","dg-note-properties":{"cssclasses":null}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/beyond-the-veil-guidebook/","dg-note-properties":{}}
 ---
-
 
 # Introduction
 
 ## What is Beyond the Veil?
 
-Beyond the Veil (Veil) is a high-fantasy tabletop RPG featuring tactical action-based combat, simultaneous turns, and flexible horizontal progression. Players build characters without restriction; the game contains no classic ability scores or fiddly modifiers. Instead, challenges use a Difficulty Check (DC) and outcomes resolve across **four degrees of success**. Rolls do not use additional dice or small situational modifiers. Players shape characters through Masteries, Skills, and Equipment, choosing from tactical and narrative options within a **3-action economy with 1 Reaction**. Magic and other powers are represented as abilities within masteries or skills rather than strict spell lists; any character who meets the prerequisites can learn them. Veil prioritizes roleplaying and tactical choice over tracking character sheet modifiers and minute statistics.
+Beyond the Veil (Veil) is a high-fantasy tabletop RPG featuring tactical action-based combat, simultaneous turns, and flexible horizontal progression. Players build characters without restriction; the game contains no classic ability scores or fiddly modifiers. Instead, challenges use a Difficulty Check (DC) and outcomes resolve across **four degrees of success**. Rolls do not use additional dice or small situational modifiers. Players shape characters through Masteries, Skills, and Equipment, choosing from tactical and narrative options within a **3-action economy with 1 Reaction**. Magic and other powers are represented as abilities within masteries or skills rather than strict power lists attached to a class; any character who meets the prerequisites can learn them. Veil prioritizes roleplaying and tactical choice over tracking character sheet modifiers and minute statistics.
 
 # Creator’s Words
 
@@ -57,7 +56,7 @@ Players should choose a table role to streamline play and distribute tracking re
 # **Heroes in Veil**
 To build a character, select a species or sub-species, choose two origins, and pick four knowledge topics. Alternatively, create a custom origin. Every character starts with at least one known language. These choices establish your character's background, which you can expand with a written backstory.
 
-## [[Notion/Aeternum Wiki/Species/Species\|Species]]
+## [[Aeternum Lore/Lore Glossary/Species\|Species]]
 
 Choose a species to define your character's size, silhouette, and flavor. Species carries no mechanical restrictions on capabilities.
 
@@ -69,8 +68,25 @@ Origins define your character's past residence, education, and profession. Origi
 
 Your character’s Unique Aspect is a custom feature that distinguishes them from everyone else in the setting. This trait provides narrative flavor and helps the Director tie your character to the story. Unique Aspects must not provide combat advantages; their purpose is to inspire story arcs and roleplay.
 
-## Character Progression
-Character progression expands your options rather than inflating numbers. You unlock stronger abilities and find powerful magical gear, but core statistics—such as [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]], weapon damage, and ability damage—remain flat across all tiers of play. This rule applies to both characters and monsters.
+
+# Core Stats
+
+Your core stats govern your powers, state and how you compare to the world around you.
+
+| Name              | Description                                                                                                                                                                                                                                            |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]]      | [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] represents physical and mental endurance. You start with a maximum of 20 Vitality; reaching 0 brings you closer to death.                                                                                                                 |
+| [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]]       | [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]] measures offensive aptitude. Use Prowess for attacks and offensive abilities gained from Skills and Masteries.                                                                                                                             |
+| [[Beyond the Veil/Veil Glossary/Defense\|Defense]]       | [[Beyond the Veil/Veil Glossary/Defense\|Defense]] is your ability to avoid or mitigate attacks. **Base Defense is 10.** Starting armor/clothing sets Defense to 12. Most attacks target Defense.                                                                                             |
+| [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]]     | [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]] represents toughness and grit. It resists poison, disease, fatigue, and brute force. Base Fortitude is 10 before Strong/Moderate/Weak bonuses.                                                                                           |
+| [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]]        | [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]] represents agility and balance. It dodges blasts, traps, and hazards. Base Reflex is 10 before Strong/Moderate/Weak bonuses.                                                                                                                |
+| [[Beyond the Veil/Veil Glossary/Will\|Will]]          | [[Beyond the Veil/Veil Glossary/Will\|Will]] represents resolve and mental focus. It resists fear, charming, and mental intrusion. Base Will is 10 before Strong/Moderate/Weak bonuses.                                                                                                    |
+| [[Beyond the Veil/Veil Glossary/Speed\|Speed]]         | [[Beyond the Veil/Veil Glossary/Speed\|Speed]] defines how many spaces you move with a [[Beyond the Veil/Veil Content/Actions/Move\|Move]] action. Most creatures start with a Speed of 6, which gear, abilities, and conditions (like [[Difficult terrain\|Difficult terrain]]) can modify. [[Beyond the Veil/Veil Glossary/Movement\|Movement]] is the trait for actions that include movement. |
+| [[Creature Size\|Creature Size]] | Species determines your size. Size categories include: Minuscule (e.g., fly), Tiny (e.g., mouse), Small (e.g., dog), Medium (e.g., human), Large (e.g., bear), Huge (e.g., elephant), and Colossal (e.g., blue whale). Size can change in steps.       |
+
+## Choose Your Defenses
+
+Allocate one **Strong (+4)**, one **Moderate (+2)**, and one **Weak (+0)** bonus among [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]], [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]], and [[Beyond the Veil/Veil Glossary/Will\|Will]]. Each base value is 10 before allocation.
 
 ## Tiers of Play
 Play is divided into three tiers: Adept, Veteran, and Master. These tiers measure your party's experience, renown, and training.
@@ -79,64 +95,123 @@ Play is divided into three tiers: Adept, Veteran, and Master. These tiers measur
 - [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]]: Veterans possess established allies, magical gear, and renown. Leaders and kings call on Veterans for national threats.
 - [[Beyond the Veil/Veil Glossary/Master\|Master]]: Masters are legendary figures of unmatched skill. Masters resolve world-ending threats beyond the reach of common mortals.
 
-# Experience Points (XP)
+# Progression & Experience Points ([[Beyond the Veil/Veil Glossary/XP\|XP]])
 
-Characters start with 28 XP (28 Mastery XP and 28 Skill XP). The Director can adjust this starting value to suit the campaign style. XP is split into Mastery XP and Skill XP. Earning XP grants equal points to both pools, but you spend them separately to develop your character in different directions. You earn XP by finding secrets, overcoming challenges, defeating dangerous creatures, and negotiating with NPCs. XP functions as a point-buy system. You can only purchase options available within your current tier of play (Adept, Veteran, or Master).
+You progression expands your options rather than inflating numbers. You unlock stronger abilities and find powerful magical gear, but core statistics, such as [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]], weapon damage, and ability damage remain mostly flat across all tiers of play. This applies to everything with Veil. Every advantage you get makes you stronger against the world.
 
-- Trivial challenges yield 0 XP.
-- Risky challenges yield 1 XP.
-- Highly dangerous challenges yield 2 XP.
-- Extreme challenges yield 3 or 4 XP.
+## Gaining [[Beyond the Veil/Veil Glossary/XP\|XP]]
 
-Spend Mastery XP during character creation or downtime to purchase Masteries (Disciplines and Equipment), Abilities, and Signature Abilities. Spend Skill XP to purchase Skill Proficiencies and Skill Features.
-
-| Item                                 | XP Cost |
-| ------------------------------------ | ------- |
-| Discipline or Equipment Mastery      | 4       |
-| Ability or Signature Ability Upgrade | 2       |
-| Skill Proficiency or Skill Feature   | 4       |
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/xp/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
-# Core Stats
 
-Core stats govern how rolls and rules interact with characters in play.
 
-| Name              | Description                                                                                                                                                                                                                                          |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]]      | [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] represents physical and mental endurance. You start with a maximum of 20 Vitality; reaching 0 brings you closer to death.                                                                                                               |
-| [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]]       | [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]] measures offensive aptitude. Use Prowess for attacks and offensive abilities gained from Skills and Masteries.                                                                                                                           |
-| [[Beyond the Veil/Veil Glossary/Defense\|Defense]]       | [[Beyond the Veil/Veil Glossary/Defense\|Defense]] is your ability to avoid or mitigate attacks. **Base Defense is 10.** Starting armor/clothing sets Defense to 12. Most attacks target Defense.                                                                                           |
-| [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]]     | [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]] represents toughness and grit. It resists poison, disease, fatigue, and brute force. Base Fortitude is 10 before Strong/Moderate/Weak bonuses.                                                                                         |
-| [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]]        | [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]] represents agility and balance. It dodges blasts, traps, and hazards. Base Reflex is 10 before Strong/Moderate/Weak bonuses.                                                                                                              |
-| [[Beyond the Veil/Veil Glossary/Will\|Will]]          | [[Beyond the Veil/Veil Glossary/Will\|Will]] represents resolve and mental focus. It resists fear, charm, and mental intrusion. Base Will is 10 before Strong/Moderate/Weak bonuses.                                                                                                     |
-| [[Beyond the Veil/Veil Glossary/Speed\|Speed]]         | [[Beyond the Veil/Veil Glossary/Speed\|Speed]] defines how many spaces you move with a [[Beyond the Veil/Veil Content/Actions/Move\|Move]] action. Most creatures start with a Speed of 6, which gear, abilities, and conditions (like [Difficult terrain]) can modify. [[Beyond the Veil/Veil Glossary/Movement\|Movement]] is the trait for actions that include movement. |
-| [[Creature Size\|Creature Size]] | Species determines your size. Size categories include: Minuscule (e.g., fly), Tiny (e.g., mouse), Small (e.g., dog), Medium (e.g., human), Large (e.g., bear), Huge (e.g., elephant), and Colossal (e.g., blue whale). Size can change in steps.     |
+[[Beyond the Veil/Veil Glossary/XP\|XP]] stands for Experience points. When you earn more [[Beyond the Veil/Veil Glossary/XP\|XP]] you can spend time [[Beyond the Veil/Veil Content/Downtime Activities/Training\|Training]] and learn more new powers or improve what you already know.  
 
-## Choose Your Defenses
+- Trivial encounters yield 0 XP.
+- Tricky encounters yield 1 XP.
+- Difficult encounters yield 2 XP.
+- Extreme encounters yield 3 XP.
 
-Allocate one **Strong (+4)**, one **Moderate (+2)**, and one **Weak (+0)** bonus among [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]], [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]], and [[Beyond the Veil/Veil Glossary/Will\|Will]]. Each base value is 10 before allocation.
+The [[Beyond the Veil/Veil Glossary/XP\|XP]] values can be modified by the [[Beyond the Veil/Veil Glossary/Director\|Director]] based on the pace of the campaign.
 
-# Masteries and Skills
+</div></div>
 
-Masteries and Skills represent your character's training, gear proficiencies, and expertise. These are the core building blocks for combat, social interaction, and exploration.
 
-### Masteries and Skill Buying (Unlock)
 
-Spending XP on a Mastery (such as Stormweaver or Swords) unlocks it. You can then spend additional XP within that Mastery to learn abilities or upgrade them to signature abilities. Upon entering a new Tier of Play, you can upgrade known Masteries to the next tier to access advanced options. Ranks must be unlocked sequentially (e.g., you must unlock Veteran Swords before unlocking Master Swords).
+## The Journey
+{ #a3e7ae}
 
-When you purchase a Skill Proficiency, your Veil rolls for that skill (such as Subterfuge) gain advantage (roll 2d20 and take the highest). Proficiency unlocks corresponding skill features. Unlike Masteries, you can purchase skill features from higher tiers as soon as you enter those tiers, without upgrading the proficiency itself.
+You start your adventure with 0 [[Beyond the Veil/Veil Glossary/XP\|XP]] at [[Beyond the Veil/Veil Glossary/Adept\|Adept]], as you accumulate [[Beyond the Veil/Veil Glossary/XP\|XP]] and [[Beyond the Veil/Veil Content/Downtime Activities/Training\|Training]] you unlock and learn more. **Immediate Selection (No Hoarding):** When you reach an XP milestone on the Journey table, you must immediately allocate any gained unlocks (such as a [[Beyond the Veil/Veil Glossary/Mastery\|Mastery]], Mastery Ability, Skill Proficiency, etc.) to options available within your current Tier of Play. Unlocks cannot be saved, hoarded, or carried over to a higher tier to bypass standard progression pacing.
 
-You cannot spend XP on Masteries you have not unlocked, or on Skills in which you lack proficiency.
+By [[Beyond the Veil/Veil Glossary/XP\|XP]] 120, you will have 15 [[Beyond the Veil/Veil Glossary/Mastery\|Mastery]], 68 [[Beyond the Veil/Veil Glossary/Ability\|Ability]], 12 [[Beyond the Veil/Veil Glossary/Skill Proficiency\|Skill Proficiency]], 14 [[Beyond the Veil/Veil Glossary/Minor Skill Feat\|Minor Skill Feat]], 13 [[Beyond the Veil/Veil Glossary/Skill Feat\|Skill Feat]] and 13 [[Beyond the Veil/Veil Glossary/Tactical Skill\|Tactical Skill]] .
 
+- [[Beyond the Veil/Veil Glossary/Mastery\|Mastery]] gives you a mastery or upgrade an already known one.
+- [[Beyond the Veil/Veil Glossary/Ability\|Ability]] gives you an ability from your chosen [[Masteries\|Masteries]] or [[Skills\|Skills]] or changing a known [[Beyond the Veil/Veil Glossary/Ability\|Ability]] into a [[Beyond the Veil/Veil Glossary/Signature\|Signature]] Ability.
+- [[Beyond the Veil/Veil Glossary/Skill Proficiency\|Skill Proficiency]] gives you a skill proficiency or upgrade known one.
+
+| [[Beyond the Veil/Veil Glossary/XP\|XP]] | Rank        | [[Beyond the Veil/Veil Content/Downtime Activities/Training\|Training]] Unlocks                                                                                                                                                                                                                           |
+| :----: | :---------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0**  | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]   | 4 <font color="#e36c09">Mastery</font>, 8 <font color="#fbd5b5">Ability</font>, 3 <font color="#31859b">Skill Proficiency</font>, 2 <font color="#953734">Minor Skill Feat</font>, 1 <font color="#8064a2">Skill Feat</font>, 1 Tactical Skill |
+|   2    |             | <font color="#fbd5b5">Ability</font>                                                                                                                                                                                                           |
+|   4    |             | <font color="#fbd5b5">Ability</font>, <font color="#953734">Minor Skill Feat</font>                                                                                                                                                            |
+|   6    |             | <font color="#fbd5b5">Ability</font>, <font color="#8064a2">Skill Feat</font>                                                                                                                                                                  |
+|   8    |             | <font color="#fbd5b5">Ability</font>, Tactical Skill                                                                                                                                                                                           |
+|   10   |             | <font color="#fbd5b5">Ability</font>                                                                                                                                                                                                           |
+|   12   |             | <font color="#fbd5b5">Ability</font>                                                                                                                                                                                                           |
+|   14   |             | <font color="#fbd5b5">Ability</font>, <font color="#953734">Minor Skill Feat</font>                                                                                                                                                            |
+|   16   |             | <font color="#fbd5b5">Ability</font>, <font color="#8064a2">Skill Feat</font>                                                                                                                                                                  |
+|   18   |             | <font color="#fbd5b5">Ability</font>, Tactical Skill                                                                                                                                                                                           |
+|   20   | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | <font color="#e36c09">Mastery</font>, <font color="#31859b">Skill Proficiency</font>, <font color="#fbd5b5">Ability</font>                                                                                                                     |
+|   22   |             | <font color="#fbd5b5">Ability</font>                                                                                                                                                                                                           |
+|   24   |             | <font color="#fbd5b5">Ability</font>, <font color="#953734">Minor Skill Feat</font>                                                                                                                                                            |
+|   26   |             | <font color="#fbd5b5">Ability</font>, <font color="#8064a2">Skill Feat</font>                                                                                                                                                                  |
+|   28   |             | <font color="#fbd5b5">Ability</font>, Tactical Skill                                                                                                                                                                                           |
+|   30   |             | <font color="#e36c09">Mastery</font>, <font color="#fbd5b5">Ability</font>                                                                                                                                                                     |
+|   32   |             | <font color="#31859b">Skill Proficiency</font>, <font color="#fbd5b5">Ability</font>                                                                                                                                                           |
+|   34   |             | <font color="#fbd5b5">Ability</font>, <font color="#953734">Minor Skill Feat</font>                                                                                                                                                            |
+|   36   |             | <font color="#fbd5b5">Ability</font>, <font color="#8064a2">Skill Feat</font>                                                                                                                                                                  |
+|   38   |             | <font color="#fbd5b5">Ability</font>, Tactical Skill                                                                                                                                                                                           |
+|   40   |             | <font color="#e36c09">Mastery</font>, <font color="#fbd5b5">Ability</font>                                                                                                                                                                     |
+|   42   |             | <font color="#fbd5b5">Ability</font>                                                                                                                                                                                                           |
+|   44   |             | <font color="#31859b">Skill Proficiency</font>, <font color="#fbd5b5">Ability</font>,  <font color="#953734">Minor Skill Feat</font>                                                                                                           |
+|   46   |             | <font color="#fbd5b5">Ability</font>, <font color="#8064a2">Skill Feat</font>                                                                                                                                                                  |
+|   48   |             | <font color="#fbd5b5">Ability</font>, Tactical Skill                                                                                                                                                                                           |
+|   50   |             | <font color="#e36c09">Mastery</font>, <font color="#fbd5b5">Ability</font>                                                                                                                                                                     |
+|   52   |             | <font color="#fbd5b5">Ability</font>                                                                                                                                                                                                           |
+|   54   |             | <font color="#fbd5b5">Ability</font>, <font color="#953734">Minor Skill Feat</font>                                                                                                                                                            |
+|   56   |             | <font color="#31859b">Skill Proficiency</font>, <font color="#fbd5b5">Ability</font>,  <font color="#8064a2">Skill Feat</font>                                                                                                                 |
+|   58   |             | <font color="#fbd5b5">Ability</font>, Tactical Skill                                                                                                                                                                                           |
+|   60   |             | <font color="#e36c09">Mastery</font>, <font color="#fbd5b5">Ability</font>                                                                                                                                                                     |
+|   62   |             | <font color="#fbd5b5">Ability</font>                                                                                                                                                                                                           |
+|   64   |             | <font color="#fbd5b5">Ability</font>, <font color="#953734">Minor Skill Feat</font>                                                                                                                                                            |
+|   66   |             | <font color="#fbd5b5">Ability</font>, <font color="#8064a2">Skill Feat</font>                                                                                                                                                                  |
+|   68   |             | <font color="#31859b">Skill Proficiency</font>, <font color="#fbd5b5">Ability</font>, Tactical Skill                                                                                                                                           |
+|   70   |             | <font color="#e36c09">Mastery</font>, <font color="#fbd5b5">Ability</font>                                                                                                                                                                     |
+|   72   |             | <font color="#fbd5b5">Ability</font>                                                                                                                                                                                                           |
+|   74   |             | <font color="#fbd5b5">Ability</font>, <font color="#953734">Minor Skill Feat</font>                                                                                                                                                            |
+|   76   |             | <font color="#fbd5b5">Ability</font>, <font color="#8064a2">Skill Feat</font>                                                                                                                                                                  |
+|   78   |             | <font color="#fbd5b5">Ability</font>, Tactical Skill                                                                                                                                                                                           |
+|   80   | [[Beyond the Veil/Veil Glossary/Master\|Master]]  | <font color="#e36c09">Mastery</font>, <font color="#31859b">Skill Proficiency</font>, <font color="#fbd5b5">Ability</font>                                                                                                                     |
+|   82   |             | <font color="#fbd5b5">Ability</font>                                                                                                                                                                                                           |
+|   84   |             | <font color="#fbd5b5">Ability</font>, <font color="#953734">Minor Skill Feat</font>                                                                                                                                                            |
+|   86   |             | <font color="#fbd5b5">Ability</font>, <font color="#8064a2">Skill Feat</font>                                                                                                                                                                  |
+|   88   |             | <font color="#fbd5b5">Ability</font>, Tactical Skill                                                                                                                                                                                           |
+|   90   |             | <font color="#e36c09">Mastery</font>, <font color="#fbd5b5">Ability</font>                                                                                                                                                                     |
+|   92   |             | <font color="#31859b">Skill Proficiency</font>, <font color="#fbd5b5">Ability</font>                                                                                                                                                           |
+|   94   |             | <font color="#fbd5b5">Ability</font>, <font color="#953734">Minor Skill Feat</font>                                                                                                                                                            |
+|   96   |             | <font color="#fbd5b5">Ability</font>, <font color="#8064a2">Skill Feat</font>                                                                                                                                                                  |
+|   98   |             | <font color="#fbd5b5">Ability</font>, Tactical Skill                                                                                                                                                                                           |
+|  100   |             | <font color="#e36c09">Mastery</font>, <font color="#fbd5b5">Ability</font>                                                                                                                                                                     |
+|  102   |             | <font color="#fbd5b5">Ability</font>                                                                                                                                                                                                           |
+|  104   |             | <font color="#31859b">Skill Proficiency</font>, <font color="#fbd5b5">Ability</font>, <font color="#953734">Minor Skill Feat</font>                                                                                                            |
+|  106   |             | <font color="#fbd5b5">Ability</font>, <font color="#8064a2">Skill Feat</font>                                                                                                                                                                  |
+|  108   |             | <font color="#fbd5b5">Ability</font>, Tactical Skill                                                                                                                                                                                           |
+|  110   |             | <font color="#e36c09">Mastery</font>, <font color="#fbd5b5">Ability</font>                                                                                                                                                                     |
+|  112   |             | <font color="#fbd5b5">Ability</font>                                                                                                                                                                                                           |
+|  114   |             | <font color="#fbd5b5">Ability</font>, <font color="#953734">Minor Skill Feat</font>                                                                                                                                                            |
+|  116   |             | <font color="#31859b">Skill Proficiency</font>, <font color="#fbd5b5">Ability</font>, <font color="#8064a2">Skill Feat</font>                                                                                                                  |
+|  118   |             | <font color="#fbd5b5">Ability</font>, Tactical Skill                                                                                                                                                                                           |
+|  120   |             | <font color="#e36c09">Mastery</font>, <font color="#fbd5b5">Ability</font>                                                                                                                                                                     |
 ### Mastery & Skill Limits
 
-Strict limits govern your maximum number of known Masteries and Skill Proficiencies. These limits expand with each tier of play. Once you reach your limit, you cannot learn more Masteries or Skill Proficiencies, though you can still learn new abilities and skill features within unlocked trees.
+Strict limits govern your maximum number of known Masteries and Skill Proficiencies. These limits expand with each tier of play. Once you reach your limit, you cannot learn more [[Masteries\|Masteries]] or Skill [[Proficiencies\|Proficiencies]], though you can still learn new abilities and skill features within unlocked trees. [[Beyond the Veil/Veil Content/Masteries/Skill Mastery\|Skill Mastery]] does not count against your total known [[Masteries\|Masteries]]and you have access to this immediately.
 
 | Tier    | Mastery Limit | Skill Proficiency Limit |
 | ------- | ------------- | ----------------------- |
 | Adept   | 4             | 3                       |
 | Veteran | 5             | 4                       |
 | Master  | 6             | 5                       |
+### Untrained Exploits
+
+When a narrative situation or tactical dilemma demands it, you can attempt a specialized activity or mimic a passive benefit that you do not know. To do so, you must make a relevant Skill or [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]] Check against the normal DC. However, your maximum possible outcome is a standard **Success**. You make the roll with a [[Beyond the Veil/Veil Glossary/Major Bane\|Major Bane]] or reduces the [[Beyond the Veil/Veil Glossary/degree of success\|degree of success]] by 1. If the activity normally triggers automatically "without a roll" for a character that has gained the feature, attempting it untrained forces a Tricky (DC 12) or Difficult (DC 16) Skill Check determined by the [[Beyond the Veil/Veil Glossary/Director\|Director]].
+
+>The [[Beyond the Veil/Veil Glossary/Director\|Director]] gets to make the final call if this is permissible. Untrained Exploits typically cannot be used to use unlearned abilities. This feature is meant to allow you to use the full extend of your powers to achieve reasonable outcomes. This covers the cases where just because an action exists but you don't have it doesn't mean you cannot attempt it. You simply have a harder time performing it without the right [[Beyond the Veil/Veil Content/Downtime Activities/Training\|Training]].
+
+
+# Masteries and Skills
+
+Masteries and Skills represent your character's training, gear proficiencies, and expertise. These are the core building blocks for combat, social interaction, and exploration. Gaining a [[Beyond the Veil/Veil Glossary/Mastery\|Mastery]] (such as [[Beyond the Veil/Veil Content/Masteries/Stormweaver\|Stormweaver]] or [[Beyond the Veil/Veil Content/Masteries/Swords\|Swords]]) unlocks it. As you gain [[Beyond the Veil/Veil Glossary/XP\|XP]] you can learn more abilities within the mastery of your choice. Upon entering a new Tier of Play, you can upgrade known Masteries to the next tier to access advanced options. Ranks must be unlocked sequentially (e.g., you must unlock Veteran Swords before unlocking Master Swords). When you gain a Skill Proficiency, your Veil rolls for that skill (such as [[Beyond the Veil/Veil Content/Skills/Subterfuge\|Subterfuge]]) gain [[Beyond the Veil/Veil Glossary/Advantage\|advantage]] (roll 2d20 and take the highest). [[Proficiency\|Proficiency]] unlocks corresponding skill features. 
 
 ## [[Beyond the Veil/Veil Glossary/Mastery\|Mastery]] 
 
@@ -144,11 +219,15 @@ A mastery represents specialized training, practice, or innate talent with speci
 
 ### [[Beyond the Veil/Veil Glossary/Discipline Mastery\|Discipline Mastery]]
 
-Discipline Mastery represents a trained school of martial, magical, or mixed techniques (e.g., Pyromancy, Berserker, Vanguard). Your rank (Adept, Veteran, or Master) gates which abilities and passive effects you can learn. Spend XP to learn abilities within your Disciplines or to increase the Discipline's rank. Each Discipline grants a unique active or passive feature that improves as you invest XP.
+Discipline Mastery represents a trained school of martial, magical, or mixed techniques (e.g., [[Beyond the Veil/Veil Content/Masteries/Pyromancer\|Pyromancer]], [[Beyond the Veil/Veil Content/Masteries/Berserker\|Berserker]], [[Beyond the Veil/Veil Content/Masteries/Vanguard\|Vanguard]]). Each Discipline grants a unique active or passive feature that improves as gains ranks in it.
+
+### [[Beyond the Veil/Veil Content/Masteries/Skill Mastery\|Skill Mastery]]
+
+[[Beyond the Veil/Veil Content/Masteries/Skill Mastery\|Skill Mastery]] allows you to gain skills that are governed by a skill rather than an independent mastery. Unlike other [[Masteries\|Masteries]], in everyone has access to the [[Beyond the Veil/Veil Content/Masteries/Skill Mastery\|Skill Mastery]] but only to the [[Proficiency\|Proficiency]] and rank they have gained.
 
 ### [[Beyond the Veil/Veil Glossary/Equipment Mastery\|Equipment Mastery]] 
 
-Equipment Mastery defines your proficiency with weapons, armor, and specialized gear. Spending XP in Equipment Masteries unlocks abilities and passive traits. These abilities require you to wield or wear the corresponding equipment to activate them.
+Equipment Mastery defines your proficiency with weapons, armor, and specialized gear. Gaining ranks in Equipment Masteries unlocks abilities and passive traits. These abilities require you to wield or wear the corresponding equipment to activate them.
 
 #### Equipment Families
 
@@ -156,7 +235,7 @@ Equipment Masteries apply to families of items (e.g., Swords) and specific types
 
 ### [[Beyond the Veil/Veil Glossary/Companion Mastery\|Companion Mastery]] 
 
-[[Beyond the Veil/Veil Glossary/Companion Mastery\|Companion Mastery]] grants control of a [[Beyond the Veil/Veil Glossary/Companion\|Companion]] creature. Spending XP in this mastery increases your companion's strength, grants them new traits, and unlocks cooperative abilities.
+[[Beyond the Veil/Veil Glossary/Companion Mastery\|Companion Mastery]] grants control of a [[Beyond the Veil/Veil Glossary/Companion\|Companion]] creature. Gaining ranks in this mastery increases your companion's strength, grants them new traits, and unlocks cooperative abilities.
 
 ### [[Beyond the Veil/Veil Glossary/Core Mastery\|Core Mastery]] 
 
@@ -164,7 +243,7 @@ Equipment Masteries apply to families of items (e.g., Swords) and specific types
 
 ### [[Beyond the Veil/Veil Glossary/Signature\|Signature]] Abilities
 
-Starting at the Veteran tier, you can spend XP to designate an ability as a [[Beyond the Veil/Veil Glossary/Signature\|Signature]] ability, allowing you to enhance or alter its effects. When using a Signature ability, you can apply at most **one** signature effect, or choose to apply none.
+Starting at the Veteran tier, when you gain a [[Beyond the Veil/Veil Glossary/Ability\|Ability]] you can instead choose an already gained ability and destinate as a [[Beyond the Veil/Veil Glossary/Signature\|Signature]] ability, allowing you to enhance or alter its effects given that it has a [[Beyond the Veil/Veil Glossary/Signature\|Signature]] option. When using a Signature ability, you can apply at most **one** signature effect, or choose to apply none.
 
 # **Skills**
 
@@ -190,7 +269,7 @@ When unlocking a skill proficiency, your Veil Rolls for said skill check roll 2d
 
 ## Skill Features
 
-As you gain more skill features by spending XP,  you open new possibilities, learn skill abilities and also gain passive benefits related to your proficient skills.
+As you gain [[Beyond the Veil/Veil Glossary/XP\|XP]] and gain more skill features, options actions and possibilities.
 
 ## Skill Checks
 
@@ -198,7 +277,7 @@ As you gain more skill features by spending XP,  you open new possibilities, lea
 
 - DC 4 Simple
 - DC 8 Standard
-- DC 12 Trickyintiati
+- DC 12 Tricky
 - DC 16 Difficult
 - DC 20 Extreme
 - Impossible (no rolling)
@@ -229,7 +308,7 @@ Example:
 - A group of assassins surprise you, you roll [[Beyond the Veil/Veil Content/Skills/Perception\|Perception]] on the chance spotting them, or [[Beyond the Veil/Veil Content/Skills/Agility\|Agility]] to react quickly.
 - A pack of wolves have surrounded the you, you can use [[Beyond the Veil/Veil Content/Skills/Smarts\|Smarts]] to create a strategy on the fly, or growl back to scare them into breaking formation using [[Beyond the Veil/Veil Content/Skills/Influence\|Influence]].
 
-On a success the party defeats their opponents easily, on a failure, the party defeats the opponents easily but the [[luck\|luck]] die is rolled. If you roll a critical failure (personal roll), you also gain a Reaper’s Mark representing a blunder on your side or the opponents getting a lucky shot on you.
+On a success the party defeats their opponents easily, on a failure, the party defeats the opponents easily but the [[Beyond the Veil/Veil Glossary/Luck\|Luck]] die is rolled. If you roll a critical failure (personal roll), you also gain a Reaper’s Mark representing a blunder on your side or the opponents getting a lucky shot on you.
 
 | **Degree**       | **Effect**                                                    |
 | ---------------- | ------------------------------------------------------------- |
@@ -252,9 +331,7 @@ During rests or extended downtime, you use **Campcraft** to manage adventuring l
 
 ### **Wealth**
 
-**Wealth** abstracts the party's valuables into a single unit. Use Wealth to purchase gear via Campcraft or sway NPCs. Routine living expenses are ignored; the Director demands Wealth only for exceptional costs (such as luxury lodging, feasts, or bribes).
-
-*Wealth is abstract. One unit of Wealth represents a bag of 10 gold pieces, a bundle of valuable furs, or a piece of jewelry. The party has carrying limits for Wealth.*
+**Wealth** abstracts the party's valuables into a single unit. Use Wealth to purchase gear via Campcraft or sway NPCs. Routine living expenses are ignored; the Director demands Wealth only for exceptional costs (such as luxury lodging, feasts, or bribes). Wealth is abstract. One unit of Wealth represents a bag of 10 gold pieces, a bundle of valuable furs, or a piece of jewelry. Each unit of [[Beyond the Veil/Veil Glossary/Wealth\|Wealth]] simply takes one [[Beyond the Veil/Veil Content/Gear/Backpack\|Backpack]] or [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]] slot.
 
 **The Director determines if a transaction requires Wealth.**
 
@@ -273,33 +350,19 @@ During rests or extended downtime, you use **Campcraft** to manage adventuring l
 
 Inventory management is shared; the party shares a single inventory space to purchase and store items.
 
-### Consumables
-
-Purchasing a consumable recipe allows you to completely refill that consumable's stack during rests. Downtime actions can temporarily increase this stock. For example, purchasing the Healing Potion recipe ensures you have 4 Healing Potions after every rest, stored in the shared Backpack or distributed among players.
-
-Different consumables have unique stack sizes. Campcraft and downtime actions allow you to expand and modify these items.
-
 ### [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]]
 
-Characters start with 6 Loadout slots. The Loadout holds items, weapons, or gear designated for quick access. Weapons and shields must be in your Loadout to be used; held items count against your Loadout limit. Loadout is vital during [[Beyond the Veil/Veil Glossary/Encounter Mode\|Encounter Mode]].
-
-Secondary weapons, potions, wands, trinkets, and bombs must be in your Loadout to be used without action penalties.
-
-Retrieving and using an item from the Backpack requires a 3-action [[Beyond the Veil/Veil Content/Actions/Backpack interaction\|Backpack interaction]]. If the item requires multiple actions to activate, this interaction leaves you holding the item.
-
-Items with a stack number (such as potions) occupy 1 Loadout slot per individual item (e.g., carrying 2 Stamina Potions requires 2 Loadout slots).
+Characters start with 6 [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]] slots. The Loadout holds items, weapons, or gear designated for quick access. [[Beyond the Veil/Veil Content/Weapons/Weapons\|Weapons]] and shields must be in your [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]] to be used; held items count against your Loadout limit. Loadout is vital during [[Beyond the Veil/Veil Glossary/Encounter Mode\|Encounter Mode]]. Elixirs, Potions, bombs and the like can be used directly from your [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]]. Retrieving and using an item from the Backpack requires a 3-action [[Beyond the Veil/Veil Content/Actions/Backpack interaction\|Backpack interaction]]. If the item requires multiple actions to activate, this interaction leaves you holding the item. Items with a stack number (such as [[Beyond the Veil/Veil Glossary/Elixir\|Elixir]]s) occupy 1 Loadout slot per individual item (e.g., carrying 2 [[Beyond the Veil/Veil Content/Gear/Stamina Potion\|Stamina Potion]]s requires 2 Loadout slots).
 
 ### [[Beyond the Veil/Veil Content/Gear/Backpack\|Backpack]]
 
-The [[Beyond the Veil/Veil Content/Gear/Backpack\|Backpack]] is the party’s shared inventory. It holds supplies, tools, camping gear, backup equipment, and magical items. Players do not need to track individual carrying ownership. Stackable items occupy only 1 Backpack slot per stack. The party starts with 20 shared Backpack slots.
+The [[Beyond the Veil/Veil Content/Gear/Backpack\|Backpack]] is the party’s shared inventory. It holds supplies, tools, camping gear, backup equipment, and magical items. Players do not need to track individual carrying ownership. Stackable items occupy only 1 Backpack slot per stack (unlike the [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]]. The party starts with 20 shared [[Beyond the Veil/Veil Content/Gear/Backpack\|Backpack]] slots. Each [[Beyond the Veil/Veil Glossary/Wealth\|Wealth]] also takes up one [[Beyond the Veil/Veil Content/Gear/Backpack\|Backpack]]. When you reach your [[Beyond the Veil/Veil Content/Gear/Backpack\|Backpack]] and [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]] limits you simply cannot carry any more items.
 
-Separately, the party has 20 slots dedicated specifically to Wealth. This tracks the amount of physical treasure, loot, and coinage the party can carry. Spend wealth rather than hoarding it. Upgrading the Backpack increases both Backpack slots.
+All items that you own that are not in your [[Beyond the Veil/Veil Content/Gear/Backpack\|Backpack]] have to be left somewhere like a base or a cart. Make sure to keep them protected. 
 
-When Backpack or Wealth limits are reached, the party cannot carry additional items or treasure.
+### Consumables
 
-### Cargo
-
-Cargo is additional storage at your campsite, representing items not carried during active exploration. Access [[Beyond the Veil/Veil Glossary/Cargo\|Cargo]] during a [[Beyond the Veil/Veil Glossary/Rest/Rest\|Rest]].
+When you [[Beyond the Veil/Veil Glossary/Rest/Rest\|Rest]] all [[Beyond the Veil/Veil Glossary/Consumable\|Consumable]] items in your [[Beyond the Veil/Veil Content/Gear/Backpack\|Backpack]] are refilled. Downtime actions can temporarily increase this stock. For example, purchasing the [[Beyond the Veil/Veil Content/Gear/Stamina Potion\|Stamina Potion]] recipe ensures you have 4 [[Beyond the Veil/Veil Content/Gear/Stamina Potion\|Stamina Potion]] after every rest, stored in the shared Backpack or distributed among you. Different consumables have unique stack sizes. Campcraft and downtime actions allow you to expand and modify these items.
 
 ### Gear Slots ([[Beyond the Veil/Veil Glossary/Worn\|Worn]] Items)
 
@@ -315,7 +378,7 @@ Weapons are grouped by Family (e.g., [[Beyond the Veil/Veil Content/Masteries/Sw
 
 ### **Protection**
 
-Standard protective clothing sets your Defense to 12; its appearance is purely narrative. You can invest in Armor, Wards, or Vestment Equipment Masteries to upgrade this into specialized protective gear with unique traits.
+Standard protective clothing sets your Defense to 12; its appearance is purely narrative. You can invest in [[Beyond the Veil/Veil Content/Masteries/Armors\|Armors]], [[Beyond the Veil/Veil Content/Masteries/Wards\|Wards]], or [[Beyond the Veil/Veil Content/Masteries/Vestments\|Vestments]] Equipment Masteries to upgrade this into specialized protective gear with unique traits.
 
 ## Magical Items
 
@@ -331,7 +394,7 @@ Exalted items possess powerful magic, granting significant bonuses to a soulboun
 
 ### Runes
 
-Runes enhance other objects, primarily weapons and armor. You can add, remove, or replace runes during downtime. Runes are restricted to compatible gear (e.g., a slashing rune cannot be applied to a bow).
+Runes enhance other objects, primarily [[Beyond the Veil/Veil Content/Weapons/Weapons\|Weapons]] and [[Beyond the Veil/Veil Glossary/Protection\|Protection]]. You can add, remove, or replace runes during downtime. Runes are restricted to compatible gear (e.g., a slashing rune cannot be applied to a bow).
 
 ### Artifacts
 
@@ -339,7 +402,7 @@ Artifacts represent the pinnacle of magical power. Each artifact is unique, real
 
 ### **Soulbinding**
 
-To activate and channel a magic item's effects, you must perform a Soulbinding. A character can soulbind up to 6 magical items simultaneously.
+To activate and channel a magic item's effects, you must perform a Soulbinding. A character can [[Beyond the Veil/Veil Content/Exploration Activities/Soulbind\|Soulbind]] up to 6 magical items simultaneously.
 
 # Knowledge
 
@@ -477,11 +540,11 @@ Attacks automatically inherit the traits of their damage types. For example, an 
 - [[Beyond the Veil/Veil Glossary/Overpower/Overpower\|Overpower]] - An [[Beyond the Veil/Veil Glossary/Overpower/Overpower\|Overpower]] attack targets the defender's [[Beyond the Veil/Veil Glossary/Defense\|Defense]], but also targets their [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]], [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]], or [[Beyond the Veil/Veil Glossary/Will\|Will]]. Use the attack roll's total for both checks. Overpower triggers only if the target takes [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] damage. If a [[Beyond the Veil/Veil Glossary/Barrier\|Barrier]], [[Beyond the Veil/Veil Content/Actions/Shield Block\|Shield Block]], or damage reduction negates the damage, Overpower does not apply.
 - [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]] rolls that target Fortitude, Reflex or Will - Certain abilities, like [[Beyond the Veil/Veil Content/Actions/Shove\|Shove]], target [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]], [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]], or [[Beyond the Veil/Veil Glossary/Will\|Will]] directly using a the Prowess roll.
     - Example: Shoving a wolf (Fortitude 10). A Prowess check of 10 or higher succeeds.
-- Unarmed Attacks - Unarmed attacks use punches, kicks, headbutts, or tails. Without Adept training in unarmed combat, you deal 1 Crushing Damage and cannot Engage opponents.
+- Unarmed Attacks - Unarmed attacks use punches, kicks, headbutts, or tails. Without Adept training in unarmed combat, you deal 1 Crushing Damage.
 
 ### **Abilities**
 
-Abilities define your tactical options, acquired primarily by spending Mastery XP and Skill XP.
+Abilities define your tactical options, acquired primarily by through [[Masteries\|Masteries]] and [[Skill Ability\|Skill Ability]].
 
 ### Basic Defenses
 
@@ -575,15 +638,18 @@ Cones are defined by length. On a grid, a cone starts at 1 square adjacent to th
 
 ## **Tactical**
 
-### Engaging
+### Flanking
 
-Standing in an **adjacent** space with a creature means you are **Engaged** with them. If an ally also engages that creature, the creature becomes Exposed, easing subsequent attacks.
+When you are in an [[Beyond the Veil/Veil Glossary/Adjacent\|Adjacent]] space with a creature and wielding a [[Beyond the Veil/Veil Glossary/Melee\|Melee]] weapon, you are considered to be engaged with the creature. If an ally of yours also engages with the same creature and is standing **on the opposite side of you**, the creature gains the [[Beyond the Veil/Veil Content/Conditions/Exposed\|Exposed]] condition as you are [[Beyond the Veil/Veil Glossary/Flanking\|Flanking]] it.
 
-You can only engage a creature if:
-- You are adjacent.
-- The target can see you.
-- You are conscious and active.
-- You wield a melee weapon (reach weapons do not engage unless you are adjacent) or are trained in unarmed combat.
+You can only engage a creature if you meet certain conditions:
+
+- You must be in an adjacent space.
+- The opposing creature must be able to see you (this can vary based on the creature’s senses).
+- You must not be unconscious or incapacitated.
+- You must be wielding a weapon with the [[Beyond the Veil/Veil Glossary/Melee\|Melee]] or [[Beyond the Veil/Veil Glossary/Reach\|Reach]] trait.
+    - For the purposes of Engage (Reach weapons do not engage a creature unless you’re in an [[Beyond the Veil/Veil Glossary/Adjacent\|Adjacent]] space)
+- If you are at least an Adept in [[Beyond the Veil/Veil Content/Masteries/Unarmed Fighting\|Unarmed Fighting]], you can engage a creature without holding a melee weapon.
 
 ### Cover
 
@@ -643,46 +709,76 @@ If two characters perform the same exploration activity, both roll and the party
 
 The party can bypass exploration checks and walk normally when backtracking through cleared areas.
 
-### **Push Your Luck (Luck)**
+## Push Your Luck: [[Beyond the Veil/Veil Glossary/Luck\|Luck]]
 
-To track time and environmental hazard, Veil uses a Luck system. If the party takes too long or makes noise, they must test their Luck.
 
-### How You Use It
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/luck/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-The Luck die starts as a d20. Each roll degrades the die to the next lower size (d20 > d12 > d10 > d8 > d6 > d4 > d2). Rolling a natural 1 triggers a Complication and resets the Luck die to a d20.
 
-### Spending Time
 
-Roll the Luck die whenever the party performs a slow, methodical, or complex action taking 10 minutes or more (such as searching a room, resting, repairing gear, or identifying an item).
 
-### Recklessness and Failure
+To track time and environmental hazards, Veil uses a [[Beyond the Veil/Veil Glossary/Luck\|Luck]] system. If you take too long or make too much noise, you must test you [[Beyond the Veil/Veil Glossary/Luck\|Luck]]. [[Beyond the Veil/Veil Glossary/Luck\|Luck]] is a die that starts as a d20. Each roll degrades the die to the next lower size (d20 > d12 > d10 > d8 > d6 > d4 > d2). Rolling a natural 1 triggers a [[Complication\|Complication]] and resets the Luck die to a d20. A Complication will typically represents a negative environmental shift, resource loss, or alert patrol, rather than a direct combat encounter.
 
-Rushed, loud, or risky actions require rolling the Luck die with disadvantage (roll twice and use the lower result).
+The [[Beyond the Veil/Veil Glossary/Luck\|Luck]] die is rolled whenever you perform when you are under pressure but choose to make a slow, methodical, or complex action taking 10 minutes or more (such as searching a room, resting, repairing gear, or identifying an item). The opposite also applies when taking risky actions, or making a lot of noise.
 
-### Extreme Risks
+#### Extreme Risks
 
-Extremely dangerous actions (such as resting in active monster territory or causing loud echoes) immediately trigger a Luck roll using a d2.
+When taking excessive risks or extremely dangerous actions (such as resting in active monster territory or causing loud echoes) the [[Beyond the Veil/Veil Glossary/Director\|Director]] rolls the [[Beyond the Veil/Veil Glossary/Luck\|Luck]] with [[Beyond the Veil/Veil Glossary/Disadvantage\|Disadvantage]].
 
-### Complications
+</div></div>
 
-A Complication represents a negative environmental shift, resource loss, or alert patrol, rather than a direct combat encounter.
 
 # [[Ritual Tome\|Ritual Tome]]
 
 ## [[Beyond the Veil/Veil Glossary/Social Mode\|Social Mode]] 
 
-[[Beyond the Veil/Veil Glossary/Social Mode\|Social Mode]] resolves negotiations, interrogations, and debates. It uses free-flowing exchanges without initiative, reactions, or action economies. The Director guides the spotlight as both sides make conversational moves.
-
-Social Mode uses four degrees of success and tracks two visible clocks: **Favor** (progress toward your goal) and **Backlash** (progress toward diplomatic failure). Social checks are Secret rolls by default.
+[[Beyond the Veil/Veil Glossary/Social Mode\|Social Mode]] resolves negotiations, interrogations, and debates. It uses free-flowing exchanges without initiative, reactions, or action economies. The Director guides the spotlight as both sides make conversational moves. Social Mode uses four degrees of success and tracks two visible clocks: **Favor** (progress toward your goal) or **Tolerance** (progress toward diplomatic failure). Social checks are Secret rolls by default.
 
 ### **The Four Affinities**
 
 NPCs have specific conversational affinities. Player attempts target these affinities, which have varying DCs depending on the NPC's traits:
 
-1. **Deception** - misdirection, lies, and contradictions.
-2. **Intimidation** - aggression, pressure, and implied force.
-3. **Diplomacy** - street smarts, terms, and compromises.
-4. **Charm** - persuasion, rapport, and flattery.
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/diplomacy/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+To trigger this affinity, your approach must focus on mutual benefit and finding common ground. Frame your arguments around logic, shared goals, and fair compromises. You need to show the target that cooperating with you is the most reasonable, safe, and advantageous path forward for everyone involved.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/intimidation/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+To trigger this affinity, your approach must leverage fear, authority, or consequence. Frame your interactions around veiled threats, displays of physical or social power, or the harsh reality of what happens if they defy you. You need to make the target believe that refusing your demands is far more dangerous than simply complying.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/flattery/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+To trigger this affinity, your approach must stroke the target's ego and validate their self-worth. Frame your words to highlight their achievements, their status, or their undeniable importance. You need to play to their vanity and make them feel admired, respected, and central to the situation at hand.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/deception/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+To trigger this affinity, your approach must rely on misdirection, half-truths, or outright fabrication. Frame your narrative to exploit what the target already wants to believe, or hide your true motives behind a plausible lie. You need to manipulate their perception of reality and convince them of a "truth" that serves your goals.
+
+</div></div>
+
+
 
 ### **Skills and Knowledge in Social Mode**
 
@@ -690,15 +786,15 @@ Describe your actions to determine which skill check applies. Each skill can be 
 
 ### **When to use Social Mode?**
 
-The Director initiates Social Mode for high-stakes, multi-sided conversations, revealing the Favor and Backlash clocks. The scene ends immediately when either clock fills.
+The Director initiates Social Mode for high-stakes, multi-sided conversations, revealing the Favor and Tolerance clocks. The scene ends immediately when either clock fills.
 
 ### **Favor & Backlash**
 
 Social checks advance the clocks based on success:
 - **Critical Success:** +2 Favor
 - **Success:** +1 Favor
-- **Failure:** +1 Backlash
-- **Critical Failure:** +2 Backlash
+- **Failure:** +1 Tolerance
+- **Critical Failure:** +2 Tolerance
 
 ### **Close the Veil**
 
@@ -762,18 +858,6 @@ Standard durations include:
 - [[Beyond the Veil/Veil Glossary/Flat Check End\|Flat Check End]]: Requires a Flat Check at the end of your turn to determine if the effect persists.
 - Sustained: Requires spending an action each turn to maintain the effect.
 
-## [[Beyond the Veil/Veil Glossary/Power of the Veil\|Power of the Veil]] 
-
-Veil Points (VP) are a meta-currency used to influence the narrative.
-
-### Veil Points Basics
-
-- Characters start each session with 1 VP (maximum capacity of 1).
-- Spend 1 VP to bypass an ability's standard cooldown.
-- **Stretch Your Powers**: Spend 1 VP outside of combat to use an ability in a creative, non-standard way. The Director determines the outcome.
-- **Deus Ex Machina**: Spend 1 VP to retroactively prepare for an unforeseen hazard or establish a narrative connection.
-- **Will into existence**: Spend 1 VP to establish the presence of a reasonable, helpful environmental feature (such as a hay bale to soften a fall).
-- **Devil’s Bargain**: If you have 0 VP, you can request a VP from the Director in exchange for a Complication or future narrative obligation.
 
 # **Light and Darkness**
 
@@ -795,16 +879,16 @@ Loot is primarily randomized, supplemented by hand-placed items. This ensures a 
 
 Loot size determines the base Wealth rewarded:
 
-| **Name** | **Wealth** | **Description** |
-| --- | --- | --- |
-| **Petty** | **1** | Fur or teeth from common beasts, tavern tips. |
-| **Some** | **2** | Roadside bandits, salvaged cart crates. |
-| **Modest** | **3** | Guardroom caches, small cultist stashes. |
-| **Substantial** | **4** | Bandit camp chests, smuggler caves. |
-| **Abundant** | **5** | Warband plunder, ancient crypt reliquaries. |
-| **Bountiful** | **6** | Merchant caravan safes, rich merchant vaults. |
-| **Extreme** | **7** | Lich lair ante-chambers, royal paychests. |
-| **Mythic** | **8** | Dragon hoards, god-touched reliquaries. |
+| **Name**        | **Wealth** | **Description**                               |
+| --------------- | ---------- | --------------------------------------------- |
+| **Petty**       | **1**      | Fur or teeth from common beasts, tavern tips. |
+| **Some**        | **2**      | Roadside bandits, salvaged cart crates.       |
+| **Modest**      | **3**      | Guardroom caches, small cultist stashes.      |
+| **Substantial** | **4**      | Bandit camp chests, smuggler caves.           |
+| **Abundant**    | **5**      | Warband plunder, ancient crypt reliquaries.   |
+| **Bountiful**   | **6**      | Merchant caravan safes, rich merchant vaults. |
+| **Extreme**     | **7**      | Lich lair ante-chambers, royal paychests.     |
+| **Mythic**      | **8**      | Dragon hoards, god-touched reliquaries.       |
 
 ### Loot Tables
 

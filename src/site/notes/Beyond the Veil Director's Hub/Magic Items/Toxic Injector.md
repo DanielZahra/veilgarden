@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/toxic-injector/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Gloves ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/toxic-injector/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":null,"Traits":"Soulbind Worn Gloves ","Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[toxicinjector.png]]"}}
 ---
 
 
@@ -11,7 +11,7 @@
 ---
 
 > [!note] 💫
-> This [[Notion/Aeternum Wiki/Manatech\|Manatech]] bracer is built with 4 comparements that can encase poison, venoms or other toxic chemicals. 
+> This [[Aeternum Lore/Lore Glossary/Manatech\|Manatech]] bracer is built with 4 comparements that can encase poison, venoms or other toxic chemicals. 
 
 
 

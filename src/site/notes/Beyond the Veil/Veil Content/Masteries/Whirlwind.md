@@ -12,5 +12,5 @@
         - You can add the dualwield trait, by spending an action
     - Master
 
-<!-- Linked database (not supported by Notion API) -->
+
 

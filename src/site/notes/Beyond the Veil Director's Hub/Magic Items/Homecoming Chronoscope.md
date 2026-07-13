@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/homecoming-chronoscope/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Activity"],"Traits":"-","Cooldown":["Once Per Rest"],"Rarity":["Shard"],"Grade":"Veteran"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/homecoming-chronoscope/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Activity"],"Traits":["[[Teleport]]"],"Cooldown":["Once Per Rest"],"Rarity":["Shard"],"Rank":"[[Veteran]]","image":"[[chronoscope.png]]"}}
 ---
 
 
@@ -12,8 +12,7 @@
 
 ---
 
-> [!note] 💫
-> This [[Notion/Aeternum Wiki/Manatech\|Manatech]] Chronoscope, trigger a burst of mana powerful enough to activate a ritual without much risk.
+> This [[Aeternum Lore/Lore Glossary/Manatech\|Manatech]] Chronoscope, trigger a burst of mana powerful enough to activate a ritual without much risk.
 
 When created they are attached to a single [[Beyond the Veil/Veil Content/Rituals/Glyph of Teleportation\|Glyph of Teleportation]] and always bring the user back.
 

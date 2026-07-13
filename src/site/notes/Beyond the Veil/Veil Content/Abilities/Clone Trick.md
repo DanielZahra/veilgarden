@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/clone-trick/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12","3 Emanation"],"Tags":["Fixated"],"MasterySkills":["Trickster"],"Traits":"Auditory ","defenses":["Will"],"Actions":"2 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/clone-trick/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12","3 Emanation"],"Tags":["Fixated"],"MasterySkills":["[[Trickster]]"],"Traits":"Auditory ","defenses":["Will"],"Actions":"2 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/detonating-palm/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":["Damage","Condition"],"MasterySkills":["Pyromancer"],"Traits":"Attack Fire Size Difference Combo ","defenses":["Defense","Fortitude"],"Actions":"2 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/detonating-palm/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Adjacent]]"],"Tags":["Damage","Condition"],"MasterySkills":["[[Pyromancer]]"],"Traits":["[[Attack]]","[[Fire]]","[[Beyond the Veil/Veil Glossary/Size Difference\|Size Difference]]","[[Beyond the Veil/Veil Glossary/Combo\|Combo]]"],"defenses":["[[Defense]]","[[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]]"],"Actions":"2 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

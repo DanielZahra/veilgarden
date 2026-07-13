@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/blood-seed/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Effect","Healing"],"MasterySkills":["Lifespinner"],"Traits":"Healing Blood ","defenses":["Reflex"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/blood-seed/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Effect","Healing"],"MasterySkills":["[[Lifespinner]]"],"Traits":"Healing Blood ","defenses":["Reflex"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > You latch on a parasitic seed to a creature that turns pain into vitality.

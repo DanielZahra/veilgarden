@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/bonewarden-s-pass/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Soulbind Worn ","Cooldown":["Normal"],"Rarity":["Exalted"],"Grade":"Veteran","image":"[[bonewardenspass.png]]"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/bonewarden-s-pass/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Soulbind Worn ","Cooldown":["Normal"],"Rarity":["Exalted"],"image":"[[bonewardenspass.png]]","Rank":"[[Veteran]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/gorge-the-void/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Cone 3"],"Tags":["Damage"],"MasterySkills":["Outsider"],"Traits":"Void ","defenses":["Basic Reflex"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/gorge-the-void/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Cone 3]]"],"Tags":["Damage"],"MasterySkills":["[[Outsider]]"],"Traits":["[[Void]]"],"defenses":["Basic Reflex"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

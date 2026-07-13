@@ -10,7 +10,7 @@
 | Veteran       | [[Malediction\|Malediction]] can take effect on multiple creatures at once.                                                                                                                                                                                                                                                                                                                                                             |
 | Master        | [[Malediction\|Malediction]] can take effect on a failure (not a critical failure).                                                                                                                                                                                                                                                                                                                                                     |
 
-<!-- Linked database (not supported by Notion API) -->
+
 
 ## TODO Abilities 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/aimed-shot/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Condition","BoonProwess"],"MasterySkills":["[[Throwing]]","[[Bows]]","[[Notion/Aeternum Wiki/Science and Technology/Armaments, Devices and Vehicles/Armaments/Firearms|Firearms]]","[[Crossbows]]"],"Traits":"[[Attack]]","defenses":["Defense"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/aimed-shot/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Condition","BoonProwess"],"MasterySkills":["[[Throwing]]","[[Bows]]","[[Crossbows]]","[[Firearms]]"],"Traits":"[[Attack]]","defenses":["Defense"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > You take an extra split second to make sure your aim is adjusted properly before releasing your shot. 

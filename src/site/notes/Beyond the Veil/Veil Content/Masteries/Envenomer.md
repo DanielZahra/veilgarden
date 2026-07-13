@@ -8,63 +8,33 @@
 | Adept         | Once per turn you can use an [[Beyond the Veil/Veil Content/Actions/Interact\|Interact]] action on a [[Beyond the Veil/Veil Glossary/Venom\|Venom]] trait gear as a [[Beyond the Veil/Veil Glossary/Free Action\|Free Action]].<br>  <br>You gain [[Beyond the Veil/Veil Glossary/Major Boon\|Major Boon]] to [[Beyond the Veil/Veil Glossary/Earth Damage\|Earth Damage]].                                                      |
 | Veteran       | When you apply a [[Beyond the Veil/Veil Glossary/Venom\|Venom]] to a creature, the creature also suffers 2 points of  [[Beyond the Veil/Veil Glossary/Persistent/Persistent\|Persistent]] [[Beyond the Veil/Veil Glossary/Earth Damage\|Earth Damage]] until [[Beyond the Veil/Veil Glossary/End of Encounter\|End of Encounter]]<br>  <br>[[Beyond the Veil/Veil Glossary/Persistent/Persistent\|Persistent]] [[Beyond the Veil/Veil Glossary/Earth Damage\|Earth Damage]] you apply stacks.      |
 | Master        | When applying your [[Beyond the Veil/Veil Glossary/Venom\|Venom]] to [[Beyond the Veil/Veil Glossary/Overpower/Overpower\|Overpower]] a creature’s [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]], [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]] or [[Beyond the Veil/Veil Glossary/Will\|Will]] the creature is treated as if having a [[Beyond the Veil/Veil Glossary/Bane\|Bane]] against the [[Beyond the Veil/Veil Glossary/Overpower/Overpower\|Overpower]] effect concerning the [[Beyond the Veil/Veil Glossary/Venom\|Venom]]. |
+| Ability Name                                                               | Rank                                              | Actions     | Defenses  | Range / Area                                                                              | Traits       | Mastery                                                            |
+| -------------------------------------------------------------------------- | ------------------------------------------------- | ----------- | --------- | ----------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------ |
+| [[Beyond the Veil/Veil Content/Abilities/Double Dip\|Double Dip]]       | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 1 Action    |           | [[Beyond the Veil/Veil Glossary/Self\|Self]]                                           | Venom        | [[Beyond the Veil/Veil Content/Masteries/Envenomer\|Envenomer]] |
+| [[Beyond the Veil/Veil Content/Abilities/Nature’s Edge\|Nature’s Edge]] | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 1 Action    |           | [[Beyond the Veil/Veil Glossary/Adjacent\|Adjacent]]                                   | Imbue Earth  | [[Beyond the Veil/Veil Content/Masteries/Envenomer\|Envenomer]] |
+| [[Beyond the Veil/Veil Content/Abilities/Potent Venom\|Potent Venom]]   | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 1 Action    |           | [[Beyond the Veil/Veil Glossary/Self\|Self]]                                           | Venom        | [[Beyond the Veil/Veil Content/Masteries/Envenomer\|Envenomer]] |
+| [[Beyond the Veil/Veil Content/Abilities/Throw Venom\|Throw Venom]]     | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 1 Action    | Defense   | [[Beyond the Veil/Veil Glossary/Range/Range 9\|Range 9]]                               | Venom        | [[Beyond the Veil/Veil Content/Masteries/Envenomer\|Envenomer]] |
+| [[Beyond the Veil/Veil Content/Abilities/Toxic Cloud\|Toxic Cloud]]     | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 2 Actions   | Fortitude | [[Beyond the Veil/Veil Glossary/Range/Range 12\|Range 12]]<br>[[Burst 3x3\|Burst 3x3]] | Earth        | [[Beyond the Veil/Veil Content/Masteries/Envenomer\|Envenomer]] |
+| [[Beyond the Veil/Veil Content/Abilities/Toxicity\|Toxicity]]           | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | Free Action |           | [[Beyond the Veil/Veil Glossary/Self\|Self]]                                           |              | [[Beyond the Veil/Veil Content/Masteries/Envenomer\|Envenomer]] |
 
-```base
-filters:
-  and:
-    - MasterySkills.contains(link("Envenomer"))
-    - base == link("Abilities.base")
-formulas:
-  Untitled: ""
-properties:
-  formula.Untitled:
-    displayName: sortOrderRank
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - MasterySkills
-      - Actions
-      - defenses
-      - Traits
-      - RangeArea
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-    columnSize:
-      note.MasterySkills: 232
-    rowHeight: medium
+{ .block-language-dataview}
 
-```
+| Item Name                                                                             | Rank                                                  | Traits                                                                                                           | Dossier                                                                              | Multi-Purchase | Stack | Wealth Cost | Actions           |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------- | ----- | ----------- | ----------------- |
+| [[Beyond the Veil/Veil Content/Gear/Desert Tickle (V)\|Desert Tickle (V)]]         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Venom\|Venom]]<br>[[Beyond the Veil/Veil Glossary/Consumable\|Consumable]] | [[Beyond the Veil/Veil Content/Campcraft/Alchemy & Medicine\|Alchemy & Medicine]] | false          | 1     | 2           | 1 Interact Action |
+| [[Beyond the Veil/Veil Content/Gear/Exsanguinated Venom\|Exsanguinated Venom]]     | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Venom\|Venom]]<br>[[Beyond the Veil/Veil Glossary/Consumable\|Consumable]] | [[Beyond the Veil/Veil Content/Campcraft/Alchemy & Medicine\|Alchemy & Medicine]] | false          | 1     | 2           | 1 Interact Action |
+| [[Beyond the Veil/Veil Content/Gear/Mellow Poppy (V)\|Mellow Poppy (V)]]           | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Venom\|Venom]]<br>[[Beyond the Veil/Veil Glossary/Consumable\|Consumable]] | [[Beyond the Veil/Veil Content/Campcraft/Alchemy & Medicine\|Alchemy & Medicine]] | false          | 1     | 2           | 1 Interact Action |
+| [[Beyond the Veil/Veil Content/Gear/Rosary Pea (V)\|Rosary Pea (V)]]               | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Venom\|Venom]]<br>[[Beyond the Veil/Veil Glossary/Consumable\|Consumable]] | [[Beyond the Veil/Veil Content/Campcraft/Alchemy & Medicine\|Alchemy & Medicine]] | false          | 1     | 2           | 1 Interact Action |
+| [[Beyond the Veil/Veil Content/Gear/Somniferous Toxin (V)\|Somniferous Toxin (V)]] | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Venom\|Venom]]<br>[[Beyond the Veil/Veil Glossary/Consumable\|Consumable]] | [[Beyond the Veil/Veil Content/Campcraft/Alchemy & Medicine\|Alchemy & Medicine]] | false          | 1     | 4           | 1 Interact Action |
+| [[Beyond the Veil/Veil Content/Gear/Viper’s Venom\|Viper’s Venom]]                 | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Venom\|Venom]]<br>[[Beyond the Veil/Veil Glossary/Consumable\|Consumable]] | [[Beyond the Veil/Veil Content/Campcraft/Alchemy & Medicine\|Alchemy & Medicine]] | false          | 1     | 2           | 1 Interact Action |
+| [[Beyond the Veil/Veil Content/Gear/Widower (V)\|Widower (V)]]                     | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Venom\|Venom]]<br>[[Beyond the Veil/Veil Glossary/Consumable\|Consumable]] | [[Beyond the Veil/Veil Content/Campcraft/Alchemy & Medicine\|Alchemy & Medicine]] | false          | 1     | 2           | 1 Interact Action |
+| [[Beyond the Veil/Veil Content/Gear/Wolfsbane (V)\|Wolfsbane (V)]]                 | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Venom\|Venom]]<br>[[Beyond the Veil/Veil Glossary/Consumable\|Consumable]] | [[Beyond the Veil/Veil Content/Campcraft/Alchemy & Medicine\|Alchemy & Medicine]] | false          | 1     | 2           | 1 Interact Action |
+| [[Beyond the Veil/Veil Content/Gear/Belladonna (V)\|Belladonna (V)]]               | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | [[Beyond the Veil/Veil Glossary/Venom\|Venom]]<br>[[Beyond the Veil/Veil Glossary/Consumable\|Consumable]] | [[Beyond the Veil/Veil Content/Campcraft/Alchemy & Medicine\|Alchemy & Medicine]] | false          | 1     | 4           | 1 Interact Action |
+| [[Beyond the Veil/Veil Content/Gear/Black Rose Petal (V)\|Black Rose Petal (V)]]   | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | [[Beyond the Veil/Veil Glossary/Venom\|Venom]]<br>[[Beyond the Veil/Veil Glossary/Consumable\|Consumable]] | [[Beyond the Veil/Veil Content/Campcraft/Alchemy & Medicine\|Alchemy & Medicine]] | false          | 1     | 4           | 1 Interact Action |
+| [[Beyond the Veil/Veil Content/Gear/Hemlock (V)\|Hemlock (V)]]                     | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | [[Beyond the Veil/Veil Glossary/Venom\|Venom]]<br>[[Beyond the Veil/Veil Glossary/Consumable\|Consumable]] | [[Beyond the Veil/Veil Content/Campcraft/Alchemy & Medicine\|Alchemy & Medicine]] | false          | 1     | 4           | 1 Interact Action |
+| [[Beyond the Veil/Veil Content/Gear/Mana-Lily Toxin (V)\|Mana-Lily Toxin (V)]]     | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | [[Beyond the Veil/Veil Glossary/Venom\|Venom]]<br>[[Beyond the Veil/Veil Glossary/Consumable\|Consumable]] | [[Beyond the Veil/Veil Content/Campcraft/Alchemy & Medicine\|Alchemy & Medicine]] | false          | 1     | 4           | 1 Interact Action |
 
-
-
-```base
-filters:
-  and:
-    - base == link("Gear.base")
-    - Traits.contains(link("Venom"))
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - Traits
-      - Dossier
-      - Multi-Purchase
-      - rank
-      - Stack
-      - Wealth Cost
-      - Actions
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-    columnSize:
-      file.name: 182
-
-```
+{ .block-language-dataview}
 
 
 

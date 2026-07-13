@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/graviton-step/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Boots ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Veteran"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/graviton-step/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Boots ","Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Veteran]]","image":"[[GravitonStep.png]]"}}
 ---
 
 
@@ -10,7 +10,7 @@
 ---
 
 > [!note] 👟
-> The [[Beyond the Veil Director's Hub/Magic Items/Graviton Step\|Graviton Step]] were designed by a group of Dwarven Engineers who wanted sure footing while working on devices that were in hard-to-reach locations in the large underground locations of [[Notion/Aeternum Wiki/Places/Location Database/Cerulia/Cerulia\|Cerulia]]. The [[Notion/Aeternum Wiki/Materials, Chemicals and Flora/Materials of Aeternum/Dwarvenite\|Dwarvenite]] ore leaves a purple metallic hue and offers good protection for the feet. 
+> The [[Beyond the Veil Director's Hub/Magic Items/Graviton Step\|Graviton Step]] were designed by a group of Dwarven Engineers who wanted sure footing while working on devices that were in hard-to-reach locations in the large underground locations of [[Aeternum Lore/Places of Aeternum/Cerulia/Cerulia\|Cerulia]]. The [[Aeternum Lore/Lore Glossary/Materials of Aeternum/Dwarvenite\|Dwarvenite]] ore leaves a purple metallic hue and offers good protection for the feet. 
 
 
 

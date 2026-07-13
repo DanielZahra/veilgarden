@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/downtime-activities/plot-a-route/","dg-note-properties":{"base":"[[Downtime Activities Database.base]]","Effect":"","Requirements":"Navigation Kit ","Related":""}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/downtime-activities/plot-a-route/","dg-note-properties":{"base":"[[Downtime Activities Database.base]]","Effect":"","Requirements":["[[Beyond the Veil/Veil Content/Gear/Navigation Kit\|Navigation Kit]]"],"Related":null}}
 ---
 
 - You consult your owned maps, the terrain and use your [[Beyond the Veil/Veil Content/Gear/Navigation Kit\|Navigation Kit]] to find the best possible route for the coming day.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/hasted-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Action Economy","Condition","Haste"],"MasterySkills":["Unarmed","Sword","Bows"],"Traits":"Attack ","defenses":["Defense"],"Actions":"Free Action","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/hasted-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Action Economy","Condition","Haste"],"MasterySkills":["[[Unarmed Fighting]]","[[Swords]]","[[Bows]]"],"Traits":"Attack ","defenses":["Defense"],"Actions":"Free Action","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

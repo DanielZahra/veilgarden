@@ -12,33 +12,18 @@
 { #bb23db}
 
 
-```base
-filters:
-  and:
-    - MasterySkills.contains(link("Galeshot"))
-    - base == link("Abilities.base")
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - MasterySkills
-      - Actions
-      - defenses
-      - Traits
-      - RangeArea
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-    columnSize:
-      file.name: 196
-      note.MasterySkills: 367
+| Ability Name                                                                               | Rank                                                  | Actions                            | Defenses                                                        | Range / Area                                                                              | Traits                                        | Mastery                                                                                                                                |
+| ------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Beyond the Veil/Veil Content/Abilities/Evasive Footwork\|Evasive Footwork]]           | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Free Action                        |                                                                 | [[Beyond the Veil/Veil Glossary/Self\|Self]]                                           | [[Beyond the Veil/Veil Glossary/Air\|Air]] | [[Beyond the Veil/Veil Content/Masteries/Trickster\|Trickster]], [[Beyond the Veil/Veil Content/Masteries/Galeshot\|Galeshot]]   |
+| [[Beyond the Veil/Veil Content/Abilities/Gale’s Manipulation\|Gale’s Manipulation]]     | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Reaction<br>Free Action            |                                                                 | [[Beyond the Veil/Veil Glossary/Range/Range 24\|Range 24]]                             | [[Beyond the Veil/Veil Glossary/Air\|Air]] | [[Beyond the Veil/Veil Content/Masteries/Galeshot\|Galeshot]]                                                                       |
+| [[Beyond the Veil/Veil Content/Abilities/Jumping Gale\|Jumping Gale]]                   | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action                           | Defense                                                         | Weapon Range                                                                              | Attack Air                                    | [[Beyond the Veil/Veil Content/Masteries/Galeshot\|Galeshot]]                                                                       |
+| [[Beyond the Veil/Veil Content/Abilities/Sonic Boom\|Sonic Boom]]                       | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 2 Actions                          | [[Beyond the Veil/Veil Glossary/Basic Reflex\|Basic Reflex]] | [[Beyond the Veil/Veil Glossary/Range/Range 12\|Range 12]]<br>[[Burst 3x3\|Burst 3x3]] | [[Beyond the Veil/Veil Glossary/Air\|Air]] | [[Beyond the Veil/Veil Content/Masteries/Galeshot\|Galeshot]], [[Beyond the Veil/Veil Content/Masteries/Aeromancer\|Aeromancer]] |
+| [[Beyond the Veil/Veil Content/Abilities/Wind Wall\|Wind Wall]]                         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action                           |                                                                 | Range 6                                                                                   | [[Beyond the Veil/Veil Glossary/Air\|Air]] | [[Beyond the Veil/Veil Content/Masteries/Galeshot\|Galeshot]]                                                                       |
+| [[Beyond the Veil/Veil Content/Abilities/Arrow of Foristra\|Arrow of Foristra]]         | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 1 Action                           | Defense<br>Fortitude                                            | Weapon Range                                                                              | Attack Size Difference Air                    | [[Beyond the Veil/Veil Content/Masteries/Galeshot\|Galeshot]]                                                                       |
+| [[Beyond the Veil/Veil Content/Abilities/Galeforce Shot\|Galeforce Shot]]               | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 1 Action<br>2 Actions<br>3 Actions | Defense                                                         | Weapon Range                                                                              | Attack Air                                    | [[Beyond the Veil/Veil Content/Masteries/Galeshot\|Galeshot]]                                                                       |
+| [[Beyond the Veil/Veil Content/Abilities/Strike of the 4 Winds\|Strike of the 4 Winds]] | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 1 Action                           | Defense                                                         | Weapon Range                                                                              | Attack Teleport Air                           | [[Beyond the Veil/Veil Content/Masteries/Galeshot\|Galeshot]]                                                                       |
 
-```
+{ .block-language-dataview}
 
 
 ## TODO

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/pact-of-chains/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Condition","Held","Restrained"],"MasterySkills":["Pactbinder"],"Traits":"","defenses":["Reflex"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/pact-of-chains/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Condition","Held","Restrained"],"MasterySkills":["[[Pactbinder]]"],"Traits":"","defenses":["Reflex"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

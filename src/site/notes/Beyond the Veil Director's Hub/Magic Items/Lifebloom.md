@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/lifebloom/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Protection Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/lifebloom/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Protection Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[lifebloom.png]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/flaming-armaments/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":[],"MasterySkills":["Pyromancer","Torchbearer"],"Traits":"Imbue Fire ","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/flaming-armaments/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Adjacent]]"],"Tags":[],"MasterySkills":["[[Pyromancer]]","[[Torchbearer]]"],"Traits":["[[Imbue]]","[[Fire]]"],"defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

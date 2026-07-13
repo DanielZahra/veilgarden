@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/silverback-grip/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":[],"Traits":"Soulbind Protection Rune ","Cooldown":["Normal"],"Rarity":["Exalted"],"Grade":"Master"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/silverback-grip/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":[],"Traits":"Soulbind Protection Rune ","Cooldown":["Normal"],"Rarity":["Exalted"],"Rank":"[[Master]]","image":"[[silverbackgrip.png]]"}}
 ---
 
 

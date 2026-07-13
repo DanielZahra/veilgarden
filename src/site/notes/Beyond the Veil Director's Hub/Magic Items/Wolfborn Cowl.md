@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/wolfborn-cowl/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Headwear ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/wolfborn-cowl/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":null,"Traits":"Soulbind Worn Headwear ","Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[wolfborncowl.png]]"}}
 ---
 
 
@@ -10,7 +10,7 @@
 ---
 
 > [!note] 💫
-> When you soulbind to this cowl, your senses of camaraderie and belonging in the pack increase. The [[Beyond the Veil Director's Hub/Magic Items/Wolfborn Cowl\|Wolfborn Cowl]] is made from the remains of the fiercest pack leading wolves. This cowl is said to have belonged to a savage orc who survived in the forests of [[Notion/Aeternum Wiki/Places/Location Database/Fellintra\|Fellintra]] on his own from the age of 1 to 20, as he was assimilated in, and lived with a pack of wolves. 
+> When you soulbind to this cowl, your senses of camaraderie and belonging in the pack increase. The [[Beyond the Veil Director's Hub/Magic Items/Wolfborn Cowl\|Wolfborn Cowl]] is made from the remains of the fiercest pack leading wolves. This cowl is said to have belonged to a savage orc who survived in the forests of [[Aeternum Lore/Places of Aeternum/Fellintra\|Fellintra]] on his own from the age of 1 to 20, as he was assimilated in, and lived with a pack of wolves. 
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/aqua-lung/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["No Skill Check"],"Traits":"","Wealth Cost":"8","Cast Time":"10 minutes","Primary Skill":["Restoration"],"Kits or Tools":"Alchemy Kit ","Tier":["Adept"],"Casting Cost":"","Secondary Skill/s":["Athletics","Intuition","Restoration"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/aqua-lung/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["No Skill Check"],"Traits":"","Wealth Cost":"8","Cast Time":"10 minutes","Kits or Tools":"Alchemy Kit ","Skills":["Athletics","Intuition","Restoration"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] 

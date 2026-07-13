@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/ignition/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":[],"MasterySkills":["Pyromancer"],"Traits":"Fire ","defenses":["Fortitude"],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/ignition/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Range 12]]"],"Tags":[],"MasterySkills":["[[Pyromancer]]"],"Traits":["[[Fire]]"],"defenses":["[[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]]"],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/inspiring/inspiring-2/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/inspiring/inspiring-2/","dg-note-properties":{"base":null}}
 ---
 
 

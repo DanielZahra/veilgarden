@@ -9,7 +9,7 @@
 
 ### [[Beyond the Veil/Veil Glossary/Equipment Mastery\|Equipment Mastery]] 
 
-Equipment Mastery defines your proficiency with weapons, armor, and specialized gear. Spending XP in Equipment Masteries unlocks abilities and passive traits. These abilities require you to wield or wear the corresponding equipment to activate them.
+Equipment Mastery defines your proficiency with weapons, armor, and specialized gear. Gaining ranks in Equipment Masteries unlocks abilities and passive traits. These abilities require you to wield or wear the corresponding equipment to activate them.
 
 #### Equipment Families
 

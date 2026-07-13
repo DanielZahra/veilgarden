@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/zero-sphere/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 6","Burst 1x1"],"Tags":["Damage"],"MasterySkills":["Hollow"],"Traits":"Void ","defenses":["Basic Reflex"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/zero-sphere/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 6","Burst 1x1"],"Tags":["Damage"],"MasterySkills":["[[Hollow]]"],"Traits":"Void ","defenses":["Basic Reflex"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > You summon an oscillating sphere of pure void. Anything that comes in contact with the sphere slowly starts to disintegrate from reality.

@@ -10,7 +10,7 @@
 | Veteran       | Chilling can impact multiple creatures.<br><br>You gain a [[Beyond the Veil/Veil Glossary/Boon\|Boon]] [[Beyond the Veil/Veil Glossary/Water Damage\|Water Damage]]                                                                                                                                                                                                   |
 | Master        | Chilling can be used multiple times in a single turn.<br><br>Chilling’s effect is increased to 2.<br><br>You gain [[Beyond the Veil/Veil Glossary/Major Boon\|Major Boon]] against [[Beyond the Veil/Veil Glossary/Water Damage\|Water Damage]]                                                                                                                             |
 
-<!-- Linked database (not supported by Notion API) -->
+
 
 ## TODO
 

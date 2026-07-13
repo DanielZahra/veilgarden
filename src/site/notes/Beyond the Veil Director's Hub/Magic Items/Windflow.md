@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/windflow/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Soulbind Worn Belt ","Cooldown":["Normal"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/windflow/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Soulbind Worn Belt ","Cooldown":["Normal"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[windflow.jpeg]]"}}
 ---
 
 
@@ -19,4 +19,4 @@ Activation [[Beyond the Veil/Veil Content/Actions/Interact\|Interact]]
 ![windflow.jpeg\|1090](/img/user/Media%20and%20Images/windflow.jpeg)
 
 > [!tip] 💡
-> [[Beyond the Veil Director's Hub/Magic Items/Windflow\|Windflow]] gained some fame in [[Notion/Aeternum Wiki/Places/Location Database/Messana\|Messana]] when racers and their sponsors were all trying to get these. Eventually an attempt was made to ban it from the sports, which resulted in most magical gear to be disallowed in sporting events.
+> [[Beyond the Veil Director's Hub/Magic Items/Windflow\|Windflow]] gained some fame in [[Aeternum Lore/Places of Aeternum/Messana\|Messana]] when racers and their sponsors were all trying to get these. Eventually an attempt was made to ban it from the sports, which resulted in most magical gear to be disallowed in sporting events.

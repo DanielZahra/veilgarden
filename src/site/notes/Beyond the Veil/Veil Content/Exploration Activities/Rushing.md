@@ -12,7 +12,7 @@ Example: If you use [[Beyond the Veil/Veil Content/Exploration Activities/Rushin
 
 When the [[Beyond the Veil/Veil Glossary/Group Skill Check\|Group Skill Check]] is made, on a success the party keeps up their [[Beyond the Veil/Veil Content/Exploration Activities/Rushing\|Rushing]]. On Failure, the party can slow down or decide to abandon the creature or creatures that are failing, possibly turning the check into a success, but the creature is left behind.
 
-**Critical Success: **You gain 2 successes**
-****Success: **You gain 1 success**
-****Failure: **You gain a failure**
-****Critical Failure: **You gain 2 failures
+Critical Success: You gain 2 successes
+Success: You gain 1 success
+Failure: You gain a failure
+Critical Failure: You gain 2 failures

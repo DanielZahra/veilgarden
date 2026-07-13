@@ -3,7 +3,7 @@
 ---
 
 > [!note] ⚔️
-> You deploy a [[Notion/Aeternum Wiki/Manatech\|Manatech]] deivce, that when triggered props up a screwcrow statue that startles nearby creatures. 
+> You deploy a [[Aeternum Lore/Lore Glossary/Manatech\|Manatech]] deivce, that when triggered props up a screwcrow statue that startles nearby creatures. 
 
 - You deploy a 1x1 Burst with a 3 [[Beyond the Veil/Veil Glossary/Emanation/Emanation\|Emanation]] detection radius.
 - When a creature moves into the [[Beyond the Veil/Veil Glossary/Emanation/Emanation\|Emanation]] radius, the [[Beyond the Veil/Veil Content/Gear/Scarecrow\|Scarecrow]] triggers, creatures in the area must make a [[Beyond the Veil/Veil Glossary/Will\|Will]] Saving throw to become [[Beyond the Veil/Veil Content/Conditions/Fixated\|Fixated]].

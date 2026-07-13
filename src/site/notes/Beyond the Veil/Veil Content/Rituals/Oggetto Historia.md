@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/oggetto-historia/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["15"],"Traits":"","Wealth Cost":"4","Cast Time":"1 Hour","Primary Skill":["Smarts"],"Kits or Tools":"Artificing Kit ","Tier":["Adept"],"Casting Cost":"","Secondary Skill/s":["Influence","Intuition","Tinkering","Smarts"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/oggetto-historia/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["15"],"Traits":"","Wealth Cost":"4","Cast Time":"1 Hour","Kits or Tools":"Artificing Kit ","Skills":["Influence","Intuition","Tinkering","Smarts"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] 🗺️

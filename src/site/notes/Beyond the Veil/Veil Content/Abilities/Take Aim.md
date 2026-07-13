@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/take-aim/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 6"],"Tags":[],"MasterySkills":["Commander"],"Traits":"Auditory ","defenses":[],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/take-aim/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 6"],"Tags":[],"MasterySkills":["[[Commander]]"],"Traits":"Auditory ","defenses":[],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

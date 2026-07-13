@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/favorite-sock/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Free Activation"],"Traits":"Soulbind Worn Boots ","Cooldown":["Normal"],"Rarity":["Exalted"],"Grade":"Veteran"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/favorite-sock/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Free Activation"],"Traits":"Soulbind Worn Boots ","Cooldown":["Normal"],"Rarity":["Exalted"],"Rank":"[[Veteran]]","image":"[[favoritesock.png]]"}}
 ---
 
 

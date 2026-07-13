@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/mana-sensitivity/","dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":null,"Traits":["[[Exploration Activities]]"],"Rank":["[[Veteran]]"],"MasterySkills":"[[Intuition]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/mana-sensitivity/","tags":["MinorSkillFeat"],"dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":["[[Beyond the Veil/Veil Content/Features and Passives/Mana Sensor\|Mana Sensor]]"],"Traits":["[[Exploration Activities]]"],"Rank":"[[Veteran]]","MasterySkills":"[[Intuition]]","sortOrderByRank":2,"tags":["MinorSkillFeat"]}}
 ---
 
-**Requirement:** [[Beyond the Veil/Veil Content/Features and Passives/6th Sense\|6th Sense]]
+**Requirement:** [[Beyond the Veil/Veil Content/Features and Passives/Mana Sensor\|Mana Sensor]]
 
 --- 
-- When you take the [[Beyond the Veil/Veil Content/Exploration Activities/Identify Mana\|Identify Mana]] exploration activity, you increase your degree of success by 1.
+- Your [[Beyond the Veil/Veil Content/Actions/Detect Mana\|Detect Mana]] check results are increased by 1 Degree.

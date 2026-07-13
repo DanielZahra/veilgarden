@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/ritual-of-dispelling/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["Varies"],"Traits":"","Wealth Cost":"4","Cast Time":"10 minutes","Primary Skill":["Intuition"],"Kits or Tools":"Spiritualist’s Kit ","Tier":["Adept"],"Casting Cost":"","Secondary Skill/s":["Tinkering","Subterfuge","Perception"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/ritual-of-dispelling/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["Varies"],"Traits":"","Wealth Cost":"4","Cast Time":"10 minutes","Kits or Tools":"Spiritualist’s Kit ","Skills":["Tinkering","Subterfuge","Perception","[[Intuition]]"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] 

@@ -4,6 +4,6 @@
 
 > With martial might and speed, you attack twice, one strike flowing seamlessly into the next
 
-- 2x [[Beyond the Veil/Veil Glossary/Power Strike\|Power Strike]] against one target,
+- 2x [[Beyond the Veil/Veil Glossary/Power Strike\|Power Strike]] against one target.
 
 ---

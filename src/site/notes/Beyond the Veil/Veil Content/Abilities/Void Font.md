@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/void-font/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":[],"Tags":["Action Economy","Damage"],"MasterySkills":["Hollow"],"Traits":"","defenses":[],"Actions":"Free Action","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/void-font/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":[],"Tags":["Action Economy","Damage"],"MasterySkills":["[[Hollow]]"],"Traits":"","defenses":[],"Actions":"Free Action","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > [!note] 

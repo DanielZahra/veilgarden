@@ -11,31 +11,21 @@
 | Master        | [[Beyond the Veil/Veil Content/Features and Passives/Overcharge\|Overcharge]] stack limit increases to 6.<br><br>You gain [[Beyond the Veil/Veil Glossary/Major Boon\|Major Boon]] against [[Beyond the Veil/Veil Glossary/Air Damage\|Air Damage]].                                                                                                                                                                                                                                                                                                                                 |
 { #8caad2}
 
+| Ability Name                                                                         | Rank                                                  | Actions                            | Defenses        | Range / Area            | Traits                                                                                             | Mastery                                                                |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------- | --------------- | ----------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [[Beyond the Veil/Veil Content/Abilities/Air Weakness\|Air Weakness]]             | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action                           | Fortitude       | Range 12                | Air                                                                                                | [[Beyond the Veil/Veil Content/Masteries/Stormweaver\|Stormweaver]] |
+| [[Beyond the Veil/Veil Content/Abilities/Electric Arc\|Electric Arc]]             | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 2 Actions                          | Basic Reflex    | Range 6                 | Air                                                                                                | [[Beyond the Veil/Veil Content/Masteries/Stormweaver\|Stormweaver]] |
+| [[Beyond the Veil/Veil Content/Abilities/Lightning Bolt\|Lightning Bolt]]         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action<br>2 Actions<br>3 Actions | Basic Reflex    | Line 20x1               | Air                                                                                                | [[Beyond the Veil/Veil Content/Masteries/Stormweaver\|Stormweaver]] |
+| [[Beyond the Veil/Veil Content/Abilities/Lightning Rod\|Lightning Rod]]           | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 2 Actions                          | Basic Reflex    | Range 6<br>Burst 2x2    | Air                                                                                                | [[Beyond the Veil/Veil Content/Masteries/Stormweaver\|Stormweaver]] |
+| [[Beyond the Veil/Veil Content/Abilities/Lightning Strike\|Lightning Strike]]     | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 2 Actions                          | Basic Reflex    | Range 12<br>Burst 2x2   | Air                                                                                                | [[Beyond the Veil/Veil Content/Masteries/Stormweaver\|Stormweaver]] |
+| [[Beyond the Veil/Veil Content/Abilities/Unleash Charge\|Unleash Charge]]         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Free Action                        |                 | Self                    |                                                                                                    | [[Beyond the Veil/Veil Content/Masteries/Stormweaver\|Stormweaver]] |
+| [[Beyond the Veil/Veil Content/Abilities/Lightning Cage\|Lightning Cage]]         | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 2 Actions                          | Basic Fortitude | Range 6                 | Air                                                                                                | [[Beyond the Veil/Veil Content/Masteries/Stormweaver\|Stormweaver]] |
+| [[Beyond the Veil/Veil Content/Abilities/Lightning Jolt\|Lightning Jolt]]         | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 1 Action                           | Basic Reflex    | Range 12                | Air                                                                                                | [[Beyond the Veil/Veil Content/Masteries/Stormweaver\|Stormweaver]] |
+| [[Beyond the Veil/Veil Content/Abilities/Ride the Lightning\|Ride the Lightning]] | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 2 Actions                          | Basic Reflex    | Range 18<br>Emanation 2 | Air                                                                                                | [[Beyond the Veil/Veil Content/Masteries/Stormweaver\|Stormweaver]] |
+| [[Beyond the Veil/Veil Content/Abilities/Thunderbird\|Thunderbird]]               | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 3 Actions                          | Basic Reflex    |                         | [[Beyond the Veil/Veil Glossary/Air\|Air]], [[Beyond the Veil/Veil Glossary/Summon\|Summon]] | [[Beyond the Veil/Veil Content/Masteries/Stormweaver\|Stormweaver]] |
+| [[Beyond the Veil/Veil Content/Abilities/Chain Lightning\|Chain Lightning]]       | [[Beyond the Veil/Veil Glossary/Master\|Master]]   | 3 Actions                          | Basic Reflex    | Range 18                | Air                                                                                                | [[Beyond the Veil/Veil Content/Masteries/Stormweaver\|Stormweaver]] |
+| [[Beyond the Veil/Veil Content/Abilities/Storm\|Storm]]                           | [[Beyond the Veil/Veil Glossary/Master\|Master]]   | 1 Action                           | Basic Reflex    | Emanation 50            | Air                                                                                                | [[Beyond the Veil/Veil Content/Masteries/Stormweaver\|Stormweaver]] |
 
-
-```base
-filters:
-  and:
-    - MasterySkills.contains(link("Stormweaver"))
-    - base == link("Abilities.base")
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - MasterySkills
-      - Actions
-      - defenses
-      - Traits
-      - RangeArea
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-
-```
+{ .block-language-dataview}
 
 

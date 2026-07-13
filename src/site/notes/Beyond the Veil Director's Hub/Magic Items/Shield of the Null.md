@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/shield-of-the-null/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Reaction Activation"],"Traits":"Loadout ","Cooldown":["Normal"],"Rarity":["Shard"],"Grade":"Veteran"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/shield-of-the-null/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Reaction Activation"],"Traits":"Loadout ","Cooldown":["Normal"],"Rarity":["Shard"],"Rank":"[[Veteran]]","image":"[[shieldofthenull.jpeg]]"}}
 ---
 
 

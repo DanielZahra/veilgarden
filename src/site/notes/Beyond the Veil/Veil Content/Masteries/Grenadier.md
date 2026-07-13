@@ -25,5 +25,5 @@
 | Veteran |   |
 | Master |   |
 
-<!-- Linked database (not supported by Notion API) -->
+
 

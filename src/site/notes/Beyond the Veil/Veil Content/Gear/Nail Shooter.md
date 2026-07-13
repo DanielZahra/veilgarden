@@ -3,7 +3,7 @@
 ---
 
 > [!note] ⚔️
-> You stick a [[Notion/Aeternum Wiki/Manatech\|Manatech]] explosive in the ground that can sense motion and explode, sending hundreds of nails in a cone area.
+> You stick a [[Aeternum Lore/Lore Glossary/Manatech\|Manatech]] explosive in the ground that can sense motion and explode, sending hundreds of nails in a cone area.
 
 - [[Beyond the Veil/Veil Content/Gear/Nail Shooter\|Nail Shooter]] can be placed in an adjacent space.
 - [[Beyond the Veil/Veil Glossary/Trap\|Trap]] is a [[Beyond the Veil/Veil Glossary/Cone\|Cone]] 4 + [[Beyond the Veil/Veil Glossary/Piercing/Piercing Damage/Piercing Damage\|Piercing Damage]] 4

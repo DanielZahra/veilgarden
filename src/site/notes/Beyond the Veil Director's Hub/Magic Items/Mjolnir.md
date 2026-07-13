@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/mjolnir/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":[],"Traits":"Soulbind Weapon Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Master"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/mjolnir/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":[],"Traits":"Soulbind Weapon Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Master]]","image":"[[mjolnir.png]]"}}
 ---
 
 

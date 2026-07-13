@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/hand-of-graav/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":[],"Traits":"Soulbind Weapon Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Master"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/hand-of-graav/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":[],"Traits":"Soulbind Weapon Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Master]]","image":"[[handofgraav.png]]"}}
 ---
 
 

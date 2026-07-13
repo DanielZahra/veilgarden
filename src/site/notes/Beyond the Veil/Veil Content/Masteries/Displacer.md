@@ -23,5 +23,5 @@
     - Legend
 - Passives
 
-<!-- Linked database (not supported by Notion API) -->
+
 

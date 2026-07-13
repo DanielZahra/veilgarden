@@ -10,7 +10,7 @@
 | Veteran | You can prepare 3 Adept Traits during[[Beyond the Veil/Veil Content/Rituals/Beastmaster’s Bond\|Beastmaster’s Bond]]<br>You can prepare 1 Veteran Trait during[[Beyond the Veil/Veil Content/Rituals/Beastmaster’s Bond\|Beastmaster’s Bond]] |
 | Master | You can prepare 3 Adept Trait  during[[Beyond the Veil/Veil Content/Rituals/Beastmaster’s Bond\|Beastmaster’s Bond]]<br>You can prepare 2 Veteran Traits during[[Beyond the Veil/Veil Content/Rituals/Beastmaster’s Bond\|Beastmaster’s Bond]]<br>You can prepare 1 Master Trait during[[Beyond the Veil/Veil Content/Rituals/Beastmaster’s Bond\|Beastmaster’s Bond]] |
 
-<!-- Linked database (not supported by Notion API) -->
+
 
 ## TODO
 

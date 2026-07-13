@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/bola/","dg-note-properties":{"base":"[[Gear.base]]","Traits":"Gear ","Dossier":"[[Dungeoneering & Gear]]","Multi-Purchase":true,"Stack":"1","Wealth Cost":"2","Actions":["1 Interact Action"],"Rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/bola/","dg-note-properties":{"base":"[[Gear.base]]","Traits":["[[Gear]]"],"Dossier":"[[Dungeoneering & Gear]]","Multi-Purchase":true,"Stack":"1","Wealth Cost":"2","Actions":["1 Interact Action"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 - You can throw a [[Beyond the Veil/Veil Content/Gear/Bola\|Bola]] up to 12 meters , this allows you to make a ranged [[Beyond the Veil/Veil Content/Actions/Trip\|Trip]] attempt.

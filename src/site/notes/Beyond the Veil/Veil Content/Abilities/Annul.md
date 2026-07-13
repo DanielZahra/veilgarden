@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/annul/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 6"],"Tags":["Dispel Effect"],"MasterySkills":["Intuition"],"Traits":"Dispel Effect ","defenses":["Special"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/annul/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 6"],"Tags":["Dispel Effect"],"MasterySkills":["[[Intuition]]"],"Traits":"Dispel Effect ","defenses":["Special"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

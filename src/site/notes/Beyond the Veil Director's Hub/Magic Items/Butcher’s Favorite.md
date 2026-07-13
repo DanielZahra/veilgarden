@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/butcher-s-favorite/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Weapon Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Adept","image":"[[butchersfavorite.png]]"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/butcher-s-favorite/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Weapon Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"image":"[[butchersfavorite.png]]","Rank":"[[Adept]]"}}
 ---
 
 

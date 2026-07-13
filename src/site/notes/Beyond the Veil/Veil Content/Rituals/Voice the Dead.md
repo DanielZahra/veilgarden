@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/voice-the-dead/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["15"],"Traits":"Sacriledge Blood ","Cast Time":"1 Hour","Primary Skill":["Restoration"],"Kits or Tools":"","Tier":["Veteran"],"Casting Cost":"-","Secondary Skill/s":["Intuition","Influence","Restoration"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/voice-the-dead/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["15"],"Traits":["[[Sacrilege]]","[[Blood]]"],"Cast Time":"1 Hour","Kits or Tools":"","Skills":["Intuition","Influence","Restoration"],"Rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > >

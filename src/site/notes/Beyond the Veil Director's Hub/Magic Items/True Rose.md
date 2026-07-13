@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/true-rose/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":[],"Traits":"Soulbind ","Cooldown":["Passive"],"Rarity":["Artifact"],"Grade":"-"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/true-rose/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":[],"Traits":"Soulbind ","Cooldown":["Passive"],"Rarity":["Artifact"],"Rank":"[[Unique]]","image":"[[truerose.png]]"}}
 ---
 
 

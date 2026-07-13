@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/wax-of-the-archmage/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["17"],"Traits":"Communication ","Primary Skill":["Tinkering"],"Kits or Tools":"","Tier":["Veteran"],"Casting Cost":"","Secondary Skill/s":[]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/wax-of-the-archmage/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["17"],"Traits":["[[Communication]]"],"Kits or Tools":"","Skills":["[[Tinkering]]"],"Rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 You write a letter and to it you affix a magical and peculiar WAX. 

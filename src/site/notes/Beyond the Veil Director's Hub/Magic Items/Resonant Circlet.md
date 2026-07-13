@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/resonant-circlet/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Headwear ","Cooldown":["Normal"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/resonant-circlet/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Headwear ","Cooldown":["Normal"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[resonantcirclet.png]]"}}
 ---
 
 

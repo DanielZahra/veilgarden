@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/wall-walker/","dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":"[[Beyond the Veil/Veil Content/Features and Passives/Light Foot\|Light Foot]]","Traits":[],"Rank":["[[Veteran]]"],"MasterySkills":["[[Agility]]"],"sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/wall-walker/","tags":["SkillFeat"],"dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":null,"Traits":[],"Rank":"[[Veteran]]","MasterySkills":["[[Agility]]"],"sortOrderByRank":2,"tags":["SkillFeat"]}}
 ---
 
-Requirement: [[Beyond the Veil/Veil Content/Features and Passives/Light Foot\|Light Foot]] 
 
----
-
-Description::  You gain [[Beyond the Veil/Veil Glossary/Wall Walking\|Wall Walking]] up to your [[Beyond the Veil/Veil Glossary/Speed\|Speed]]. If you stop or end your turn during wall walk, you start [[Beyond the Veil/Veil Content/Conditions/Falling\|Falling]]. [[Beyond the Veil/Veil Content/Features and Passives/Wall Walker\|Wall Walker]] Requires the [[Beyond the Veil/Veil Content/Features and Passives/Light Foot\|Light Foot]] Feat.
+- You gain [[Beyond the Veil/Veil Glossary/Wall Walking\|Wall Walking]], and can wall walk as if it were [[Beyond the Veil/Veil Content/Conditions/Difficult Terrain 1\|Difficult Terrain 1]]
+- If you stop or end your turn during wall walk, you start [[Beyond the Veil/Veil Content/Conditions/Falling\|Falling]].

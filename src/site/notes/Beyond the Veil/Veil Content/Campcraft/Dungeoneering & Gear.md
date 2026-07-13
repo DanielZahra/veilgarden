@@ -1,62 +1,39 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/campcraft/dungeoneering-and-gear/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/campcraft/dungeoneering-and-gear/","dg-note-properties":{"base":"[[Veil Glossary.base]]"}}
 ---
 
+#### [[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear\|Dungeoneering & Gear]] [[Beyond the Veil/Veil Glossary/Gear\|Gear]]
+| Item Name                                                                                     | Rank                                                  | Traits                                                                                                                                                                                                                 | Dossier                                                                                  | Actions           | Stack | Wealth Cost | Multi-Purchase |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------- | ----- | ----------- | -------------- |
+| [[Beyond the Veil/Veil Content/Gear/Bola\|Bola]]                                           | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Gear\|Gear]]                                                                                                                                                                        | [[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear\|Dungeoneering & Gear]] | 1 Interact Action | 1     | 2           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Disguise Station\|Disguise Station]]                   | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Kit\|Kit]]                                                                                                                                                                          | [[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear\|Dungeoneering & Gear]] |                   | 1     | 1           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Ear Plugs\|Ear Plugs]]                                 | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Gear\|Gear]]<br>[[Beyond the Veil/Veil Glossary/Worn\|Worn]]                                                                                                                     | [[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear\|Dungeoneering & Gear]] | 1 Interact Action | 1     | 2           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Navigation Kit\|Navigation Kit]]                       | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Kit\|Kit]]                                                                                                                                                                          | [[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear\|Dungeoneering & Gear]] |                   | 1     | 1           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Psionic Feeler\|Psionic Feeler]]                       | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Gear Worn Auditory                                                                                                                                                                                                     | [[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear\|Dungeoneering & Gear]] | 1 Interact Action | 1     | 4           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Rope Gear\|Rope Gear]]                                 | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Gear\|Gear]]                                                                                                                                                                        | [[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear\|Dungeoneering & Gear]] |                   | 1     | 1           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Spiritualist’s Kit\|Spiritualist’s Kit]]               | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Kit\|Kit]]                                                                                                                                                                          | [[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear\|Dungeoneering & Gear]] |                   | 1     | 1           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Tinkering Tools\|Tinkering Tools]]                     | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Kit\|Kit]]                                                                                                                                                                          | [[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear\|Dungeoneering & Gear]] |                   | 1     | 1           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Torch\|Torch]]                                         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Gear\|Gear]]<br>[[Beyond the Veil/Veil Glossary/Light/Light\|Light]]<br>[[Beyond the Veil/Veil Glossary/Fire/Fire\|Fire]]                                                     | [[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear\|Dungeoneering & Gear]] | 1 Interact Action | 1     | 1           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Wearable Infinite Lantern\|Wearable Infinite Lantern]] | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Light/Light\|Light]]<br>[[Beyond the Veil/Veil Glossary/Gear\|Gear]]<br>[[Beyond the Veil/Veil Glossary/Worn\|Worn]]<br>[[Beyond the Veil/Veil Glossary/Loadout\|Loadout]] | [[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear\|Dungeoneering & Gear]] | 1 Interact Action | 1     | 2           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Spyglass\|Spyglass]]                                   | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | [[Beyond the Veil/Veil Glossary/Gear\|Gear]]                                                                                                                                                                        | [[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear\|Dungeoneering & Gear]] | 1 Interact Action | 1     | 4           | true           |
 
-```base
-filters:
-  and:
-    - base == link("Campcraft Passive Database.base")
-    - Dossier.contains(link("Dungeoneering & Gear"))
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - Dossier
-      - Wealth Cost
-      - Requirements
-      - Traits
-      - Text
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-    columnSize:
-      file.name: 260
-      note.Requirements: 228
-      note.Text: 859
-    rowHeight: medium
+{ .block-language-dataview}
 
-```
+#### [[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear\|Dungeoneering & Gear]] [[Beyond the Veil/Veil Glossary/Campcraft\|Campcraft]] Upgrades
+| Name                                                                                                                | Rank                      | Dossier                                                                                                     | Requirements                                                                                    | Wealth Cost | Traits                                                  |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------- |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Extended Rope\|Extended Rope]]                         | <ul><li>Adept</li></ul>   | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear.md\\|Dungeoneering & Gear]]</li></ul> | Rope Gear                                                                                       | 3           |                                                         |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Grappling Hook\|Grappling Hook]]                       | <ul><li>Adept</li></ul>   | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear.md\\|Dungeoneering & Gear]]</li></ul> | Rope Gear                                                                                       | 2           |                                                         |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Manafused Lanterns\|Manafused Lanterns]]               | <ul><li>Adept</li></ul>   | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear.md\\|Dungeoneering & Gear]]</li></ul> | Wearable Infinite Lantern                                                                       | 4           |                                                         |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Belt Mounted Rope Rings\|Belt Mounted Rope Rings]]     | <ul><li>Veteran</li></ul> | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear.md\\|Dungeoneering & Gear]]</li></ul> | [[Beyond the Veil/Veil Content/Gear/Rope Gear\|Rope Gear]]                                   | 3           |                                                         |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Feeler Extender\|Feeler Extender]]                     | <ul><li>Veteran</li></ul> | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear.md\\|Dungeoneering & Gear]]</li></ul> | Psionic Feeler                                                                                  | 10          | [[Beyond the Veil/Veil Glossary/Auditory\|Auditory]] |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Locksmith’s Tools\|Locksmith’s Tools]]                 | <ul><li>Veteran</li></ul> | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear.md\\|Dungeoneering & Gear]]</li></ul> | Tinkering Tools                                                                                 | 4           |                                                         |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Steel Wire Bola\|Steel Wire Bola]]                     | <ul><li>Veteran</li></ul> | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear.md\\|Dungeoneering & Gear]]</li></ul> | Bola                                                                                            | 4           |                                                         |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Waterproof Lanterns\|Waterproof Lanterns]]             | <ul><li>Veteran</li></ul> | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear.md\\|Dungeoneering & Gear]]</li></ul> | Wearable Infinite Lantern                                                                       | 4           |                                                         |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Aeternite Bola\|Aeternite Bola]]                       | <ul><li>Master</li></ul>  | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear.md\\|Dungeoneering & Gear]]</li></ul> | [[Beyond the Veil/Veil Content/Campcraft Passive Database/Steel Wire Bola\|Steel Wire Bola]] | 8           |                                                         |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Bright Spirit Lanterns\|Bright Spirit Lanterns]]       | <ul><li>Master</li></ul>  | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear.md\\|Dungeoneering & Gear]]</li></ul> | Manafused Lanterns                                                                              | 6           |                                                         |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Invisible Glider\|Invisible Glider]]                   | <ul><li>Master</li></ul>  | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear.md\\|Dungeoneering & Gear]]</li></ul> | Glider                                                                                          | 6           |                                                         |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Snake Hook\|Snake Hook]]                               | <ul><li>Master</li></ul>  | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear.md\\|Dungeoneering & Gear]]</li></ul> | Grappling Hook                                                                                  | 8           |                                                         |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Tempered Spy Glass Lenses\|Tempered Spy Glass Lenses]] | <ul><li>Master</li></ul>  | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Dungeoneering & Gear.md\\|Dungeoneering & Gear]]</li></ul> | Spyglass                                                                                        | 4           |                                                         |
 
-
-
-```base
-filters:
-  and:
-    - base == link("Gear.base")
-    - Dossier.contains(link("Dungeoneering & Gear"))
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - Traits
-      - Dossier
-      - Multi-Purchase
-      - Stack
-      - Wealth Cost
-      - Actions
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-
-```
+{ .block-language-dataview}

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/skilled-leader/","dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":null,"Traits":[],"Rank":["[[Veteran]]"],"MasterySkills":"[[Influence]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/skilled-leader/","tags":["MinorSkillFeat"],"dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":["[[Beyond the Veil/Veil Content/Features and Passives/Instructor\|Instructor]]"],"Traits":[],"Rank":"[[Veteran]]","MasterySkills":"[[Influence]]","sortOrderByRank":2,"tags":["MinorSkillFeat"]}}
 ---
 
 **Requirement:** Any [[Beyond the Veil/Veil Content/Features and Passives/Instructor\|Instructor]]
 
 --- 
-- When you and your allies are making Skill checks in which you are an[[Beyond the Veil/Veil Content/Features and Passives/Instructor\|Instructor]] in, you can apply [[Beyond the Veil/Veil Content/Features and Passives/Instructor\|Instructor]] to all allies.
+- When you and your allies are making Skill checks in which you are an [[Beyond the Veil/Veil Content/Features and Passives/Instructor\|Instructor]] in, you can apply [[Beyond the Veil/Veil Content/Features and Passives/Instructor\|Instructor]] to all allies.

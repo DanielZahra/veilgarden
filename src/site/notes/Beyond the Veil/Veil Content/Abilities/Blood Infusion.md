@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/blood-infusion/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Healing","Damage"],"MasterySkills":["Lifespinner"],"Traits":"Blood Radiant  Healing ","defenses":["Fortitude"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/blood-infusion/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Range 12]]"],"Tags":["Healing","Damage"],"MasterySkills":["[[Lifespinner]]"],"Traits":["[[Blood]]","[[Radiant]]","[[Healing]]"],"defenses":["[[Fortitude]]"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > You create an infusion of blood reach to be summoned at your target’s location.

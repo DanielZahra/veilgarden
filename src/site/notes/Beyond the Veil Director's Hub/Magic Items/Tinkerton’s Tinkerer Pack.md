@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/tinkerton-s-tinkerer-pack/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Cape ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/tinkerton-s-tinkerer-pack/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":null,"Traits":"Soulbind Worn Cape ","Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[tinkerton.png]]"}}
 ---
 
 
@@ -11,7 +11,7 @@
 ---
 
 > [!note] 💫
-> Master [[Aeternum Lore/People of Aeternum/Zan Glittercase\|Zan Glittercase]]’s favorite [[Notion/Aeternum Wiki/Manatech\|Manatech]] pack.
+> Master [[Aeternum Lore/People of Aeternum/Zan Glittercase\|Zan Glittercase]]’s favorite [[Aeternum Lore/Lore Glossary/Manatech\|Manatech]] pack.
 
 
 

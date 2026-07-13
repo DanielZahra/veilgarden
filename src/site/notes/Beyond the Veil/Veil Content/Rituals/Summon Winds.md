@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/summon-winds/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":[],"Traits":"","Primary Skill":["Perception"],"Kits or Tools":"","Tier":["Veteran"],"Casting Cost":"","Secondary Skill/s":["Intuition","Athletics","Smarts","Perception"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/summon-winds/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":[],"Traits":"","Kits or Tools":"","Skills":["Intuition","Athletics","Smarts","Perception"],"Rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 Makes ships move faster

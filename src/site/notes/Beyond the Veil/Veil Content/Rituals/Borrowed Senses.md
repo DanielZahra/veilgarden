@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/borrowed-senses/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["15"],"Traits":"Communication ","Wealth Cost":"4","Cast Time":"1 minute","Primary Skill":["Perception"],"Kits or Tools":"Spiritualist’s Kit ","Tier":["Adept"],"Casting Cost":"","Secondary Skill/s":["Influence","Intuition","Perception"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/borrowed-senses/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["15"],"Traits":"Communication ","Wealth Cost":"4","Cast Time":"1 minute","Kits or Tools":"Spiritualist’s Kit ","Skills":["Influence","Intuition","Perception"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] 

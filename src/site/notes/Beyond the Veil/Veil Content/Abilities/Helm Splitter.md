@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/helm-splitter/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Weapon Range]]"],"Tags":["Effect","Damage3"],"MasterySkills":["[[Axes]]"],"Traits":"[[Attack]]","defenses":["Defense"],"Actions":["1 Action"],"Rank":"[[Master]]","sortOrderByRank":3}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/helm-splitter/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Weapon Range]]"],"Tags":["Effect","Damage3"],"MasterySkills":["[[Axes]]"],"Traits":"[[Attack]]","defenses":["Defense"],"Actions":["1 Action"],"Rank":"[[Master]]","sortOrderByRank":3,"Requirement":null}}
 ---
 
 > You raise your axe overhead in a downward slash attempting to cleave your enemy’s head from the top, possibly decapitating them.

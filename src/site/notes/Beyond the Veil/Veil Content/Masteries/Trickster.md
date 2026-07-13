@@ -12,34 +12,20 @@
 { #d037df}
 
 
+| Ability Name                                                                                     | Rank                                                  | Actions     | Defenses | Range / Area                                    | Traits                                        | Mastery                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ----------- | -------- | ----------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Beyond the Veil/Veil Content/Abilities/Evasive Footwork\|Evasive Footwork]]                 | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Free Action |          | [[Beyond the Veil/Veil Glossary/Self\|Self]] | [[Beyond the Veil/Veil Glossary/Air\|Air]] | [[Beyond the Veil/Veil Content/Masteries/Trickster\|Trickster]], [[Beyond the Veil/Veil Content/Masteries/Galeshot\|Galeshot]]                                                                   |
+| [[Beyond the Veil/Veil Content/Abilities/Fixating Strike\|Fixating Strike]]                   | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action    | Defense  | Weapon Range                                    | Attack                                        | [[Beyond the Veil/Veil Content/Masteries/Trickster\|Trickster]], [[Beyond the Veil/Veil Content/Masteries/Vanguard\|Vanguard]], [[Beyond the Veil/Veil Content/Masteries/Duelling\|Duelling]] |
+| [[Beyond the Veil/Veil Content/Abilities/Illusionist’s Strike\|Illusionist’s Strike]]         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 2 Actions   | Defense  | Weapon Range                                    | Attack                                        | [[Beyond the Veil/Veil Content/Masteries/Trickster\|Trickster]]                                                                                                                                     |
+| [[Beyond the Veil/Veil Content/Abilities/Invisible Striker\|Invisible Striker]]               | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action    | Defense  | Weapon Range                                    | Attack                                        | [[Beyond the Veil/Veil Content/Masteries/Trickster\|Trickster]]                                                                                                                                     |
+| [[Beyond the Veil/Veil Content/Abilities/Night Night, Sleep Tight\|Night Night, Sleep Tight]] | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action    | Will     | Range 6                                         | Anima                                         | [[Beyond the Veil/Veil Content/Masteries/Trickster\|Trickster]]                                                                                                                                     |
+| [[Beyond the Veil/Veil Content/Abilities/Supreme Dodge\|Supreme Dodge]]                       | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action    |          | Self                                            |                                               | [[Beyond the Veil/Veil Content/Masteries/Trickster\|Trickster]]                                                                                                                                     |
+| [[Beyond the Veil/Veil Content/Abilities/Clone Trick\|Clone Trick]]                           | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 2 Actions   | Will     | Range 12<br>3 Emanation                         | Auditory                                      | [[Beyond the Veil/Veil Content/Masteries/Trickster\|Trickster]]                                                                                                                                     |
+| [[Beyond the Veil/Veil Content/Abilities/Vanishing Strike\|Vanishing Strike]]                 | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 2 Actions   | Defense  | Range 12                                        | Attack Teleport                               | [[Beyond the Veil/Veil Content/Masteries/Trickster\|Trickster]], [[Beyond the Veil/Veil Content/Masteries/Assassination\|Assassination]]                                                         |
+| [[Beyond the Veil/Veil Content/Abilities/Vengeful Parry\|Vengeful Parry]]                     | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | Reaction    | Defense  | Weapon Range                                    | Attack                                        | [[Beyond the Veil/Veil Content/Masteries/Duelling\|Duelling]], [[Beyond the Veil/Veil Content/Masteries/Trickster\|Trickster]]                                                                   |
+| [[Beyond the Veil/Veil Content/Abilities/Mirrored Strike\|Mirrored Strike]]                   | [[Beyond the Veil/Veil Glossary/Master\|Master]]   | Reaction    | Special  |                                                 | Attack                                        | [[Beyond the Veil/Veil Content/Masteries/Trickster\|Trickster]]                                                                                                                                     |
 
-```base
-filters:
-  and:
-    - MasterySkills.contains(link("Trickster"))
-    - base == link("Abilities.base")
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - MasterySkills
-      - Actions
-      - defenses
-      - Traits
-      - RangeArea
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-    columnSize:
-      file.name: 233
-
-```
-
+{ .block-language-dataview}
 
 ## TODO
 

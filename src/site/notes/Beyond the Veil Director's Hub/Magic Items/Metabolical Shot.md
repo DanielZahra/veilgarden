@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/metabolical-shot/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Loadout ","Cooldown":["Normal"],"Rarity":["Shard"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/metabolical-shot/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Loadout ","Cooldown":["Normal"],"Rarity":["Shard"],"Rank":"[[Adept]]","image":"[[metabolicalshot.png]]"}}
 ---
 
 

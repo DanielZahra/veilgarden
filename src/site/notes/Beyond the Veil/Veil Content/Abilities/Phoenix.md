@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/phoenix/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":[],"Tags":[],"MasterySkills":["Pyromancer"],"Traits":"Healing Fire Summon ","defenses":["Basic Reflex"],"Actions":["3 Actions"],"rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/phoenix/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":[],"Tags":[],"MasterySkills":["[[Pyromancer]]"],"Traits":["[[Beyond the Veil/Veil Glossary/Healing\|Healing]]","[[Fire]]","[[Beyond the Veil/Veil Glossary/Summon\|Summon]]"],"defenses":["[[Basic Reflex]]"],"Actions":"3 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

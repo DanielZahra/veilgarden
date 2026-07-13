@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/guiding-hand/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Free Activation"],"Traits":"Soulbind Worn ","Cooldown":["Normal"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/guiding-hand/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Free Activation"],"Traits":"Soulbind Worn ","Cooldown":["Normal"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[guidinghand.png]]"}}
 ---
 
 
@@ -19,5 +19,5 @@ The mathamatical patterns on the bracelet, start to rewrite themselves when [[Be
 ![guidinghand.png](/img/user/Media%20and%20Images/guidinghand.png)
 
 >
-> The Palace guards of [[Notion/Aeternum Wiki/Places/Location Database/Messana\|Messana]] in the [[Notion/Aeternum Wiki/Places/Location Database/Palantine Empire\|Palantine Empire]] are all said to wear these bracelets to make sure their attacks land on anyone that endagers the Imperator.
+> The Palace guards of [[Aeternum Lore/Places of Aeternum/Messana\|Messana]] in the [[Aeternum Lore/Places of Aeternum/Palantine Empire\|Palantine Empire]] are all said to wear these bracelets to make sure their attacks land on anyone that endagers the Imperator.
 

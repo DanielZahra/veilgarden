@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/burning-lance/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Damage"],"MasterySkills":["Pyromancer"],"Traits":"Attack Fire ","defenses":["Defense"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/burning-lance/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Range 12]]"],"Tags":["Damage"],"MasterySkills":["[[Pyromancer]]"],"Traits":["[[Attack]]","[[Fire]]"],"defenses":["[[Defense]]"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/quick-reload/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":[],"MasterySkills":["Crossbows","Firearms"],"Traits":"","defenses":[],"Actions":"Free Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/quick-reload/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":[],"MasterySkills":["[[Firearms]]","[[Crossbows]]"],"Traits":"","defenses":[],"Actions":"Free Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] 🗺️

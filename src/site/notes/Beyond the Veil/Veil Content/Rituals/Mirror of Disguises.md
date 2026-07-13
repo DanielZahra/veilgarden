@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/mirror-of-disguises/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["15"],"Traits":"","Wealth Cost":"4","Cast Time":"10 minutes","Primary Skill":["Subterfuge"],"Kits or Tools":"Disguise Station ","Tier":["Adept"],"Casting Cost":"","Secondary Skill/s":["Influence","Intuition","Tinkering","Perception"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/mirror-of-disguises/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["15"],"Traits":"","Wealth Cost":"4","Cast Time":"10 minutes","Kits or Tools":"Disguise Station ","Skills":["Influence","Intuition","Tinkering","Perception","[[Subterfuge]]"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] 

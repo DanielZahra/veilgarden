@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/reloader/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Weapon Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Veteran"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/reloader/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Weapon Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Veteran]]","image":"[[reloader.jpeg]]"}}
 ---
 
 
@@ -14,7 +14,7 @@
 ---
 
 > [!note] 💫
-> This magical [[Notion/Aeternum Wiki/Manatech\|Manatech]] contraption allows you to reload normally and magically clones the ammo every time. The second shot is the clone but it is impossible to distinguish between the two.
+> This magical [[Aeternum Lore/Lore Glossary/Manatech\|Manatech]] contraption allows you to reload normally and magically clones the ammo every time. The second shot is the clone but it is impossible to distinguish between the two.
 
 After a minute or two, the cloned ammo fired this away erodes away as mana keeping in while dissipates.
 
@@ -23,4 +23,4 @@ After a minute or two, the cloned ammo fired this away erodes away as mana keepi
 ![reloader.jpeg\|383](/img/user/Media%20and%20Images/reloader.jpeg)
 
 >
-> Tiny crystals mined from [[Notion/Aeternum Wiki/Places/Location Database/Pandemonium (Plane of Chaos)/Pandemonium (Plane of Chaos)\|Pandemonium (Plane of Chaos)]] were discovered to have minor closing abilities. Leave it to  the Dwarves to make a weapon out of it.
+> Tiny crystals mined from [[Aeternum Lore/Places of Aeternum/Pandemonium (Plane of Chaos)/Pandemonium (Plane of Chaos)\|Pandemonium (Plane of Chaos)]] were discovered to have minor closing abilities. Leave it to  the Dwarves to make a weapon out of it.

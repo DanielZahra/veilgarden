@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/preemptive-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":["Interrupt","Action Economy","Effect"],"MasterySkills":["Knives"],"Traits":"Attack ","defenses":["Defense"],"Actions":"Reaction","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/preemptive-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":["Interrupt","Action Economy","Effect"],"MasterySkills":["[[Knives]]"],"Traits":"Attack ","defenses":["Defense"],"Actions":"Reaction","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

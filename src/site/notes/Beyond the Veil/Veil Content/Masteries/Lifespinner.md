@@ -11,32 +11,16 @@
 | Master        |                                                                                                                                                                                                                                                                                                                                                                                                                   |
 { #9ebd4a}
 
+| Ability Name                                                                         | Rank                                              | Actions     | Defenses                                                  | Range / Area                                                  | Traits                                                                                                                                                                  | Mastery                                                                |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------- | ----------- | --------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [[Beyond the Veil/Veil Content/Abilities/Blood Infusion\|Blood Infusion]]         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 2 Actions   | [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]] | [[Beyond the Veil/Veil Glossary/Range/Range 12\|Range 12]] | [[Beyond the Veil/Veil Glossary/Blood\|Blood]], [[Beyond the Veil/Veil Glossary/Radiant/Radiant\|Radiant]], [[Beyond the Veil/Veil Glossary/Healing\|Healing]] | [[Beyond the Veil/Veil Content/Masteries/Lifespinner\|Lifespinner]] |
+| [[Beyond the Veil/Veil Content/Abilities/Blood Needles\|Blood Needles]]           | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 1 Action    | Defense                                                   | Range 12                                                      | Attack Healing Blood Piercing                                                                                                                                           | [[Beyond the Veil/Veil Content/Masteries/Lifespinner\|Lifespinner]] |
+| [[Beyond the Veil/Veil Content/Abilities/Blood Seed\|Blood Seed]]                 | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 2 Actions   | Reflex                                                    | Range 12                                                      | Healing Blood                                                                                                                                                           | [[Beyond the Veil/Veil Content/Masteries/Lifespinner\|Lifespinner]] |
+| [[Beyond the Veil/Veil Content/Abilities/Lifebomb\|Lifebomb]]                     | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | Reaction    |                                                           | [[Beyond the Veil/Veil Glossary/Range/Range 12\|Range 12]] | [[Beyond the Veil/Veil Glossary/Anima\|Anima]], [[Beyond the Veil/Veil Glossary/Healing\|Healing]], [[Beyond the Veil/Veil Glossary/Blood\|Blood]]             | [[Beyond the Veil/Veil Content/Masteries/Lifespinner\|Lifespinner]] |
+| [[Beyond the Veil/Veil Content/Abilities/Spinner’s Elegance\|Spinner’s Elegance]] | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | Free Action |                                                           | Self                                                          | Stance                                                                                                                                                                  | [[Beyond the Veil/Veil Content/Masteries/Lifespinner\|Lifespinner]] |
+| [[Beyond the Veil/Veil Content/Abilities/Vampiric Symbiote\|Vampiric Symbiote]]   | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 1 Action    |                                                           | Self                                                          | Healing                                                                                                                                                                 | [[Beyond the Veil/Veil Content/Masteries/Lifespinner\|Lifespinner]] |
 
-
-```base
-filters:
-  and:
-    - MasterySkills.contains(link("Lifespinner"))
-    - base == link("Abilities.base")
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - MasterySkills
-      - Actions
-      - defenses
-      - Traits
-      - RangeArea
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-
-```
+{ .block-language-dataview}
 
 
 ## TODO

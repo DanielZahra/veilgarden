@@ -9,29 +9,17 @@
 | Adept         | When you take a turn in a round, all creatures that have not taken a their turn yet in the same round, are [[Beyond the Veil/Veil Content/Conditions/Exposed\|Exposed]] to you.<br><br>Once per round, when you bring a creature to 0 [[Beyond the Veil/Veil Glossary/Vitality\|Vitality]] or kill a target you gain [[Beyond the Veil/Veil Content/Conditions/Haste\|Haste]]. |
 | Veteran       |                                                                                                                                                                                                                                        |
 | Master        |                                                                                                                                                                                                                                        |
+| Ability Name                                                                             | Rank                                                  | Actions                    | Defenses             | Range / Area                                                    | Traits                                              | Mastery                                                                                                                                        |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------- | -------------------- | --------------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Beyond the Veil/Veil Content/Abilities/Assassin’s Due\|Assassin’s Due]]             | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action                   |                      | Self                                                            |                                                     | [[Beyond the Veil/Veil Content/Masteries/Assassination\|Assassination]]                                                                     |
+| [[Beyond the Veil/Veil Content/Abilities/Coup De Grace\|Coup De Grace]]               | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 2 Actions                  | Fortitude            | Adjacent                                                        |                                                     | [[Beyond the Veil/Veil Content/Masteries/Assassination\|Assassination]]                                                                     |
+| [[Beyond the Veil/Veil Content/Abilities/Executioner’s Strike\|Executioner’s Strike]] | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | <ul><li>1 Action</li></ul> | Defense              | [[Beyond the Veil/Veil Glossary/Weapon Range\|Weapon Range]] | [[Beyond the Veil/Veil Glossary/Attack\|Attack]] | [[Beyond the Veil/Veil Content/Masteries/Axes\|Axes]], [[Beyond the Veil/Veil Content/Masteries/Assassination\|Assassination]]           |
+| [[Beyond the Veil/Veil Content/Abilities/Paralyzing Strike\|Paralyzing Strike]]       | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action                   | Defense<br>Fortitude | Weapon Range                                                    | Attack                                              | [[Beyond the Veil/Veil Content/Masteries/Conduit\|Conduit]], [[Beyond the Veil/Veil Content/Masteries/Assassination\|Assassination]]     |
+| [[Beyond the Veil/Veil Content/Abilities/Sneak Attack\|Sneak Attack]]                 | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action                   | Defense              | Weapon Range                                                    | Attack                                              | [[Beyond the Veil/Veil Content/Masteries/Assassination\|Assassination]]                                                                     |
+| [[Beyond the Veil/Veil Content/Abilities/Strike of Death\|Strike of Death]]           | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action                   | Defense<br>Fortitude | Weapon Range                                                    | Attack                                              | [[Beyond the Veil/Veil Content/Masteries/Assassination\|Assassination]]                                                                     |
+| [[Beyond the Veil/Veil Content/Abilities/Backstab\|Backstab]]                         | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 1 Action                   | Defense<br>Reflex    | Weapon Range                                                    | Attack                                              | [[Beyond the Veil/Veil Content/Masteries/Knives\|Knives]], [[Beyond the Veil/Veil Content/Masteries/Assassination\|Assassination]]       |
+| [[Beyond the Veil/Veil Content/Abilities/Finishing Strike\|Finishing Strike]]         | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | Free Action                | Defense              | Weapon Range                                                    | Attack                                              | [[Beyond the Veil/Veil Content/Masteries/Swords\|Swords]], [[Beyond the Veil/Veil Content/Masteries/Assassination\|Assassination]]       |
+| [[Beyond the Veil/Veil Content/Abilities/Shadowblade Stance\|Shadowblade Stance]]     | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | Free Action                |                      | Self                                                            | Stance                                              | [[Beyond the Veil/Veil Content/Masteries/Assassination\|Assassination]]                                                                     |
+| [[Beyond the Veil/Veil Content/Abilities/Vanishing Strike\|Vanishing Strike]]         | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 2 Actions                  | Defense              | Range 12                                                        | Attack Teleport                                     | [[Beyond the Veil/Veil Content/Masteries/Trickster\|Trickster]], [[Beyond the Veil/Veil Content/Masteries/Assassination\|Assassination]] |
 
-
-```base
-filters:
-  and:
-    - MasterySkills.contains(link("Assassination"))
-    - base == link("Abilities.base")
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - MasterySkills
-      - Actions
-      - defenses
-      - Traits
-      - RangeArea
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-
-```
+{ .block-language-dataview}

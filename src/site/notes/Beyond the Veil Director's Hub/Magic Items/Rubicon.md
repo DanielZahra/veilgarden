@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/rubicon/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-","Interact Action"],"Traits":"Soulbind Worn Weapon Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Veteran"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/rubicon/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Soulbind Worn Weapon Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Veteran]]","image":"[[rubicon.png]]"}}
 ---
 
 

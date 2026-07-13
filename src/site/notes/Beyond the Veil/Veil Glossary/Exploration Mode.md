@@ -29,29 +29,24 @@ If two characters perform the same exploration activity, both roll and the party
 
 The party can bypass exploration checks and walk normally when backtracking through cleared areas.
 
-### **Push Your Luck (Luck)**
+## Push Your Luck: [[Beyond the Veil/Veil Glossary/Luck\|Luck]]
 
-To track time and environmental hazard, Veil uses a Luck system. If the party takes too long or makes noise, they must test their Luck.
 
-### How You Use It
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beyond-the-veil/veil-glossary/luck/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-The Luck die starts as a d20. Each roll degrades the die to the next lower size (d20 > d12 > d10 > d8 > d6 > d4 > d2). Rolling a natural 1 triggers a Complication and resets the Luck die to a d20.
 
-### Spending Time
 
-Roll the Luck die whenever the party performs a slow, methodical, or complex action taking 10 minutes or more (such as searching a room, resting, repairing gear, or identifying an item).
 
-### Recklessness and Failure
+To track time and environmental hazards, Veil uses a [[Beyond the Veil/Veil Glossary/Luck\|Luck]] system. If you take too long or make too much noise, you must test you [[Beyond the Veil/Veil Glossary/Luck\|Luck]]. [[Beyond the Veil/Veil Glossary/Luck\|Luck]] is a die that starts as a d20. Each roll degrades the die to the next lower size (d20 > d12 > d10 > d8 > d6 > d4 > d2). Rolling a natural 1 triggers a [[Complication\|Complication]] and resets the Luck die to a d20. A Complication will typically represents a negative environmental shift, resource loss, or alert patrol, rather than a direct combat encounter.
 
-Rushed, loud, or risky actions require rolling the Luck die with disadvantage (roll twice and use the lower result).
+The [[Beyond the Veil/Veil Glossary/Luck\|Luck]] die is rolled whenever you perform when you are under pressure but choose to make a slow, methodical, or complex action taking 10 minutes or more (such as searching a room, resting, repairing gear, or identifying an item). The opposite also applies when taking risky actions, or making a lot of noise.
 
-### Extreme Risks
+#### Extreme Risks
 
-Extremely dangerous actions (such as resting in active monster territory or causing loud echoes) immediately trigger a Luck roll using a d2.
+When taking excessive risks or extremely dangerous actions (such as resting in active monster territory or causing loud echoes) the [[Beyond the Veil/Veil Glossary/Director\|Director]] rolls the [[Beyond the Veil/Veil Glossary/Luck\|Luck]] with [[Beyond the Veil/Veil Glossary/Disadvantage\|Disadvantage]].
 
-### Complications
+</div></div>
 
-A Complication represents a negative environmental shift, resource loss, or alert patrol, rather than a direct combat encounter.
 
 
 </div></div>

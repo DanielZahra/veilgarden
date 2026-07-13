@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/riftfold-mantle/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Free Activation"],"Traits":"Soulbind Worn Cape ","Cooldown":["Normal"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/riftfold-mantle/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Free Activation"],"Traits":"Soulbind Worn Cape ","Cooldown":["Normal"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[riftfoldmantle.png]]"}}
 ---
 
 

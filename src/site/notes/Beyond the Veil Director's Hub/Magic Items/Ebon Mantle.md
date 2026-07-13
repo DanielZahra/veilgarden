@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/ebon-mantle/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Soulbind Worn Cape ","Cooldown":["Passive"],"Rarity":["Artifact"],"Grade":"-","image":"[[EbonMantle.png]]"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/ebon-mantle/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Soulbind Worn Cape ","Cooldown":["Passive"],"Rarity":["Artifact"],"image":"[[EbonMantle.png]]","Rank":"[[Unique]]"}}
 ---
 
 
@@ -20,4 +20,4 @@
 ![EbonMantle.png](/img/user/Media%20and%20Images/EbonMantle.png)
 
 >
-> Said to be worn by [[Aeternum Lore/People of Aeternum/Boris Blackmantle\|Boris Blackmantle]] and [[Aeternum Lore/People of Aeternum/Varris Blackmantle\|Varris Blackmantle]], this cape brings fear and dread to those who have suffered at the hand of the [[Notion/Aeternum Wiki/Groups and Organisations/Groups and Orgnisations/Ebon Syndicate\|Ebon Syndicate]].
+> Said to be worn by [[Aeternum Lore/People of Aeternum/Boris Blackmantle\|Boris Blackmantle]] and [[Aeternum Lore/People of Aeternum/Varris Blackmantle\|Varris Blackmantle]], this cape brings fear and dread to those who have suffered at the hand of the [[Aeternum Lore/Lore Glossary/Organizations of Aeternum/Ebon Syndicate\|Ebon Syndicate]].

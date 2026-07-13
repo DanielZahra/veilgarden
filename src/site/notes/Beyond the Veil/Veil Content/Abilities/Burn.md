@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/burn/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":[],"MasterySkills":["[[Pyromancer]]"],"Traits":"Fire ","defenses":[],"Actions":"Reaction","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/burn/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Range 12]]"],"Tags":[],"MasterySkills":["[[Pyromancer]]"],"Traits":["[[Fire]]"],"defenses":[],"Actions":"Reaction","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > As your enemies burn, you trigger those flames into scorching flames that cause devastation,

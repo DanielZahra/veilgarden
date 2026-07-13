@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/malefic-bane/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12","Burst 3x3"],"Tags":["Bane Prowess","Bane Defense","Bane Fortitude","Bane Reflex","Bane Will","Condition"],"MasterySkills":["Maledictor","Pactbinder"],"Traits":"","defenses":["Will"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/malefic-bane/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12","Burst 3x3"],"Tags":["Bane Prowess","Bane Defense","Bane Fortitude","Bane Reflex","Bane Will","Condition"],"MasterySkills":["[[Pactbinder]]","[[Maledictor]]"],"Traits":"","defenses":["Will"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

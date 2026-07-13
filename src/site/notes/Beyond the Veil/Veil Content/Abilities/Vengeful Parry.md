@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/vengeful-parry/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":[],"MasterySkills":["Duelling","Trickster"],"Traits":"Attack ","defenses":["Defense"],"Actions":"Reaction","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/vengeful-parry/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":[],"MasterySkills":["[[Duelling]]","[[Trickster]]"],"Traits":"Attack ","defenses":["Defense"],"Actions":"Reaction","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > [!note] 

@@ -11,7 +11,7 @@
 | Master        | When friendly creatures move through [[Slipstream\|Slipstream]] they gain 2 [[Beyond the Veil/Veil Glossary/Speed\|Speed]].                                                                                                                                                                                                        |
 
 
-<!-- Linked database (not supported by Notion API) -->
+
 
 ## TODO
 

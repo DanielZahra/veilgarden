@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/blood-needles/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Healing","Damage"],"MasterySkills":["Lifespinner"],"Traits":"Attack Healing Blood Piercing ","defenses":["Defense"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/blood-needles/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Healing","Damage"],"MasterySkills":["[[Lifespinner]]"],"Traits":"Attack Healing Blood Piercing ","defenses":["Defense"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > Sharp needles of blood form around you, as they float ready to strike their targets or heal your allies.

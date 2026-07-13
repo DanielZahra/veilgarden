@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/naval-fabrication/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["Varies"],"Traits":"","Wealth Cost":"Varies","Cast Time":"Downtime Activity","Primary Skill":["Smarts"],"Kits or Tools":"Artificing Kit Tinkering Tools Navigation Kit ","Tier":["Adept","Veteran","Master"],"Casting Cost":"Wealth (material to build the vehicle)","Secondary Skill/s":["Smarts","Tinkering","Intuition"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/naval-fabrication/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["Varies"],"Traits":"","Wealth Cost":"Varies","Cast Time":"Downtime Activity","Kits or Tools":"Artificing Kit Tinkering Tools Navigation Kit ","Skills":["Smarts","Tinkering","Intuition"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] 
@@ -13,7 +13,7 @@
 ---
 
 - You can use this ritual to repair an existing vehicle at half the cost of the original ritual.
-- You can use this ritual to summon a: (TBD stats) Cost goes up by type
+- You can use this ritual to summon a: (TBD stats) Cost goes up by type (wealth cost)
     - Boat - Like a Rowboat
     - Small Ship - Like a Sloop
     - Medium Ship - Like a Brig

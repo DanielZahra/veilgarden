@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/locket-of-the-psion/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Free Activation"],"Traits":"Loadout ","Cooldown":["Normal"],"Rarity":["Shard"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/locket-of-the-psion/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Free Activation"],"Traits":"Loadout ","Cooldown":["Normal"],"Rarity":["Shard"],"Rank":"[[Adept]]","image":"[[locketofthepsion.jpeg]]"}}
 ---
 
 

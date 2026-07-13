@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/goldy-piggy/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Belt ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/goldy-piggy/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Belt ","Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[goldypiggy.jpeg]]"}}
 ---
 
 
@@ -20,4 +20,4 @@
 ![goldypiggy.jpeg](/img/user/Media%20and%20Images/goldypiggy.jpeg)
 
 >
-> Created by the [[Notion/Aeternum Wiki/Groups and Organisations/Groups and Orgnisations/Coffer of Equity\|Coffer of Equity]] these piggy banks have been a treasure throve for adventurers and merchant, but also bandits and looters.
+> Created by the [[Aeternum Lore/Lore Glossary/Organizations of Aeternum/Coffer of Equity\|Coffer of Equity]] these piggy banks have been a treasure throve for adventurers and merchant, but also bandits and looters.

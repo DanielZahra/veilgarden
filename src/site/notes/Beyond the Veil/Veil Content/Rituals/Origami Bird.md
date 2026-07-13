@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/origami-bird/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["15"],"Traits":"Communication ","Wealth Cost":"2","Cast Time":"1 minute","Primary Skill":["Influence"],"Kits or Tools":"Scholar’s Set Navigation Kit ","Tier":["Adept"],"Casting Cost":"","Secondary Skill/s":["Smarts","Tinkering","Intuition","Influence"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/origami-bird/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["15"],"Traits":"Communication ","Wealth Cost":"2","Cast Time":"1 minute","Kits or Tools":"Scholar’s Set Navigation Kit ","Skills":["Smarts","Tinkering","Intuition","Influence"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] 

@@ -10,7 +10,7 @@
 | Veteran |   |
 | Master |   |
 
-<!-- Linked database (not supported by Notion API) -->
+
 
 Similar to [[Beyond the Veil/Veil Content/Masteries/Beastmaster\|Beastmaster]] but specialized in flying companions.
 

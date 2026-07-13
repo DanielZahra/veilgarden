@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/black-blood-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Damage"],"MasterySkills":["Outsider"],"Traits":"Attack Void ","defenses":["Defense","Fortitude"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/black-blood-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Weapon Range]]"],"Tags":["Damage"],"MasterySkills":["[[Outsider]]"],"Traits":["[[Attack]]","[[Void]]"],"defenses":["Defense","Fortitude"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > You make an intoxicating strike against your foe, to fill them with void that consumes them from the inside,

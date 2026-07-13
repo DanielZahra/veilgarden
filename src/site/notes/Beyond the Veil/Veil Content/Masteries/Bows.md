@@ -19,5 +19,5 @@
         - a creature that moves (trigger)
         - Attack their legs or movement and give them [[Beyond the Veil/Veil Content/Conditions/Lethargic\|Lethargic]] until the end of the current turn.
 
-<!-- Linked database (not supported by Notion API) -->
+
 

@@ -12,31 +12,16 @@
 { #e70fb2}
 
 
+| Ability Name                                                                             | Rank                                              | Actions   | Defenses  | Range / Area          | Traits | Mastery                                                                                                                                    |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------- | --------- | --------- | --------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Beyond the Veil/Veil Content/Abilities/Binding Power\|Binding Power]]               | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 1 Action  |           | Range 12              |        | [[Beyond the Veil/Veil Content/Masteries/Pactbinder\|Pactbinder]]                                                                       |
+| [[Beyond the Veil/Veil Content/Abilities/Defense Debilitation\|Defense Debilitation]] | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 2 Actions | Will      | Range 12              |        | [[Beyond the Veil/Veil Content/Masteries/Pactbinder\|Pactbinder]]                                                                       |
+| [[Beyond the Veil/Veil Content/Abilities/Malefic Bane\|Malefic Bane]]                 | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 2 Actions | Will      | Range 12<br>Burst 3x3 |        | [[Beyond the Veil/Veil Content/Masteries/Pactbinder\|Pactbinder]], [[Beyond the Veil/Veil Content/Masteries/Maledictor\|Maledictor]] |
+| [[Beyond the Veil/Veil Content/Abilities/Pact of Chains\|Pact of Chains]]             | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 2 Actions | Reflex    | Range 12              |        | [[Beyond the Veil/Veil Content/Masteries/Pactbinder\|Pactbinder]]                                                                       |
+| [[Beyond the Veil/Veil Content/Abilities/Pact of Vitality\|Pact of Vitality]]         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 2 Actions |           | Range 12              |        | [[Beyond the Veil/Veil Content/Masteries/Pactbinder\|Pactbinder]]                                                                       |
+| [[Beyond the Veil/Veil Content/Abilities/Pact of the Eyeless\|Pact of the Eyeless]]   | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | 2 Actions | Fortitude | Range 12              |        | [[Beyond the Veil/Veil Content/Masteries/Pactbinder\|Pactbinder]]                                                                       |
 
-```base
-filters:
-  and:
-    - MasterySkills.contains(link("Pactbinder"))
-    - base == link("Abilities.base")
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - MasterySkills
-      - Actions
-      - defenses
-      - Traits
-      - RangeArea
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-
-```
+{ .block-language-dataview}
 
 
 ## TODO

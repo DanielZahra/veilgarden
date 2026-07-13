@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/night-night-sleep-tight/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 6"],"Tags":["Unconcious"],"MasterySkills":["Trickster"],"Traits":"Anima","defenses":["Will"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/night-night-sleep-tight/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 6"],"Tags":["Unconcious"],"MasterySkills":["[[Trickster]]"],"Traits":"Anima","defenses":["Will"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

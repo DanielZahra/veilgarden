@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/lifebond-ear-cuffs/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Loadout ","Cooldown":["Normal"],"Rarity":["Shard"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/lifebond-ear-cuffs/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Loadout ","Cooldown":["Normal"],"Rarity":["Shard"],"Rank":"[[Adept]]","image":"[[lifebondearcuffs.png]]"}}
 ---
 
 
@@ -16,4 +16,4 @@
 ![lifebondearcuffs.png](/img/user/Media%20and%20Images/lifebondearcuffs.png)
 
 >
-> An unknown cleric of [[Notion/Aeternum Wiki/Orena (Goddess of Life)\|Orena (Goddess of Life)]] is said to have created and distributed these freely.
+> An unknown cleric of [[Aeternum Lore/Lore Glossary/Orena (Goddess of Life)\|Orena (Goddess of Life)]] is said to have created and distributed these freely.

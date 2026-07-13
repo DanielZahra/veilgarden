@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/gravity-sink/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12","Burst 4x4"],"Tags":["Held","Condition"],"MasterySkills":["Hollow"],"Traits":"Void ","defenses":["Fortitude"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/gravity-sink/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12","Burst 4x4"],"Tags":["Held","Condition"],"MasterySkills":["[[Hollow]]"],"Traits":"Void ","defenses":["Fortitude"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/adaptive-transformation/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Effect"],"MasterySkills":["Outsider"],"Traits":"Transformation ","defenses":[],"Actions":"2 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/adaptive-transformation/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Self]]"],"Tags":["Effect"],"MasterySkills":["[[Outsider]]"],"Traits":["[[Beyond the Veil/Veil Glossary/Transformation\|Transformation]]"],"defenses":[],"Actions":"2 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > You extend your transformation, diving deeper into your powers to wring more out of it.

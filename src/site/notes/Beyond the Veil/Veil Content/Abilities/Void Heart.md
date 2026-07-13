@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/void-heart/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Healing","Effect"],"MasterySkills":["Outsider"],"Traits":"Healing Void  ","defenses":[],"Actions":"Reaction","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/void-heart/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Self]]"],"Tags":["Healing","Effect"],"MasterySkills":["[[Outsider]]"],"Traits":["[[Healing]]","[[Void]]"],"defenses":[],"Actions":"Reaction","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] 

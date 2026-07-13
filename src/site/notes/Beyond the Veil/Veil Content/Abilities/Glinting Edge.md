@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/glinting-edge/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Self]]"],"Tags":["Boon Prowess","Effect"],"MasterySkills":["Knives"],"Traits":"","defenses":[],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/glinting-edge/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Self]]"],"Tags":["Boon Prowess","Effect"],"MasterySkills":["[[Beyond the Veil/Veil Content/Masteries/Knives\|Knives]]"],"Traits":"","defenses":[],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

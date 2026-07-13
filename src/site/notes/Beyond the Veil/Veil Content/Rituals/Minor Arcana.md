@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/minor-arcana/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["No Skill Check"],"Traits":"","Wealth Cost":"2","Cast Time":"1 minute","Primary Skill":["Intuition"],"Kits or Tools":"Spiritualist’s Kit ","Tier":["Adept"],"Casting Cost":"","Secondary Skill/s":["Smarts","Intuition","Athletics","Tinkering"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/minor-arcana/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["No Skill Check"],"Traits":"","Wealth Cost":"2","Cast Time":"1 minute","Kits or Tools":"Spiritualist’s Kit ","Skills":["Smarts","Intuition","Athletics","Tinkering"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] 
-> You have spent years playing with [[Notion/Aeternum Wiki/Mana\|Mana]] and manipulating the small particles of magic in the air, this has given you an affinity to do minor things with some fexibility. 
+> You have spent years playing with [[Aeternum Lore/Lore Glossary/Mana\|Mana]] and manipulating the small particles of magic in the air, this has given you an affinity to do minor things with some fexibility. 
 
 ---
 

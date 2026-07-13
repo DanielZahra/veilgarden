@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/creator-extraordinaire/","tags":["SkillFeat"],"dg-note-properties":{"base":"[[Passives Database.base]]","MasterySkills":["[[Smarts]]","[[Tinkering]]","[[Restoration]]","[[Intuition]]"],"tags":["SkillFeat"],"Rank":"[[Veteran]]","sortOrderByRank":2,"Requirement":["[[Beyond the Veil/Veil Content/Features and Passives/Venom Specialist\|Venom Specialist]]","[[Beyond the Veil/Veil Content/Features and Passives/Elixir Maker\|Elixir Maker]]","[[Beyond the Veil/Veil Content/Features and Passives/Explosive Enthusiast\|Explosive Enthusiast]]","[[Beyond the Veil/Veil Content/Features and Passives/Mutagen Dabbler\|Mutagen Dabbler]]","[[Beyond the Veil/Veil Content/Features and Passives/Oil Refiner\|Oil Refiner]]"]}}
+---
+
+Requirements:  (Any of the following)  [[Beyond the Veil/Veil Content/Features and Passives/Venom Specialist\|Venom Specialist]], [[Beyond the Veil/Veil Content/Features and Passives/Elixir Maker\|Elixir Maker]], [[Beyond the Veil/Veil Content/Features and Passives/Explosive Enthusiast\|Explosive Enthusiast]], [[Beyond the Veil/Veil Content/Features and Passives/Mutagen Dabbler\|Mutagen Dabbler]], [[Beyond the Veil/Veil Content/Features and Passives/Oil Refiner\|Oil Refiner]]
+
+---
+- When taking the [[Beyond the Veil/Veil Content/Downtime Activities/Consumable Production\|Consumable Production]], you gain a [[Beyond the Veil/Veil Glossary/Major Boon\|Major Boon]] to any of your check.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/eye-of-letum/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Eyewear ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Veteran","image":"[[eyeofletum.png]]"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/eye-of-letum/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Eyewear ","Cooldown":["Passive"],"Rarity":["Exalted"],"image":"[[eyeofletum.png]]","Rank":"[[Veteran]]"}}
 ---
 
 

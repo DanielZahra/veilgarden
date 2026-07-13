@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/vampiric-symbiote/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Healing","Effect"],"MasterySkills":["Lifespinner"],"Traits":"Healing","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/vampiric-symbiote/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Healing","Effect"],"MasterySkills":["[[Lifespinner]]"],"Traits":"Healing","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > You spin threads of vampiric power in attacks, as the attacks deal damage they heal the attacker.

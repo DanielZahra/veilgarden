@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/flicker-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Movement","Effect","Action Economy"],"MasterySkills":["Outsider"],"Traits":"Attack Teleport ","defenses":["Defense"],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/flicker-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Range]]"],"Tags":["Movement","Effect","Action Economy"],"MasterySkills":["[[Outsider]]"],"Traits":["[[Attack]]","[[Beyond the Veil/Veil Glossary/Teleport\|Teleport]]"],"defenses":["Defense"],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/static-bomb/","dg-note-properties":{"base":"[[Gear.base]]","Traits":"Bomb  Consumable Splash 1 Thrown 9  Quickdraw Air","Dossier":"[[Crafting & Artificing]]","Multi-Purchase":false,"Stack":"2","Wealth Cost":"4","Actions":["1 Interact Action"],"Rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/static-bomb/","dg-note-properties":{"base":"[[Gear.base]]","Traits":["Bomb  Consumable Splash 1 Thrown 9  Quickdraw Air","[[Bomb]]"],"Dossier":"[[Crafting & Artificing]]","Multi-Purchase":false,"Stack":"2","Wealth Cost":"4","Actions":["1 Interact Action"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > When making contact with a target, this bombs releases charges of static energy ripping the victim apart.

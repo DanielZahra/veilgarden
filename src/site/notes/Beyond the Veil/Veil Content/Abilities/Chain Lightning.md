@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/chain-lightning/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 18"],"Tags":["Damage 3"],"MasterySkills":["[[Stormweaver]]"],"Traits":"Air ","defenses":["Basic Reflex"],"Actions":["3 Actions"],"Rank":["[[Master]]"],"sortOrderByRank":3}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/chain-lightning/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 18"],"Tags":["Damage 3"],"MasterySkills":["[[Stormweaver]]"],"Traits":"Air ","defenses":["Basic Reflex"],"Actions":["3 Actions"],"Rank":"[[Master]]","sortOrderByRank":3}}
 ---
 
 > [!note] 🗺️

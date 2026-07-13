@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/polymath-s-guard/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Protection Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Veteran"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/polymath-s-guard/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Protection Rune ","Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Veteran]]","image":"[[plymath.jpeg]]"}}
 ---
 
 

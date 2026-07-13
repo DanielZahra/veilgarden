@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/toxicity/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Self]]"],"Tags":["Effect"],"MasterySkills":["Envenomer"],"Traits":"","defenses":[],"Actions":"Free Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/toxicity/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Self]]"],"Tags":["Effect"],"MasterySkills":["[[Envenomer]]"],"Traits":"","defenses":[],"Actions":"Free Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

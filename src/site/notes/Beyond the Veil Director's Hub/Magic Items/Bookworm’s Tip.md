@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/bookworm-s-tip/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Gloves ","Cooldown":["Normal"],"Rarity":["Exalted"],"Grade":"Adept","image":"[[bookwormtip.jpeg]]"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/bookworm-s-tip/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Gloves ","Cooldown":["Normal"],"Rarity":["Exalted"],"image":"[[bookwormtip.jpeg]]","Rank":"[[Adept]]"}}
 ---
 
 

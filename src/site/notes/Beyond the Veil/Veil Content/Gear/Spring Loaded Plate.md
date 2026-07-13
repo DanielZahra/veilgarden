@@ -3,6 +3,6 @@
 ---
 
 > [!note] ⚔️
-> The [[Beyond the Veil/Veil Content/Gear/Spring Loaded Plate\|Spring Loaded Plate]] is thrown to slide on the ground and right under a creature, when it makes contact it unleashes the stored [[Notion/Aeternum Wiki/Manatech\|Manatech]] energy and the spring pushes the creature back on their feet.
+> The [[Beyond the Veil/Veil Content/Gear/Spring Loaded Plate\|Spring Loaded Plate]] is thrown to slide on the ground and right under a creature, when it makes contact it unleashes the stored [[Aeternum Lore/Lore Glossary/Manatech\|Manatech]] energy and the spring pushes the creature back on their feet.
 
 - When used on a willing creature, it removes the [[Beyond the Veil/Veil Content/Conditions/Prone\|Prone]] condition.

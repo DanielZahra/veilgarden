@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/locket-for-a-friend/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Soulbind Worn ","Cooldown":["Passive"],"Rarity":["Exalted"],"Grade":"Veteran"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/locket-for-a-friend/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Interact Action"],"Traits":"Soulbind Worn ","Cooldown":["Passive"],"Rarity":["Exalted"],"Rank":"[[Veteran]]","image":"[[locketforafriend.png]]"}}
 ---
 
 

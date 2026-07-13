@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/weapon-oil/","dg-note-properties":{"base":"[[Gear.base]]","Traits":"Oil Consumable ","Dossier":"[[Alchemy & Medicine]]","Multi-Purchase":false,"Stack":"1","Wealth Cost":"6","Actions":["1 Interact Action"],"Rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/weapon-oil/","dg-note-properties":{"base":"[[Gear.base]]","Traits":["[[Beyond the Veil/Veil Glossary/Oil\|Oil]]","[[Consumable]]"],"Dossier":"[[Alchemy & Medicine]]","Multi-Purchase":false,"Stack":"1","Wealth Cost":"6","Actions":["1 Interact Action"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 - You [[Beyond the Veil/Veil Glossary/Imbue\|Imbue]] your strikes with magical oil that forms a layer of liquid that increased your damage dealt.

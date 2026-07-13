@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/hollow-zero/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Action Economy"],"MasterySkills":["Hollow"],"Traits":"","defenses":[],"Actions":"Free Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/hollow-zero/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Action Economy"],"MasterySkills":["[[Hollow]]"],"Traits":"","defenses":[],"Actions":"Free Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

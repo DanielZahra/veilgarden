@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/tabula-rasa/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn ","Cooldown":["Once Per Rest"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/tabula-rasa/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":null,"Traits":"Soulbind Worn ","Cooldown":["Once Per Rest"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[tabularasa.png]]"}}
 ---
 
 

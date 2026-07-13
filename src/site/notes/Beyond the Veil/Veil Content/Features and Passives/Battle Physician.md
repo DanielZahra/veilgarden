@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/battle-physician/","tags":["TacticalSkill"],"dg-note-properties":{"base":"[[Passives Database.base]]","MasterySkills":["[[Restoration]]"],"tags":["TacticalSkill"],"Rank":"[[Veteran]]","sortOrderByRank":2,"Requirement":null}}
+---
+
+- You can use a [[Beyond the Veil/Veil Content/Downtime Activities/Meditation\|Meditation]] [[Beyond the Veil/Veil Glossary/Downtime Activity\|Downtime Activity]] to make a DC 15 [[Beyond the Veil/Veil Glossary/Skill Check/Restoration Skill Check\|Restoration Skill Check]] to grant an ally a [[Beyond the Veil/Veil Glossary/Boon\|Boon]] to [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]], [[Beyond the Veil/Veil Glossary/Reflex\|Reflex]] or [[Beyond the Veil/Veil Glossary/Will\|Will]] until they [[Beyond the Veil/Veil Glossary/Rest/Rest\|Rest]].

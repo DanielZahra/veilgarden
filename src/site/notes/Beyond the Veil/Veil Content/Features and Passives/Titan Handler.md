@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/titan-handler/","dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":null,"Traits":[],"Rank":["[[Master]]"],"MasterySkills":"[[Athletics]]","sortOrderByRank":3}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/titan-handler/","tags":["TacticalSkill"],"dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":["[[Beyond the Veil/Veil Content/Features and Passives/Mass Handler\|Mass Handler]]"],"Traits":[],"Rank":"[[Master]]","MasterySkills":"[[Athletics]]","sortOrderByRank":3,"tags":["TacticalSkill"]}}
 ---
 
 **Requirement:** [[Beyond the Veil/Veil Content/Features and Passives/Mass Handler\|Mass Handler]]

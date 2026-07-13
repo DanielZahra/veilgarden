@@ -7,7 +7,7 @@
 The [[Beyond the Veil/Veil Glossary/Campcraft\|Campcraft]] system represents the party’s collective gear, inventory and a place where they rest. This ‘system’ simplifies the inventory management of a group. This has multiple components as follows:
 
 - **Downtime**
-    - When a party rests they can perform [[Downtime Activities\|Downtime Activities]]
+    - When a party rests they can perform 2 [[Beyond the Veil/Veil Glossary/Downtime Activity\|Downtime Activity]].
     - These can include planning the road/studying/training etc
 - **Inventory**
 	- Purchased items are replenished over a [[Beyond the Veil/Veil Glossary/Rest/Downtime Rest\|Downtime Rest]] while in a town.

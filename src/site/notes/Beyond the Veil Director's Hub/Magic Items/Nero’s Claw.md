@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/nero-s-claw/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Gloves ","Cooldown":["None"],"Rarity":["Exalted"],"Grade":"Master"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/nero-s-claw/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Gloves ","Cooldown":["None"],"Rarity":["Exalted"],"Rank":"[[Master]]","image":"[[nerosclaw.png]]"}}
 ---
 
 

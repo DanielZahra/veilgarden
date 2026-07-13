@@ -9,77 +9,26 @@
 | Adept         | You can choose 1 trait for this weapon family. Up to [[Beyond the Veil/Veil Glossary/Adept\|Adept]].                                                                                  |
 | Veteran       | You can choose 2 traits for this weapon family. Up to [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]].<br><br>You can choose a single [[Modification\|Modification]] trait for this weapon family. |
 | Master        | You can choose 3 traits for this weapon family. Up to [[Beyond the Veil/Veil Glossary/Master\|Master]].                                                                                |
+| Ability Name                                                                           | Rank                                                  | Actions     | Defenses | Range / Area         | Traits                                                           | Mastery                                                                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----------- | -------- | -------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Beyond the Veil/Veil Content/Abilities/Aimed Shot\|Aimed Shot]]                   | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action    | Defense  | Weapon Range         | [[Beyond the Veil/Veil Glossary/Attack\|Attack]]              | [[Beyond the Veil/Veil Content/Masteries/Throwing\|Throwing]], [[Beyond the Veil/Veil Content/Masteries/Bows\|Bows]], [[Beyond the Veil/Veil Content/Masteries/Crossbows\|Crossbows]], [[Beyond the Veil/Veil Content/Masteries/Firearms\|Firearms]] |
+| [[Beyond the Veil/Veil Content/Abilities/Curved Throw\|Curved Throw]]               | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action    | Defense  | Weapon Range         | Attack                                                           | [[Beyond the Veil/Veil Content/Masteries/Throwing\|Throwing]]                                                                                                                                                                                                 |
+| [[Beyond the Veil/Veil Content/Abilities/Running Throw\|Running Throw]]             | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 2 Actions   | Defense  | Weapon Range         | Attack                                                           | [[Beyond the Veil/Veil Content/Masteries/Throwing\|Throwing]]                                                                                                                                                                                                 |
+| [[Beyond the Veil/Veil Content/Abilities/Skirmisher’s Stance\|Skirmisher’s Stance]] | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Free Action |          | Self                 | Stance                                                           | [[Beyond the Veil/Veil Content/Masteries/Throwing\|Throwing]]                                                                                                                                                                                                 |
+| [[Beyond the Veil/Veil Content/Abilities/Throwing Stride\|Throwing Stride]]         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action    | Defense  | Weapon Range         | Attack , [[Beyond the Veil/Veil Glossary/Movement\|Movement]] | [[Beyond the Veil/Veil Content/Masteries/Throwing\|Throwing]]                                                                                                                                                                                                 |
+| [[Beyond the Veil/Veil Content/Abilities/Titan’s Throw\|Titan’s Throw]]             | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action    | Defense  | Weapon Range<br>Line | Attack                                                           | [[Beyond the Veil/Veil Content/Masteries/Throwing\|Throwing]]                                                                                                                                                                                                 |
+| [[Beyond the Veil/Veil Content/Abilities/Double Weapon Throw\|Double Weapon Throw]] | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 1 Action    | Defense  | Weapon Range         | Attack                                                           | [[Beyond the Veil/Veil Content/Masteries/Throwing\|Throwing]]                                                                                                                                                                                                 |
 
-```base
-filters:
-  and:
-    - MasterySkills.contains(link("Throwing"))
-    - base == link("Abilities.base")
-formulas:
-  Untitled: ""
-properties:
-  formula.Untitled:
-    displayName: sortOrderRank
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - MasterySkills
-      - Actions
-      - defenses
-      - Traits
-      - RangeArea
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-    columnSize:
-      note.MasterySkills: 232
-      note.Traits: 120
-    rowHeight: medium
+{ .block-language-dataview}
 
-```
+| Weapon Name                                                    | Weapon Families                                                                                                                  | Damage | Basic Traits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Adept Traits                                                                                                                                        | Veteran Traits                                                                         | Modification Traits                                                                                                                                                                                                                                                  | Master Traits                                                 |
+| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [[Beyond the Veil/Veil Content/Weapons/Charkram\|Charkram]] | [[Beyond the Veil/Veil Content/Masteries/Throwing\|Throwing]]                                                                 | 2      | [[Beyond the Veil/Veil Glossary/One Handed\|One Handed]]<br>[[Beyond the Veil/Veil Glossary/Melee\|Melee]]<br>[[Beyond the Veil/Veil Glossary/Thrown/Thrown 12\|Thrown 12]]<br>[[Beyond the Veil/Veil Glossary/Slashing\|Slashing]]<br>[[Beyond the Veil/Veil Glossary/Stack\|Stack]]<br>[[Beyond the Veil/Veil Glossary/Quickdraw\|Quickdraw]]<br>[[Beyond the Veil/Veil Glossary/Parrying\|Parrying]]                                                                               | [[Beyond the Veil/Veil Glossary/Extended Range/Extended Range 3\|Extended Range 3]]<br>[[Beyond the Veil/Veil Glossary/Sundering\|Sundering]] | [[Beyond the Veil/Veil Glossary/Extended Range/Extended Range 6\|Extended Range 6]] | [[Beyond the Veil/Veil Glossary/Debilitating\|Debilitating]]<br>[[Beyond the Veil/Veil Glossary/Balanced\|Balanced]]<br>[[Beyond the Veil/Veil Content/Conditions/Concealed\|Concealed]]                                                                    | \-                                                            |
+| [[Beyond the Veil/Veil Content/Weapons/Hatchet\|Hatchet]]   | [[Beyond the Veil/Veil Content/Masteries/Axes\|Axes]]<br>[[Beyond the Veil/Veil Content/Masteries/Throwing\|Throwing]]     | 2      | [[Beyond the Veil/Veil Glossary/One Handed\|One Handed]]<br>[[Beyond the Veil/Veil Glossary/Melee\|Melee]]<br>[[Beyond the Veil/Veil Glossary/Thrown/Thrown 6\|Thrown 6]]<br>[[Beyond the Veil/Veil Glossary/Slashing\|Slashing]]<br>[[Beyond the Veil/Veil Glossary/Quickdraw\|Quickdraw]]<br>[[Beyond the Veil/Veil Glossary/Parrying\|Parrying]]<br>[[Beyond the Veil/Veil Content/Conditions/Concealed\|Concealed]]<br>[[Beyond the Veil/Veil Glossary/Stack\|Stack]]          | [[Beyond the Veil/Veil Glossary/Deadly/Deadly 4\|Deadly 4]]<br>[[Beyond the Veil/Veil Glossary/Agile\|Agile]]                                 | [[Beyond the Veil/Veil Glossary/Extended Range/Extended Range 3\|Extended Range 3]] | [[Beyond the Veil/Veil Glossary/Debilitating\|Debilitating]]<br>[[Beyond the Veil/Veil Glossary/Balanced\|Balanced]]<br>[[Beyond the Veil/Veil Glossary/Guarding Weapon\|Guarding Weapon]]<br>[[Beyond the Veil/Veil Glossary/Combination\|Combination]] | [[Beyond the Veil/Veil Glossary/Quick Reach\|Quick Reach]] |
+| [[Beyond the Veil/Veil Content/Weapons/Javelin\|Javelin]]   | [[Beyond the Veil/Veil Content/Masteries/Throwing\|Throwing]]<br>[[Beyond the Veil/Veil Content/Masteries/Spears\|Spears]] | 2      | [[Beyond the Veil/Veil Glossary/One Handed\|One Handed]]<br>[[Beyond the Veil/Veil Glossary/Melee\|Melee]]<br>[[Beyond the Veil/Veil Glossary/Thrown/Thrown 6\|Thrown 6]]<br>[[Beyond the Veil/Veil Glossary/Piercing/Piercing\|Piercing]]<br>[[Beyond the Veil/Veil Glossary/Quickdraw\|Quickdraw]]<br>[[Beyond the Veil/Veil Glossary/Stack\|Stack]]<br>[[Beyond the Veil/Veil Glossary/Parrying\|Parrying]]<br>[[Beyond the Veil/Veil Glossary/Penetrating\|Penetrating]]       | [[Beyond the Veil/Veil Glossary/Extended Range/Extended Range 3\|Extended Range 3]]<br>[[Beyond the Veil/Veil Glossary/Sundering\|Sundering]] | [[Beyond the Veil/Veil Glossary/Extended Range/Extended Range 6\|Extended Range 6]] | [[Beyond the Veil/Veil Glossary/Balanced\|Balanced]]<br>[[Beyond the Veil/Veil Glossary/Debilitating\|Debilitating]]                                                                                                                                           | \-                                                            |
+| [[Beyond the Veil/Veil Content/Weapons/Kunai\|Kunai]]       | [[Beyond the Veil/Veil Content/Masteries/Throwing\|Throwing]]<br>[[Beyond the Veil/Veil Content/Masteries/Knives\|Knives]] | 2      | [[Beyond the Veil/Veil Glossary/One Handed\|One Handed]]<br>[[Beyond the Veil/Veil Glossary/Melee\|Melee]]<br>[[Beyond the Veil/Veil Glossary/Thrown/Thrown 6\|Thrown 6]]<br>[[Beyond the Veil/Veil Glossary/Piercing/Piercing\|Piercing]]<br>[[Beyond the Veil/Veil Glossary/Stack\|Stack]]<br>[[Beyond the Veil/Veil Glossary/Quickdraw\|Quickdraw]]<br>[[Beyond the Veil/Veil Glossary/Parrying\|Parrying]]<br>[[Beyond the Veil/Veil Content/Conditions/Concealed\|Concealed]] | [[Beyond the Veil/Veil Glossary/Sinister/Sinister 1\|Sinister 1]]<br>[[Beyond the Veil/Veil Glossary/Agile\|Agile]]                           | [[Beyond the Veil/Veil Glossary/Vengeful\|Vengeful]]                                | [[Beyond the Veil/Veil Glossary/Debilitating\|Debilitating]]<br>[[Beyond the Veil/Veil Glossary/Balanced\|Balanced]]                                                                                                                                           | \-                                                            |
 
-
-
-```base
-filters:
-  and:
-    - file.hasLink("Bases/Weapon Families.base")
-    - and:
-        - Families.contains(link("Throwing"))
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - Families
-      - Damage
-      - Basic Traits
-      - Adept Traits
-      - Veteran Traits
-      - Modification Trait
-      - Master Traits
-    columnSize:
-      file.name: 122
-      note.Families: 122
-      note.Damage: 100
-      note.Basic Traits: 225
-      note.Adept Traits: 134
-      note.Veteran Traits: 178
-      note.Modification Trait: 236
-      note.Master Traits: 168
-    rowHeight: tall
-
-```
-
-
+{ .block-language-dataview}
 ## TODO Abilities 
 
 - Adept
@@ -87,13 +36,13 @@ views:
 - Veteran
     - [[Beyond the Veil/Veil Glossary/Combo\|Combo]] Abilities
         - Incorporated Throw: When an ally uses a ranged attack, you can use this paired action to throw your weapon as part of their attack, this attack is made with advantage.
-    - Block Projecttile (Reaction)
+    - Block Projectile (Reaction)
         - You can throw your weapon as a reaction against a **ranged** attack in your reach, if your roll is higher, you [[Beyond the Veil/Veil Glossary/Interrupt\|Interrupt]] the attack.
     - Repeating throw (veteran) (Agile)
         - 2 or 3 actions, you make 2 or 3 [[Beyond the Veil/Veil Glossary/Power Strike\|Power Strike]]s 
-        - You strike multiple times, each successful strike gives the traget a single bane to your weapon’s damage type, until the end of your turn.
+        - You strike multiple times, each successful strike gives the target a single bane to your weapon’s damage type, until the end of your turn.
     - Binding Chains: you generate a chains of dense mana to your thrown weapon, if you hit an enemy with this attack, you can ‘pull them towards you’ Fort DC
 - Master
     - Heart Piercer (master)
         - Strike with [[Beyond the Veil/Veil Glossary/Advantage\|Advantage]] and this attack can crit on 8 rather than 10.
-    - Unload Arsenal, large aoe damage + Held as the weapins pin creatures to the ground.
+    - Unload Arsenal, large AOE damage + Held as the weapons pin creatures to the ground.

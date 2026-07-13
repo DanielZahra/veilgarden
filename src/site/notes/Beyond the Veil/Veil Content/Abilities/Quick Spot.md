@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/quick-spot/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":[],"Tags":[],"MasterySkills":["Perception"],"Traits":"Skills","defenses":[],"Actions":"Free Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/quick-spot/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":[],"Tags":[],"MasterySkills":["[[Perception]]"],"Traits":"Skills","defenses":[],"Actions":"Free Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/vanishing-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Movement"],"MasterySkills":["Trickster","Assassination"],"Traits":"Attack Teleport ","defenses":["Defense"],"Actions":"2 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/vanishing-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Movement"],"MasterySkills":["[[Trickster]]","[[Assassination]]"],"Traits":"Attack Teleport ","defenses":["Defense"],"Actions":"2 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > [!note] 

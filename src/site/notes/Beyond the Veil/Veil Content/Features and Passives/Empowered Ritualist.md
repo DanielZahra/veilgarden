@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/empowered-ritualist/","dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":null,"Traits":[],"Rank":["[[Veteran]]"],"MasterySkills":"[[Intuition]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/empowered-ritualist/","tags":["MinorSkillFeat"],"dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":["[[Beyond the Veil/Veil Content/Features and Passives/Dedicated Ritualist\|Dedicated Ritualist]]"],"Traits":[],"Rank":"[[Veteran]]","MasterySkills":"[[Intuition]]","sortOrderByRank":2,"tags":["MinorSkillFeat"]}}
 ---
 
 **Requirement:** [[Beyond the Veil/Veil Content/Features and Passives/Dedicated Ritualist\|Dedicated Ritualist]]

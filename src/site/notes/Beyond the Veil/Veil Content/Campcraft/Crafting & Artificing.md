@@ -2,64 +2,52 @@
 {"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/campcraft/crafting-and-artificing/","dg-note-properties":{}}
 ---
 
+#### [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] [[Beyond the Veil/Veil Glossary/Gear\|Gear]]
+| Item Name                                                                                             | Rank                                                  | Traits                                                                                                             | Dossier                                                                                    | Actions            | Stack | Wealth Cost | Multi-Purchase |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------ | ----- | ----------- | -------------- |
+| [[Beyond the Veil/Veil Content/Gear/Artificing Kit\|Artificing Kit]]                               | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Kit\|Kit]]                                                                      | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] |                    | 1     | 1           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Caltrops\|Caltrops]]                                           | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Consumable Trap Device                                                                                             | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 2           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Cryo Bomb\|Cryo Bomb]]                                         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Bomb  Consumable Splash 1 Thrown 9  Quickdraw Water <br>[[Beyond the Veil/Veil Glossary/Bomb\|Bomb]]            | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 2     | 4           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Flare\|Flare]]                                                 | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Consumable Light Thrown 24  Device                                                                                 | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 2           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Foam Box\|Foam Box]]                                           | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Consumable Trap  Thrown 6  Device                                                                                  | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 2           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Foot Claw\|Foot Claw]]                                         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Consumable Trap  Thrown Device                                                                                     | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 2           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Knockout Bomb\|Knockout Bomb]]                                 | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Bomb  Consumable Thrown 9 Quickdraw <br>[[Beyond the Veil/Veil Glossary/Bomb\|Bomb]]                            | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 2     | 4           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Magitech Prosthetic\|Magitech Prosthetic]]                     | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Gear\|Gear]]                                                                    | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | Downtime Activity  | -     | 12          | true           |
+| [[Beyond the Veil/Veil Content/Gear/Minor Void Pit\|Minor Void Pit]]                               | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Consumable Trap  Thrown 6  Device                                                                                  | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 4           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Nail Shooter\|Nail Shooter]]                                   | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Consumable Trap Device                                                                                             | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 2           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Pyro Bomb\|Pyro Bomb]]                                         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Bomb  Consumable Splash 1 Thrown 9  Quickdraw Fire <br>[[Beyond the Veil/Veil Glossary/Bomb\|Bomb]]             | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 2     | 4           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Sand Bag\|Sand Bag]]                                           | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Consumable\|Consumable]]<br>[[Beyond the Veil/Veil Glossary/Device\|Device]] | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 2           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Smoke Bomb\|Smoke Bomb]]                                       | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Bomb  Consumable Thrown 9  Quickdraw <br>[[Beyond the Veil/Veil Glossary/Bomb\|Bomb]]                           | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 2     | 4           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Spring Loaded Plate\|Spring Loaded Plate]]                     | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Consumable Quickdraw   Device Thrown 9                                                                             | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 2           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Static Bomb\|Static Bomb]]                                     | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Bomb  Consumable Splash 1 Thrown 9  Quickdraw Air<br>[[Beyond the Veil/Veil Glossary/Bomb\|Bomb]]               | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 2     | 4           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Tazer Cube\|Tazer Cube]]                                       | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Consumable Quickdraw   Device Thrown 9                                                                             | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 2           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Toxic Bomb\|Toxic Bomb]]                                       | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Bomb  Consumable Splash 1 Thrown 9  Quickdraw Earth <br>[[Beyond the Veil/Veil Glossary/Bomb\|Bomb]]            | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 2     | 4           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Trip Wire\|Trip Wire]]                                         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Consumable Trap  Thrown Device                                                                                     | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 2           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Water Baloon\|Water Baloon]]                                   | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Consumable Quickdraw   Device Thrown 12                                                                            | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 2           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Weapon and Armor Smithing Kit\|Weapon and Armor Smithing Kit]] | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | [[Beyond the Veil/Veil Glossary/Kit\|Kit]]                                                                      | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] |                    | 1     | 1           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Glider\|Glider]]                                               | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | Consumable Device                                                                                                  | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 2           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Holy Water\|Holy Water]]                                       | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | Thrown 6  Consumable Device                                                                                        | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 2 Interact Actions | 1     | 4           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Proxima Wall\|Proxima Wall]]                                   | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | Consumable Trap  Device Thrown 6                                                                                   | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 4           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Scarecrow\|Scarecrow]]                                         | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | Consumable Trap  Device Thrown 6                                                                                   | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 4           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Thunder Plate\|Thunder Plate]]                                 | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | Consumable Trap  Device Thrown 6                                                                                   | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 4           | false          |
+| [[Beyond the Veil/Veil Content/Gear/Void Pit\|Void Pit]]                                           | [[Beyond the Veil/Veil Glossary/Master\|Master]]   | Consumable Trap  Thrown 6  Device                                                                                  | [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] | 1 Interact Action  | 1     | 4           | false          |
 
-```base
-filters:
-  and:
-    - base == link("Campcraft Passive Database.base")
-    - Dossier.contains(link("Crafting & Artificing"))
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - Dossier
-      - Wealth Cost
-      - Requirements
-      - Traits
-      - Text
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-    columnSize:
-      file.name: 260
-      note.Requirements: 228
-      note.Text: 859
-    rowHeight: medium
+{ .block-language-dataview}
 
-```
+#### [[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing\|Crafting & Artificing]] [[Beyond the Veil/Veil Glossary/Campcraft\|Campcraft]] Upgrades
+| Name                                                                                                                    | Rank                                              | Dossier                                                                                                       | Requirements                                                                                                                                                                   | Wealth Cost | Traits |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | ------ |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Artisan’s Refined Equipment\|Artisan’s Refined Equipment]] | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing.md\\|Crafting & Artificing]]</li></ul> | [[Beyond the Veil/Veil Content/Gear/Tinkering Tools\|Tinkering Tools]]                                                                                                      | 4           |        |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Loadout Slot 1\|Loadout Slot 1]]                           | <ul><li>Adept</li></ul>                           | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing.md\\|Crafting & Artificing]]</li></ul> |                                                                                                                                                                                | 2           |        |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Portable Forge\|Portable Forge]]                           | <ul><li>Adept</li></ul>                           | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing.md\\|Crafting & Artificing]]</li></ul> |                                                                                                                                                                                | 4           |        |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Frugal Priming\|Frugal Priming]]                           | <ul><li>Veteran</li></ul>                         | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing.md\\|Crafting & Artificing]]</li></ul> | Any Bomb                                                                                                                                                                       | 6           |        |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Loadout Slot 2\|Loadout Slot 2]]                           | <ul><li>Veteran</li></ul>                         | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing.md\\|Crafting & Artificing]]</li></ul> | [[Beyond the Veil/Veil Content/Campcraft Passive Database/Loadout Slot 1\|Loadout Slot 1]]                                                                                  | 4           |        |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Premium Smithing Supplies\|Premium Smithing Supplies]]     | <ul><li>Veteran</li></ul>                         | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing.md\\|Crafting & Artificing]]</li></ul> | [[Beyond the Veil/Veil Content/Gear/Weapon and Armor Smithing Kit\|Weapon and Armor Smithing Kit]], [[Beyond the Veil/Veil Content/Gear/Artificing Kit\|Artificing Kit]] | 6           |        |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Runesmith’s Hammer\|Runesmith’s Hammer]]                   | <ul><li>Veteran</li></ul>                         | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing.md\\|Crafting & Artificing]]</li></ul> |                                                                                                                                                                                | 4           |        |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Loadout Slot 3\|Loadout Slot 3]]                           | <ul><li>Master</li></ul>                          | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing.md\\|Crafting & Artificing]]</li></ul> | [[Beyond the Veil/Veil Content/Campcraft Passive Database/Loadout Slot 2\|Loadout Slot 2]]                                                                                  | 6           |        |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Runesmith Focusing Lens\|Runesmith Focusing Lens]]         | <ul><li>Master</li></ul>                          | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Crafting & Artificing.md\\|Crafting & Artificing]]</li></ul> | [[Beyond the Veil/Veil Content/Campcraft Passive Database/Runesmith’s Hammer\|Runesmith’s Hammer]]                                                                          | 4           |        |
+
+{ .block-language-dataview}
 
 
 
-```base
-filters:
-  and:
-    - base == link("Gear.base")
-    - Dossier.contains(link("Crafting & Artificing"))
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - Traits
-      - Dossier
-      - Multi-Purchase
-      - Stack
-      - Wealth Cost
-      - Actions
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-    columnSize:
-      note.Traits: 362
-      note.Dossier: 238
-
-```

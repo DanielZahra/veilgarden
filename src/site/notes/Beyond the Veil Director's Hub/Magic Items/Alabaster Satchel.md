@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/alabaster-satchel/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Belt ","Cooldown":["Normal"],"Rarity":["Exalted"],"Grade":"Adept","image":"[[alabastersatchel.png]]"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/alabaster-satchel/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["-"],"Traits":"Soulbind Worn Belt ","Cooldown":["Normal"],"Rarity":["Exalted"],"image":"[[alabastersatchel.png]]","Rank":"[[Adept]]"}}
 ---
 
 

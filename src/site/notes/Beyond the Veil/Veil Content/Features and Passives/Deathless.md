@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/deathless/","dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":null,"Traits":[],"Rank":["[[Master]]"],"MasterySkills":["[[Restoration]]","[[Athletics]]"],"sortOrderByRank":3}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/deathless/","tags":["TacticalSkill"],"dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":["[[Beyond the Veil/Veil Content/Features and Passives/Die Hard\|Die Hard]]"],"Traits":[],"Rank":"[[Master]]","MasterySkills":["[[Restoration]]","[[Athletics]]"],"sortOrderByRank":3,"tags":["TacticalSkill"]}}
 ---
 
 **Requirement:** [[Beyond the Veil/Veil Content/Features and Passives/Die Hard\|Die Hard]]

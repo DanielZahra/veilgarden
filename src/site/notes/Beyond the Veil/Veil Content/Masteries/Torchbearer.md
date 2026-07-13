@@ -17,5 +17,5 @@
         - Flame shield wall
     - Master
 
-<!-- Linked database (not supported by Notion API) -->
+
 

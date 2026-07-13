@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/gravio-pull/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 6"],"Tags":["Force Move","Effect"],"MasterySkills":["Outsider"],"Traits":"","defenses":["Fortitude"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/gravio-pull/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Range 6]]"],"Tags":["Force Move","Effect"],"MasterySkills":["[[Outsider]]"],"Traits":"","defenses":["Fortitude"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 
