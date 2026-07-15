@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/tools-of-the-trade/","dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":"","Traits":[],"Rank":["[[Veteran]]"],"MasterySkills":"[[Tinkering]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/tools-of-the-trade/","tags":["MinorSkillFeat"],"dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":"","Traits":[],"Rank":"[[Veteran]]","MasterySkills":"[[Tinkering]]","sortOrderByRank":2,"tags":["MinorSkillFeat"]}}
 ---
 
 - You can use [[Beyond the Veil/Veil Content/Actions/Disable Device\|Disable Device]] or [[Beyond the Veil/Veil Content/Actions/Lockpicking\|Lockpicking]] as one action instead of 3 actions. 

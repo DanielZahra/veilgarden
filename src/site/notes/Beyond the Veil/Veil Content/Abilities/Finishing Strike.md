@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/finishing-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":[],"MasterySkills":["Sword","Assassination"],"Traits":"Attack ","defenses":["Defense"],"Actions":"Free Action","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/finishing-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":[],"MasterySkills":["[[Swords]]","[[Assassination]]"],"Traits":"Attack ","defenses":["Defense"],"Actions":"Free Action","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

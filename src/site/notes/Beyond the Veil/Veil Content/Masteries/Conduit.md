@@ -4,45 +4,32 @@
 
 # [[Beyond the Veil/Veil Content/Masteries/Conduit\|Conduit]] Discipline Mastery
 
-| Mastery Level | Effect |
-| --- | --- |
-| Adept | You learn the [[Beyond the Veil/Veil Content/Abilities/AC-DC\|AC-DC]] Ability |
-| Veteran | Once per turn, you can switch between [[Beyond the Veil/Veil Content/Abilities/AC-DC\|AC-DC]]’s effects as a free action |
-| Master | Improve [[Beyond the Veil/Veil Content/Abilities/AC-DC\|AC-DC]] TBD |
+| Mastery Level | Effect                                                                         |
+| ------------- | ------------------------------------------------------------------------------ |
+| Adept         | You learn the [[Beyond the Veil/Veil Content/Abilities/AC-DC\|AC-DC]] Ability                                                |
+| Veteran       | Once per turn, you can switch between [[Beyond the Veil/Veil Content/Abilities/AC-DC\|AC-DC]]’s effects as a [[Beyond the Veil/Veil Glossary/Free Action\|Free action]] |
+| Master        | Improve [[Beyond the Veil/Veil Content/Abilities/AC-DC\|AC-DC]] TBD                                                          |
+|               |                                                                                |
+| Ability Name                                                                             | Rank                                                  | Actions              | Defenses                                                                                                         | Range / Area                                                    | Traits                                                                                             | Mastery                                                                                                                                    |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Beyond the Veil/Veil Content/Abilities/AC-DC\|AC-DC]]                               | [[Beyond the Veil/Veil Glossary/Innate\|Innate]]   | Free Action          |                                                                                                                  | Self                                                            | [[Beyond the Veil/Veil Glossary/Stance\|Stance]]                                                | [[Beyond the Veil/Veil Content/Masteries/Conduit\|Conduit]]                                                                             |
+| [[Beyond the Veil/Veil Content/Abilities/Conduit’s Charge\|Conduit’s Charge]]         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 2 Actions, 3 Actions | Defense                                                                                                          | Weapon Range                                                    | Air Attack                                                                                         | [[Beyond the Veil/Veil Content/Masteries/Conduit\|Conduit]]                                                                             |
+| [[Beyond the Veil/Veil Content/Abilities/Electric Attack\|Electric Attack]]           | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 2 Actions            | Defense                                                                                                          | Weapon Range                                                    | Air Attack                                                                                         | [[Beyond the Veil/Veil Content/Masteries/Conduit\|Conduit]]                                                                             |
+| [[Beyond the Veil/Veil Content/Abilities/Electric Heart\|Electric Heart]]             | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Reaction             |                                                                                                                  | Self                                                            | Air Healing                                                                                        | [[Beyond the Veil/Veil Content/Masteries/Conduit\|Conduit]]                                                                             |
+| [[Beyond the Veil/Veil Content/Abilities/Lightning Jab\|Lightning Jab]]               | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | Free Action          | Defense                                                                                                          | Weapon Range                                                    | Attack                                                                                             | [[Beyond the Veil/Veil Content/Masteries/Conduit\|Conduit]], [[Beyond the Veil/Veil Content/Masteries/Knives\|Knives]]               |
+| [[Beyond the Veil/Veil Content/Abilities/Paralyzing Strike\|Paralyzing Strike]]       | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action             | Defense, Fortitude                                                                                               | Weapon Range                                                    | Attack                                                                                             | [[Beyond the Veil/Veil Content/Masteries/Conduit\|Conduit]], [[Beyond the Veil/Veil Content/Masteries/Assassination\|Assassination]] |
+| [[Beyond the Veil/Veil Content/Abilities/Static Armaments\|Static Armaments]]         | [[Beyond the Veil/Veil Glossary/Adept\|Adept]]     | 1 Action             |                                                                                                                  | Adjacent                                                        | Imbue Air                                                                                          | [[Beyond the Veil/Veil Content/Masteries/Conduit\|Conduit]]                                                                             |
+| [[Beyond the Veil/Veil Content/Abilities/Conductivity\|Conductivity]]                 | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 1 Action             | Fortitude                                                                                                        | Range 12                                                        | Air                                                                                                | [[Beyond the Veil/Veil Content/Masteries/Conduit\|Conduit]]                                                                             |
+| [[Beyond the Veil/Veil Content/Abilities/Electrocuting Strike\|Electrocuting Strike]] | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 2 Actions            | [[Beyond the Veil/Veil Glossary/Fortitude\|Fortitude]], [[Beyond the Veil/Veil Glossary/Defense\|Defense]] | [[Beyond the Veil/Veil Glossary/Weapon Range\|Weapon Range]] | [[Beyond the Veil/Veil Glossary/Air\|Air]], [[Beyond the Veil/Veil Glossary/Attack\|Attack]] | [[Beyond the Veil/Veil Content/Masteries/Conduit\|Conduit]]                                                                             |
+| [[Beyond the Veil/Veil Content/Abilities/Ride the Lightning\|Ride the Lightning]]     | [[Beyond the Veil/Veil Glossary/Veteran\|Veteran]] | 2 Actions            | Basic Reflex                                                                                                     | Range 18, Emanation 2                                           | Air                                                                                                | [[Beyond the Veil/Veil Content/Masteries/Stormweaver\|Stormweaver]], [[Beyond the Veil/Veil Content/Masteries/Conduit\|Conduit]]     |
+| [[Beyond the Veil/Veil Content/Abilities/Electrified Weapons\|Electrified Weapons]]   | [[Beyond the Veil/Veil Glossary/Master\|Master]]   | 1 Action             |                                                                                                                  | Emanation 50                                                    | Imbue Air Aura                                                                                     | [[Beyond the Veil/Veil Content/Masteries/Conduit\|Conduit]]                                                                             |
 
-```base
-filters:
-  and:
-    - MasterySkills.contains(link("Conduit"))
-    - base == link("Abilities.base")
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - MasterySkills
-      - Actions
-      - defenses
-      - Traits
-      - RangeArea
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-    columnSize:
-      file.name: 196
-      note.MasterySkills: 367
-
-```
+{ .block-language-dataview}
 
 
 ## TODO
 
 - Ability
-    - Atttack that causes persisent elec dmg
     - Discharge? nova?
     - Teleportation
     - Repelling force, aoe push emanation 

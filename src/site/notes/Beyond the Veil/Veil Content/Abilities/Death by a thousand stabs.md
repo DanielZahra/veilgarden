@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/death-by-a-thousand-stabs/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Action Economy"],"MasterySkills":["Knives"],"Traits":"Attack ","defenses":["Defense"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/death-by-a-thousand-stabs/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Action Economy"],"MasterySkills":["[[Knives]]"],"Traits":"Attack ","defenses":["Defense"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

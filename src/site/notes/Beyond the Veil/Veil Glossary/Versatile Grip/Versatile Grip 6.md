@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/versatile-grip/versatile-grip-6/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/versatile-grip/versatile-grip-6/","dg-note-properties":{"base":"[[Veil Glossary.base]]"}}
 ---
 
 

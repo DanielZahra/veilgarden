@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/seasoned-adventurer/","tags":["SkillFeat"],"dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":"","Traits":["[[Exploration Activities\|Exploration Activities]]"],"Rank":"[[Adept]]","MasterySkills":["[[Influence]]","[[Agility]]","[[Athletics]]","[[Perception]]","[[Subterfuge]]","[[Intuition]]","[[Restoration]]","[[Tinkering]]","[[Smarts]]"],"sortOrderByRank":1,"tags":["SkillFeat"]}}
+---
+
+- When you are get [[Beyond the Veil/Veil Content/Features and Passives/Seasoned Adventurer\|Seasoned Adventurer]], you choose a single passive [[Exploration Activity\|Exploration Activity]], while you use this [[Exploration Activity\|Exploration Activity]] you can also use a secondary secondary passive exploration activity.
+- You can learn [[Beyond the Veil/Veil Content/Features and Passives/Seasoned Adventurer\|Seasoned Adventurer]] multiple times for different [[Exploration Activities\|Exploration Activities]].

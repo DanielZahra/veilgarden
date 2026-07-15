@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/pacify/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 6"],"Tags":[],"MasterySkills":["Influence"],"Traits":"Auditory Anima","defenses":["Will"],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/pacify/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 6"],"Tags":[],"MasterySkills":["[[Influence]]"],"Traits":"Auditory Anima","defenses":["Will"],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

@@ -10,7 +10,7 @@
 | Veteran       | You break the limit of the [[Beyond the Veil/Veil Glossary/Verse\|Verse]] trait and can use up to 2 within the same round. |
 | Master        |                                                                                       |
 
-<!-- Linked database (not supported by Notion API) -->
+
 
 ## TODO
 

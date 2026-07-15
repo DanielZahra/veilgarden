@@ -3,6 +3,6 @@
 ---
 
 > [!note] ⚔️
-> This small [[Notion/Aeternum Wiki/Manatech\|Manatech]] water balloon is 2 centimeters in size. When thrown at allies, it expands into 2 liters of splashing water sure to wake up someone who is sleeping.
+> This small [[Aeternum Lore/Lore Glossary/Manatech\|Manatech]] water balloon is 2 centimeters in size. When thrown at allies, it expands into 2 liters of splashing water sure to wake up someone who is sleeping.
 
 -  [[Beyond the Veil/Veil Content/Gear/Water Baloon\|Water Baloon]] removes the [[Beyond the Veil/Veil Content/Conditions/Unconscious\|Unconscious]] condition.

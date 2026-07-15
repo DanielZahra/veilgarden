@@ -4,7 +4,7 @@
 
 
 > [!note] 🗺️
-> This ear cuff is a piece of [[Notion/Aeternum Wiki/Manatech\|Manatech]] that imbues a living psionic antenna with magic bounds to sub sonic sound waves. These allow you to talk and listen normally with someone else wearing the same feeler as if they were near.
+> This ear cuff is a piece of [[Aeternum Lore/Lore Glossary/Manatech\|Manatech]] that imbues a living psionic antenna with magic bounds to sub sonic sound waves. These allow you to talk and listen normally with someone else wearing the same feeler as if they were near.
 
 **Requirement: **For the [[Beyond the Veil/Veil Content/Gear/Psionic Feeler\|Psionic Feeler]] to be used it must attuned to at least one other [[Beyond the Veil/Veil Content/Gear/Psionic Feeler\|Psionic Feeler]] to a maximum of 10. This takes 10 minutes to do.
 

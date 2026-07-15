@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/lightspeed/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Free Activation"],"Traits":"Soulbind Weapon Rune ","Cooldown":["Passive","Normal"],"Rarity":["Exalted"],"Grade":"Adept"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil-director-s-hub/magic-items/lightspeed/","dg-note-properties":{"base":"[[Magic Items.base]]","Activation":["Free Activation"],"Traits":"Soulbind Weapon Rune ","Cooldown":["Passive","Normal"],"Rarity":["Exalted"],"Rank":"[[Adept]]","image":"[[lightspeed.png]]"}}
 ---
 
 

@@ -19,4 +19,4 @@ Some abilities may call for a [[Beyond the Veil/Veil Glossary/Power Strike\|Powe
 
 ---
 ### Non Lethal Attacks
-You can make a [Non-lethal](https://app.notion.com/p/Non-lethal-23b75a22781a809a8c18dabc4194a4de?pvs=21) [Strike](https://app.notion.com/p/Strike-26675a22781a8067882bcfe6823f5f59?pvs=21) even without a [Non-lethal](https://app.notion.com/p/Non-lethal-23b75a22781a809a8c18dabc4194a4de?pvs=21) trait weapon. You simply reduce the degree of success by one.
+You can make a [[Beyond the Veil/Veil Glossary/Non-lethal\|Non-lethal]] [[Beyond the Veil/Veil Glossary/Strike\|Strike]] even without a [[Beyond the Veil/Veil Glossary/Non-lethal\|Non-lethal]] trait weapon. You simply reduce the degree of success by one.

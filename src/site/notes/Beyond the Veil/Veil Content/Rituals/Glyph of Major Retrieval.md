@@ -9,5 +9,5 @@ Requirements: The [[Beyond the Veil/Veil Content/Rituals/Glyph of Major Retrieva
 
 ---
 - You must use the [[Beyond the Veil/Veil Content/Rituals/Glyph of Major Retrieval\|Glyph of Major Retrieval]] and set an object as the 'container', this takes 1 hour.
-- When using [[Beyond the Veil/Veil Content/Rituals/Glyph of Major Retrieval\|Glyph of Major Retrieval]] again you can take up to 3 items (or stack) from the container, this takes 10 minutes.
+- When using [[Beyond the Veil/Veil Content/Rituals/Glyph of Major Retrieval\|Glyph of Major Retrieval]] again you can take a single item that takes 3 [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]] slots (or stack) from the container, this takes 10 minutes.
 - [[Beyond the Veil/Veil Content/Rituals/Glyph of Major Retrieval\|Glyph of Major Retrieval]] that is placed on the container typically lasts for a year unless destroyed. 

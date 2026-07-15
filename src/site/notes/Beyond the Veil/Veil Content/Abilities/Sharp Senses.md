@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/sharp-senses/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":[],"MasterySkills":["Perception"],"Traits":"Skills","defenses":[],"Actions":"Free Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/sharp-senses/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":[],"MasterySkills":["[[Perception]]"],"Traits":"Skills","defenses":[],"Actions":"Free Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

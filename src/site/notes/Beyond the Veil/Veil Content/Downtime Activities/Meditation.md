@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/downtime-activities/meditation/","dg-note-properties":{"base":"[[Downtime Activities Database.base]]","Effect":"","Requirements":"","Related":""}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/downtime-activities/meditation/","dg-note-properties":{"base":"[[Downtime Activities Database.base]]","Effect":"","Requirements":"","Related":null}}
 ---
 
 > [!tip] 💡

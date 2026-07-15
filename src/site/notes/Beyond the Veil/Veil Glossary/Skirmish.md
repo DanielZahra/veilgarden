@@ -20,7 +20,7 @@ Example:
 - A group of assassins surprise you, you roll [[Beyond the Veil/Veil Content/Skills/Perception\|Perception]] on the chance spotting them, or [[Beyond the Veil/Veil Content/Skills/Agility\|Agility]] to react quickly.
 - A pack of wolves have surrounded the you, you can use [[Beyond the Veil/Veil Content/Skills/Smarts\|Smarts]] to create a strategy on the fly, or growl back to scare them into breaking formation using [[Beyond the Veil/Veil Content/Skills/Influence\|Influence]].
 
-On a success the party defeats their opponents easily, on a failure, the party defeats the opponents easily but the [[luck\|luck]] die is rolled. If you roll a critical failure (personal roll), you also gain a Reaper’s Mark representing a blunder on your side or the opponents getting a lucky shot on you.
+On a success the party defeats their opponents easily, on a failure, the party defeats the opponents easily but the [[Beyond the Veil/Veil Glossary/Luck\|Luck]] die is rolled. If you roll a critical failure (personal roll), you also gain a Reaper’s Mark representing a blunder on your side or the opponents getting a lucky shot on you.
 
 | **Degree**       | **Effect**                                                    |
 | ---------------- | ------------------------------------------------------------- |

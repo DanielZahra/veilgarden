@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/executioner-s-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Weapon Range]]"],"Tags":["Damage"],"MasterySkills":["[[Axes]]","[[Assassination]]"],"Traits":"[[Attack]]","defenses":["Defense"],"Actions":["1 Action"],"rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/executioner-s-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Weapon Range]]"],"Tags":["Damage"],"MasterySkills":["[[Axes]]","[[Assassination]]"],"Traits":"[[Attack]]","defenses":["Defense"],"Actions":["1 Hour"],"rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > As you drive your axe through your foe, you can see their life flashing in front of their eyes, as a mercy or savagery you drive through further with your attack ending them on the stop.

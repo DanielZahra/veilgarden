@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/supreme-dodge/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":[],"MasterySkills":["Trickster"],"Traits":"","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/supreme-dodge/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":[],"MasterySkills":["[[Trickster]]"],"Traits":"","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

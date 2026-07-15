@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/tongue-of-many/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["15"],"Traits":"Communication ","Wealth Cost":"4","Cast Time":"Downtime Activity","Primary Skill":["Influence"],"Kits or Tools":"Scholar’s Set ","Tier":["Adept"],"Casting Cost":"","Secondary Skill/s":["Smarts","Influence","Perception","Intuition"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/tongue-of-many/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["15"],"Traits":"Communication ","Wealth Cost":"4","Cast Time":"Downtime Activity","Kits or Tools":"Scholar’s Set ","Skills":["Smarts","Influence","Perception","Intuition"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 >You use a [[Beyond the Veil/Veil Content/Gear/Language Manual\|Language Manual]], and place it in the middle of a small ritual circle. The ritualists mix a good kettle of [[Prophet's Leaf\|Prophet's Leaf]] Tea and imbibe in this from the same cup as they pass it over. The primary ritualist can skim through and read through the [[Beyond the Veil/Veil Content/Gear/Language Manual\|Language Manual]] as the magic of the ritual takes place the learning speeds up and solidifies on the participant’s tongues allowing them to speak them language rather quickly. 

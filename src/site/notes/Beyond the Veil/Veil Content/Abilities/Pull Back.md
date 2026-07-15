@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/pull-back/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":[],"MasterySkills":["Athletics","Agility"],"Traits":"","defenses":["Fortitude"],"Actions":"Reaction","Rank":["[[Veteran]]"],"sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/pull-back/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":[],"MasterySkills":["[[Athletics]]","[[Agility]]"],"Traits":"","defenses":["Fortitude"],"Actions":"Reaction","Rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

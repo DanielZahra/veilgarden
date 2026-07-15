@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/downtime-activities/orchestrate-catalyst/","dg-note-properties":{"base":"[[Downtime Activities Database.base]]","Effect":"","Requirements":"Catalyst Creation \nArtificing Kit ","Related":"","Select":"Safehaven Only"}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/downtime-activities/orchestrate-catalyst/","dg-note-properties":{"base":"[[Downtime Activities Database.base]]","Effect":"","Requirements":["[[Catalyst Creation]]","[[Artificing Kit]]","[[Safehaven]]"],"Related":null,"Select":null}}
 ---
 
 - During this downtime activity, you can create a catalyst, and store a single ability within. This ability can be used once per rest.

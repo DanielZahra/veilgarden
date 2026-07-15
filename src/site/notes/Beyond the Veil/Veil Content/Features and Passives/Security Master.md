@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/security-master/","dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":null,"Traits":[],"Rank":["[[Master]]"],"MasterySkills":"[[Perception]]","sortOrderByRank":3}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/security-master/","tags":["SkillFeat"],"dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":["[[Beyond the Veil/Veil Content/Features and Passives/Watchguard\|Watchguard]]"],"Traits":[],"Rank":"[[Master]]","MasterySkills":"[[Perception]]","sortOrderByRank":3,"tags":["SkillFeat"]}}
 ---
 
 **Requirement:** [[Beyond the Veil/Veil Content/Features and Passives/Watchguard\|Watchguard]]

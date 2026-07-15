@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/coup-de-grace/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":[],"MasterySkills":["Assassination"],"Traits":"","defenses":["Fortitude"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/coup-de-grace/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":[],"MasterySkills":["[[Assassination]]"],"Traits":"","defenses":["Fortitude"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > An assassin’s greatest advantage is targets that are not aware.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/strike-n-slide/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Movement"],"MasterySkills":["Agility"],"Traits":["[[Attack]]","[[Move]]"],"defenses":["Defense"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/strike-n-slide/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Movement"],"MasterySkills":["[[Agility]]"],"Traits":["[[Attack]]","[[Move]]"],"defenses":["Defense"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > Using the floor as if it were slippery and easy to move on, your agility allows you easy movement between, under and around your foes. This creates the opening you need to strike.

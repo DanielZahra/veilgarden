@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/mellow-poppy-v/","dg-note-properties":{"base":"[[Gear.base]]","Traits":"Consumable Venom ","Dossier":"[[Alchemy & Medicine]]","Multi-Purchase":false,"Stack":"1","Wealth Cost":"2","Actions":["1 Interact Action"],"Rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/mellow-poppy-v/","dg-note-properties":{"base":"[[Gear.base]]","Traits":["[[Beyond the Veil/Veil Glossary/Venom\|Venom]]","[[Consumable]]"],"Dossier":"[[Alchemy & Medicine]]","Multi-Purchase":false,"Stack":"1","Wealth Cost":"2","Actions":["1 Interact Action"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 

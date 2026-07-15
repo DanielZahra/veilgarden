@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/pommel-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":[],"MasterySkills":[],"Traits":["[[Attack]]"],"defenses":["Defense","Fortitude"],"Actions":["2 Actions"],"rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/pommel-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":[],"MasterySkills":["[[Hammers]]"],"Traits":["[[Attack]]"],"defenses":["Defense","Fortitude"],"Actions":["2 Actions"],"rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 TO FIX

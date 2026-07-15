@@ -3,7 +3,7 @@
 ---
 
 - [[Beyond the Veil/Veil Glossary/Elemental\|Elemental]] [[Beyond the Veil/Veil Content/Masteries/Implements\|Implements]] can have their [[Beyond the Veil/Veil Glossary/Base Damage\|Base Damage]] changed to any of the below.
-- You can select the damage through a [[Beyond the Veil/Veil Content/Downtime Activities/Weapon and Armor Maintenance\|Weapon and Armor Maintenance]] downtime activity.
+- You can select the damage through a [[Beyond the Veil/Veil Content/Downtime Activities/Gear Maintenance\|Gear Maintenance]] downtime activity.
 - Damage Types
     - [[Beyond the Veil/Veil Glossary/Fire/Fire\|Fire]] 
     - [[Water 1\|Water 1]] 

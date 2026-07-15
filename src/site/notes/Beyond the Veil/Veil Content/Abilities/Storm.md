@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/storm/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Emanation 50"],"Tags":["Damage 3"],"MasterySkills":["[[Stormweaver]]"],"Traits":"Air ","defenses":["Basic Reflex"],"Actions":"1 Action","Rank":["[[Master]]"],"sortOrderByRank":3}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/storm/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Emanation 50"],"Tags":["Damage 3"],"MasterySkills":["[[Stormweaver]]"],"Traits":"Air ","defenses":["Basic Reflex"],"Actions":"1 Action","Rank":"[[Master]]","sortOrderByRank":3}}
 ---
 
 > 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/magitech-prosthetic/","dg-note-properties":{"base":"[[Gear.base]]","Traits":["[[Gear]]"],"Dossier":"[[Crafting & Artificing]]","Multi-Purchase":true,"Stack":"-","Wealth Cost":"12","Actions":["Downtime Activity"],"Rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/magitech-prosthetic/","dg-note-properties":{"base":"[[Gear.base]]","Traits":["[[Gear]]"],"Dossier":"[[Crafting & Artificing]]","Multi-Purchase":true,"Stack":null,"Wealth Cost":"12","Actions":["Downtime Activity"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 

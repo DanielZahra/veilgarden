@@ -10,7 +10,7 @@
 | Veteran | When using [[Beyond the Veil/Veil Content/Abilities/Destroyer Stance\|Destroyer Stance]] you can use any [[Beyond the Veil/Veil Glossary/Strike\|Strike]] from 1 range away and [[Beyond the Veil/Veil Content/Actions/Step\|Step]] towards the target as part of the strike. |
 | Master | When using [[Beyond the Veil/Veil Content/Abilities/Destroyer Stance\|Destroyer Stance]], you ignore the [[Beyond the Veil/Veil Glossary/Bane\|Bane]] from [[Beyond the Veil/Veil Glossary/Mighty\|Mighty]].                                                           |
 
-<!-- Linked database (not supported by Notion API) -->
+
 
 ## TODO
 

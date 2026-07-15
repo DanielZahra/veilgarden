@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/natural-identification/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Emanation 50"],"Tags":[],"MasterySkills":["Intuition"],"Traits":"Skills","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/natural-identification/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Emanation 50"],"Tags":[],"MasterySkills":["[[Intuition]]"],"Traits":"Skills","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > You sync your senses to mana, magic, power or a natural effect.

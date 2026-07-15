@@ -3,7 +3,7 @@
 ---
 
 > [!note] ⚔️
-> You deploy a [[Notion/Aeternum Wiki/Manatech\|Manatech]] extra dimensional trap that activates when a creature steps inside, dropping them in a deep hole.
+> You deploy a [[Aeternum Lore/Lore Glossary/Manatech\|Manatech]] extra dimensional trap that activates when a creature steps inside, dropping them in a deep hole.
 
 - You deploy a 1x1 Burst
 - A Creature that moves into the space starts [[Beyond the Veil/Veil Content/Conditions/Falling\|Falling]].

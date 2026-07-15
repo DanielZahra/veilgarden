@@ -1,65 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/campcraft/survival-and-wellbeing/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/campcraft/survival-and-wellbeing/","dg-note-properties":{"base":"[[Veil Glossary.base]]"}}
 ---
 
+#### [[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing\|Survival & Wellbeing]] [[Beyond the Veil/Veil Glossary/Gear\|Gear]]
+| Item Name                                                                                         | Rank                                              | Traits                                                                                                                                                  | Dossier                                                                                  | Actions                      | Stack | Wealth Cost | Multi-Purchase |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------- | ----- | ----------- | -------------- |
+| [[Beyond the Veil/Veil Content/Gear/Climbing Gear\|Climbing Gear]]                             | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | [[Beyond the Veil/Veil Glossary/Gear\|Gear]], [[Beyond the Veil/Veil Glossary/Worn\|Worn]], [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]] | [[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing\|Survival & Wellbeing]] | 1 Hour<br>3 Interact Actions | 1     | 1           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Cold Weather Gear\|Cold Weather Gear]]                     | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | [[Beyond the Veil/Veil Glossary/Gear\|Gear]], [[Beyond the Veil/Veil Glossary/Worn\|Worn]]                                                        | [[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing\|Survival & Wellbeing]] | 1 Hour                       | 1     | 2           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Culinary Kit\|Culinary Kit]]                               | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | [[Beyond the Veil/Veil Glossary/Kit\|Kit]]                                                                                                           | [[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing\|Survival & Wellbeing]] |                              | 1     | 1           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Heat Weather Gear\|Heat Weather Gear]]                     | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | [[Beyond the Veil/Veil Glossary/Gear\|Gear]], [[Beyond the Veil/Veil Glossary/Worn\|Worn]]                                                        | [[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing\|Survival & Wellbeing]] | 1 Hour                       | 1     | 2           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Rain and Storm Weather Gear\|Rain and Storm Weather Gear]] | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | [[Beyond the Veil/Veil Glossary/Gear\|Gear]], [[Beyond the Veil/Veil Glossary/Worn\|Worn]]                                                        | [[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing\|Survival & Wellbeing]] | 1 Hour                       | 1     | 2           | true           |
+| [[Beyond the Veil/Veil Content/Gear/Riding Gear\|Riding Gear]]                                 | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | [[Beyond the Veil/Veil Glossary/Gear\|Gear]], [[Beyond the Veil/Veil Glossary/Worn\|Worn]]                                                        | [[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing\|Survival & Wellbeing]] | 1 Hour                       | 1     | 1           | true           |
 
-```base
-filters:
-  and:
-    - base == link("Campcraft Passive Database.base")
-    - Dossier.contains(link("Survival & Wellbeing"))
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - Dossier
-      - Wealth Cost
-      - Requirements
-      - Traits
-      - Text
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-    columnSize:
-      file.name: 260
-      note.Requirements: 228
-      note.Text: 859
-    rowHeight: medium
+{ .block-language-dataview}
 
-```
+#### [[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing\|Survival & Wellbeing]] [[Beyond the Veil/Veil Glossary/Campcraft\|Campcraft]] Upgrades
+| Name                                                                                                        | Rank                      | Dossier                                                                                                     | Requirements | Wealth Cost | Traits     |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------ | ----------- | ---------- |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Camp Alarms\|Camp Alarms]]                     | <ul><li>Adept</li></ul>   | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing.md\\|Survival & Wellbeing]]</li></ul> |              | 2           |            |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Carb and Protein Bomb\|Carb and Protein Bomb]] | <ul><li>Adept</li></ul>   | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing.md\\|Survival & Wellbeing]]</li></ul> | Cooking      | 10          | Supplement |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Fortune Cookies\|Fortune Cookies]]             | <ul><li>Adept</li></ul>   | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing.md\\|Survival & Wellbeing]]</li></ul> |              | 5           | Supplement |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/High-Tea\|High-Tea]]                           | <ul><li>Adept</li></ul>   | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing.md\\|Survival & Wellbeing]]</li></ul> | Cooking      | 10          | Supplement |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Scholar’s Noodles\|Scholar’s Noodles]]         | <ul><li>Adept</li></ul>   | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing.md\\|Survival & Wellbeing]]</li></ul> | Cooking      | 10          | Supplement |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Energized Bedding\|Energized Bedding]]         | <ul><li>Veteran</li></ul> | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing.md\\|Survival & Wellbeing]]</li></ul> |              | 4           |            |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Hearty Meal\|Hearty Meal]]                     | <ul><li>Veteran</li></ul> | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing.md\\|Survival & Wellbeing]]</li></ul> | Cooking      | 12          | Supplement |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Mana Sauna\|Mana Sauna]]                       | <ul><li>Veteran</li></ul> | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing.md\\|Survival & Wellbeing]]</li></ul> |              | 10          |            |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Manafied Meal\|Manafied Meal]]                 | <ul><li>Veteran</li></ul> | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing.md\\|Survival & Wellbeing]]</li></ul> | Cooking      | 12          | Supplement |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Toughening Meal\|Toughening Meal]]             | <ul><li>Veteran</li></ul> | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Survival & Wellbeing.md\\|Survival & Wellbeing]]</li></ul> | Cooking      | 12          | Supplement |
 
-
-
-```base
-filters:
-  and:
-    - base == link("Gear.base")
-    - Dossier.contains(link("Survival & Wellbeing"))
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - Traits
-      - Dossier
-      - Multi-Purchase
-      - Stack
-      - Wealth Cost
-      - Actions
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-    columnSize:
-      note.Traits: 362
-      note.Dossier: 238
-
-```
+{ .block-language-dataview}

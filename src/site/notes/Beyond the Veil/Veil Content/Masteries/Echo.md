@@ -15,5 +15,5 @@ Create the Main ability
     - Increased range at higher lvl
 - Passives
 
-<!-- Linked database (not supported by Notion API) -->
+
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/kick-up/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":[],"MasterySkills":["[[Agility]]"],"Traits":"","defenses":[],"Actions":"Reaction","Rank":["[[Adept]]"],"sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/kick-up/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":[],"MasterySkills":["[[Agility]]","[[Athletics]]"],"Traits":"","defenses":[],"Actions":"Reaction","Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

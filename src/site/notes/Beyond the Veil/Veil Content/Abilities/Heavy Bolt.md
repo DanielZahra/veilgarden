@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/heavy-bolt/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":[],"MasterySkills":["Crossbows"],"Traits":"Attack ","defenses":["Defense","Fortitude"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/heavy-bolt/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":[],"MasterySkills":["[[Crossbows]]"],"Traits":"Attack ","defenses":["Defense","Fortitude"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] 🗺️

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/swift-cover/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Cover"],"MasterySkills":["Agility"],"Traits":"","defenses":[],"Actions":"Free Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/swift-cover/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Cover"],"MasterySkills":["[[Agility]]","[[Subterfuge]]"],"Traits":"","defenses":[],"Actions":"Free Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

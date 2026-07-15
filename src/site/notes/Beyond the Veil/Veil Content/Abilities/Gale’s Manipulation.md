@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/gale-s-manipulation/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 24"],"Tags":["Effect"],"MasterySkills":["[[Galeshot]]"],"Traits":"Air ","defenses":[],"Actions":["Reaction","Free Action"],"Rank":["[[Adept]]"],"sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/gale-s-manipulation/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Range 24]]"],"Tags":["Effect"],"MasterySkills":["[[Galeshot]]"],"Traits":["[[Air]]"],"defenses":[],"Actions":["Reaction","Free Action"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > As you and your allies seek to strike your blows, you manipulate the gale and winds to make sure your strikes land true as your help adjust the aim.

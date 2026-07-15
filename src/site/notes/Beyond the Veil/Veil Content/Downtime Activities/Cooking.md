@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/downtime-activities/cooking/","dg-note-properties":{"base":"[[Downtime Activities Database.base]]","Effect":"","Requirements":"Culinary Kit ","Related":"Hearty Meal \nToughening Meal \nManafied Meal "}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/downtime-activities/cooking/","dg-note-properties":{"base":"[[Downtime Activities Database.base]]","Effect":"","Requirements":"[[Beyond the Veil/Veil Content/Gear/Culinary Kit\|Culinary Kit]]","Related":null}}
 ---
 
 - You spend your downtime preparing a special meal to prepare your group for what is to come.

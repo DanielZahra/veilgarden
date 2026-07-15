@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/repositioning-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Movement"],"MasterySkills":["Knives","Polearms","Spears"],"Traits":"Attack ","defenses":["Defense"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/repositioning-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Movement"],"MasterySkills":["[[Knives]]","[[Polearms]]","[[Spears]]"],"Traits":["[[Attack]]"],"defenses":["Defense"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/caltrops/","dg-note-properties":{"base":"[[Gear.base]]","Traits":"Consumable Trap Device  ","Dossier":"[[Crafting & Artificing]]","Multi-Purchase":false,"Stack":"1","Wealth Cost":"2","Actions":["1 Interact Action"],"Rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/caltrops/","dg-note-properties":{"base":"[[Gear.base]]","Traits":["[[Consumable]]","[[Beyond the Veil/Veil Glossary/Trap\|Trap]]","[[Device]]"],"Dossier":"[[Crafting & Artificing]]","Multi-Purchase":false,"Stack":"1","Wealth Cost":"2","Actions":["1 Interact Action"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] ⚔️

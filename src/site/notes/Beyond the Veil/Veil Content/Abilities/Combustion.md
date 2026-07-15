@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/combustion/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":[],"MasterySkills":["Pyromancer"],"Traits":"Fire ","defenses":["Fortitude"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/combustion/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Range 12]]"],"Tags":[],"MasterySkills":["[[Pyromancer]]"],"Traits":["[[Fire]]"],"defenses":["[[Fortitude]]"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

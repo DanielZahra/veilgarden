@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/push-and-chase/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Movement"],"MasterySkills":["Athletics","Agility"],"Traits":"Movement ","defenses":[],"Actions":"Reaction","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/push-and-chase/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Movement"],"MasterySkills":["[[Athletics]]","[[Agility]]"],"Traits":"Movement ","defenses":[],"Actions":"Reaction","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

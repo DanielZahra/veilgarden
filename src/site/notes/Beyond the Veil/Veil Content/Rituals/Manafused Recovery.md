@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/manafused-recovery/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["16"],"Traits":"","Wealth Cost":"5","Cast Time":"10 minutes","Primary Skill":["Restoration"],"Kits or Tools":"Medical Kit ","Tier":["Adept"],"Casting Cost":"Mending Salve ","Secondary Skill/s":["Agility","Intuition","Athletics","Restoration"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/manafused-recovery/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["16"],"Traits":"","Wealth Cost":"5","Cast Time":"10 minutes","Kits or Tools":"Medical Kit ","Skills":["Agility","Intuition","Athletics","Restoration"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > [!note] 

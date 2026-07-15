@@ -11,14 +11,12 @@
 
 [[Beyond the Veil/Veil Glossary/Dispel Effect\|Dispel Effect]] has no effect on:
 
-- Effects that have a permanent duration: such as Curses, Afflictions, and Magical Gear
+- Effects that have a permanent: such as Curses, Afflictions, and Magical Gear
     - This also applies to effects that essentially have no duration because they are part of the world. (e.g., you cannot dispel a natural waterfall or [[Beyond the Veil/Veil Glossary/Cover\|Cover]] created by the environment).
 - Abilities with the traits: [[Beyond the Veil/Veil Glossary/Transformation\|Transformation]],  [[Beyond the Veil/Veil Glossary/Stance\|Stance]]. 
 - Conditions: [[Beyond the Veil/Veil Content/Conditions/Held\|Held]], [[Beyond the Veil/Veil Content/Conditions/Prone\|Prone]], [[Beyond the Veil/Veil Content/Conditions/Unconscious\|Unconscious]] or [[Beyond the Veil/Veil Content/Conditions/Hidden\|Hidden]]
-- TBD (Some more cases)
 
 ---
-
 To dispel an effect, you make a [[Beyond the Veil/Veil Glossary/Prowess\|Prowess]] [[Beyond the Veil/Veil Glossary/Veil Roll\|Veil Roll]] against the DC of the effect. If you believe or know that a target has more than one effect, you choose a single one.
 **Critical Success**: You dispel the effect completely. 
 **Success**: You dispel the effect for 10 minutes. 

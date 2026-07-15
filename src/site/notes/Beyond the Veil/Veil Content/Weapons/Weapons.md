@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/weapons/weapons/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/weapons/weapons/","dg-note-properties":{"base":null}}
 ---
 
 # Weapon Traits

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/life-drain/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 6"],"Tags":["Healing","Effect"],"MasterySkills":["Hollow"],"Traits":"Attack Healing Void ","defenses":["Defense"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/life-drain/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 6"],"Tags":["Healing","Effect"],"MasterySkills":["[[Hollow]]"],"Traits":"Attack Healing Void ","defenses":["Defense"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

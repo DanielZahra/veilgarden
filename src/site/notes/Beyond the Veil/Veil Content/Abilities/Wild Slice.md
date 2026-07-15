@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/wild-slice/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Cone 3]]"],"Tags":["Effect"],"MasterySkills":["[[Axes]]"],"Traits":"[[Attack]]","defenses":["Defense"],"Actions":["2 Actions","1 Action"],"rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/wild-slice/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Cone 3]]"],"Tags":["Effect"],"MasterySkills":["[[Axes]]"],"Traits":"[[Attack]]","defenses":["[[Defense]]"],"Actions":["2 Actions"],"rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > You swing horizontally unleashing wave of slashing force in front of you.

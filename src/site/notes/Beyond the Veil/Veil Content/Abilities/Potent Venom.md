@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/potent-venom/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Self]]"],"Tags":["Effect"],"MasterySkills":["Envenomer"],"Traits":"Venom ","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/potent-venom/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Self]]"],"Tags":["Effect"],"MasterySkills":["[[Beyond the Veil/Veil Content/Masteries/Envenomer\|Envenomer]]"],"Traits":"Venom ","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

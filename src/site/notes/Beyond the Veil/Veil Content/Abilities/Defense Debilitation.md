@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/defense-debilitation/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Bane Defense","Condition"],"MasterySkills":["Pactbinder"],"Traits":"","defenses":["Will"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/defense-debilitation/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":["Bane Defense","Condition"],"MasterySkills":["[[Pactbinder]]"],"Traits":"","defenses":["Will"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

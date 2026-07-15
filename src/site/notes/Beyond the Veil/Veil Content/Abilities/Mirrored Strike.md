@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/mirrored-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":[],"Tags":[],"MasterySkills":["Trickster"],"Traits":"Attack ","defenses":["Special"],"Actions":"Reaction","Rank":"[[Master]]","sortOrderByRank":3}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/mirrored-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":[],"Tags":[],"MasterySkills":["[[Trickster]]"],"Traits":"Attack ","defenses":["Special"],"Actions":"Reaction","Rank":"[[Master]]","sortOrderByRank":3}}
 ---
 
 > 

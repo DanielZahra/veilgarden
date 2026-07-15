@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/richocheting-shot/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":[],"MasterySkills":["Crossbows","Firearms"],"Traits":"Attack ","defenses":["Defense"],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/richocheting-shot/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":[],"MasterySkills":["[[Firearms]]"],"Traits":"Attack ","defenses":["Defense"],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

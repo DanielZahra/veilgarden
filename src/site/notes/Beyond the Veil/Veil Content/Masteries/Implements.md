@@ -13,5 +13,5 @@
     - Distance :You can use as part of another ability. Distance adds 6 range to an ability or sets the range on a Touch, Adjacent or Melee ability to 6.
 
 
-<!-- Linked database (not supported by Notion API) -->
+
 

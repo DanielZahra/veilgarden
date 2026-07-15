@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/summon-ethereal-safehaven/","dg-note-properties":{"base":"[[Rituals.base]]","Traits":null,"Unlocked":null,"Wealth Cost":"20","Cast Time":"Downtime Activity","Skills":["[[Intuition]]","[[Influence]]","[[Tinkering]]"],"Skill Check DC":null,"Kits or Tools":"[[Artificing Kit]]","Rank":"[[Master]]","sortOrderByRank":3,"Requirement":null}}
+---
+
+You summon thousands of ethereal spirits to construct area of peace (this could be a campsite or a small hut but it must be built tout of the natural resources in your area.), where you and your party can rest. In this area are a number of servants that can act as vassals and serfs. The next time you rest here, it is treated as a [[Beyond the Veil/Veil Glossary/Safehaven\|Safehaven]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/natural-communicator/","dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":"","Traits":[],"Rank":["[[Veteran]]"],"MasterySkills":"[[Intuition]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/features-and-passives/natural-communicator/","tags":["MinorSkillFeat"],"dg-note-properties":{"base":"[[Passives Database.base]]","Requirement":"","Traits":[],"Rank":"[[Veteran]]","MasterySkills":["[[Intuition]]","[[Smarts]]"],"sortOrderByRank":2,"tags":["MinorSkillFeat"]}}
 ---
 
 - When you make a skill check to understand the communication from another creature where the language is unknown. You can always discern the intent of the message even if you cannot understand language or communicate back. This is only applicable to language spoken by creatures directly to you and not writing or images.

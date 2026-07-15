@@ -9,5 +9,5 @@ Requirements: The [[Beyond the Veil/Veil Content/Rituals/Glyph of Retrieval\|Gly
 
 ---
 - You must use the [[Beyond the Veil/Veil Content/Rituals/Glyph of Retrieval\|Glyph of Retrieval]] and set an object as the 'container', this takes 1 hour.
-- When using [[Beyond the Veil/Veil Content/Rituals/Glyph of Retrieval\|Glyph of Retrieval]] again you can take a single item (or stack) from the container, this takes 10 minutes.
+- When using [[Beyond the Veil/Veil Content/Rituals/Glyph of Retrieval\|Glyph of Retrieval]] again you can take a single item that takes 1 [[Beyond the Veil/Veil Glossary/Loadout\|Loadout]] slot(or stack) from the container, this takes 10 minutes.
 - [[Beyond the Veil/Veil Content/Rituals/Glyph of Retrieval\|Glyph of Retrieval]] that is placed on the container typically lasts for a year unless destroyed. 

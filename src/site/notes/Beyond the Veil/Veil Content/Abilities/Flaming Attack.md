@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/flaming-attack/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":[],"MasterySkills":["Pyromancer","Torchbearer"],"Traits":"Attack Fire ","defenses":["Defense"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/flaming-attack/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Weapon Range]]"],"Tags":[],"MasterySkills":["[[Pyromancer]]","[[Torchbearer]]"],"Traits":["[[Attack]]","[[Fire]]"],"defenses":["[[Defense]]"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

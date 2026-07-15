@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/quick-witted/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":[],"MasterySkills":["Smarts"],"Traits":"Skills","defenses":[],"Actions":"Reaction","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/quick-witted/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":[],"MasterySkills":["[[Smarts]]"],"Traits":"Skills","defenses":[],"Actions":"Reaction","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > Sometimes combat skill isn’t enough to dodge a blow and brain over brawn is the way to go.

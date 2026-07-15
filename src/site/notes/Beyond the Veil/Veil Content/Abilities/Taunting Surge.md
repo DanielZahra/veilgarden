@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/taunting-surge/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Companion"],"Tags":["Movement","Fixated"],"MasterySkills":["Beastmaster","Ossifier"],"Traits":"Attack Companion ","defenses":["Defense","Will"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/taunting-surge/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Companion"],"Tags":["Movement","Fixated"],"MasterySkills":["[[Ossifier]]","[[Beastmaster]]"],"Traits":"Attack Companion ","defenses":["Defense","Will"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/electrified-weapons/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Emanation 50"],"Tags":["Effect"],"MasterySkills":["[[Conduit]]"],"Traits":"Imbue Air Aura ","defenses":[],"Actions":"1 Action","Rank":["[[Master]]"],"sortOrderByRank":3}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/electrified-weapons/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Emanation 50"],"Tags":["Effect"],"MasterySkills":["[[Conduit]]"],"Traits":"Imbue Air Aura ","defenses":[],"Actions":"1 Action","Rank":"[[Master]]","sortOrderByRank":3}}
 ---
 
 > You unleash your current to energy your allies’ weapons.

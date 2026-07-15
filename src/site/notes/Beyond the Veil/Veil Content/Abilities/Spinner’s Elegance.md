@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/spinner-s-elegance/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Healing","Effect"],"MasterySkills":["Lifespinner"],"Traits":"Stance ","defenses":[],"Actions":"Free Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/spinner-s-elegance/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Healing","Effect"],"MasterySkills":["[[Lifespinner]]"],"Traits":"Stance ","defenses":[],"Actions":"Free Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > Your stance matches that of a weaver, almost as if holding a needle and thread.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/roar/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Emanation 1"],"Tags":["Terror","Condition"],"MasterySkills":["Skald","Berserker"],"Traits":"Auditory Anima","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/roar/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Emanation 1"],"Tags":["Terror","Condition"],"MasterySkills":["[[Berserker]]","[[Skald]]"],"Traits":"Auditory Anima","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > 

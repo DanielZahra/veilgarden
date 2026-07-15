@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/slice-and-dice/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":["Damage","Action Economy","Movement"],"MasterySkills":["Knives"],"Traits":"Attack ","defenses":["Defense"],"Actions":"2 Actions","Rank":["[[Master]]"],"sortOrderByRank":3}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/slice-and-dice/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Beyond the Veil/Veil Glossary/Adjacent\|Adjacent]]"],"Tags":["Damage","Movement","ActionEconomy"],"MasterySkills":["[[Knives]]"],"Traits":["[[Attack]]"],"defenses":["[[Defense]]"],"Actions":"2 Actions","Rank":"[[Master]]","sortOrderByRank":3}}
 ---
 
 > 

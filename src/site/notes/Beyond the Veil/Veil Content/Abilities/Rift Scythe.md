@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/rift-scythe/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Line 6x1","Cone 5"],"Tags":[],"MasterySkills":["Hollow"],"Traits":"Summon Void ","defenses":["Basic Reflex"],"Actions":["3 Actions"],"rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/rift-scythe/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Beyond the Veil/Veil Glossary/Line/Line 6x1\|Line 6x1]]","[[Cone 5]]"],"Tags":[],"MasterySkills":["[[Hollow]]"],"Traits":["[[Beyond the Veil/Veil Glossary/Summon\|Summon]]","[[Void]]"],"defenses":["[[Basic Reflex]]"],"Actions":["3 Actions"],"rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
-> 
 > You summon a large scythe which cuts its way into reality, and it charges large cleave of void damage.
 
 - [[Beyond the Veil/Veil Glossary/Summon\|Summon]] 

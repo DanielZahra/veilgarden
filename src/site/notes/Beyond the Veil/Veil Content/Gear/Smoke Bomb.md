@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/smoke-bomb/","dg-note-properties":{"base":"[[Gear.base]]","Traits":"Bomb  Consumable Thrown 9  Quickdraw ","Dossier":"[[Crafting & Artificing]]","Multi-Purchase":false,"Stack":"2","Wealth Cost":"4","Actions":["1 Interact Action"],"Rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/gear/smoke-bomb/","dg-note-properties":{"base":"[[Gear.base]]","Traits":["Bomb  Consumable Thrown 9  Quickdraw ","[[Bomb]]"],"Dossier":"[[Crafting & Artificing]]","Multi-Purchase":false,"Stack":"2","Wealth Cost":"4","Actions":["1 Interact Action"],"Rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 - You throw the [[Beyond the Veil/Veil Content/Gear/Smoke Bomb\|Smoke Bomb]] in a point and it creates a 4x4 Burst of smoke until [[Beyond the Veil/Veil Glossary/End of Encounter\|End of Encounter]].

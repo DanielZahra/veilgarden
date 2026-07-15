@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/fixating-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Fixated"],"MasterySkills":["Vanguard","Duelling","Trickster"],"Traits":"Attack ","defenses":["Defense"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/fixating-strike/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Fixated"],"MasterySkills":["[[Trickster]]","[[Vanguard]]","[[Duelling]]"],"Traits":"Attack ","defenses":["Defense"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > You pinpoint the center of energy of your foe and strike directly, diverting their energy in all the wrong places, but mainly towards you.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/void-armaments/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":["Effect"],"MasterySkills":["Outsider"],"Traits":"Imbue Void ","defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/void-armaments/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Adjacent]]"],"Tags":["Effect"],"MasterySkills":["[[Outsider]]"],"Traits":["[[Imbue]]","[[Void]]"],"defenses":[],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 > Your armaments get a dark sheen and covered in void energy. Dark matter slowly float off in the air around you as the void reacts to the natural mana in the air.

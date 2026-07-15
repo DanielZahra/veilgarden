@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/downtime-activities/create-a-disguise/","dg-note-properties":{"base":"[[Downtime Activities Database.base]]","Effect":"","Requirements":"Disguise Station ","Related":""}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/downtime-activities/create-a-disguise/","dg-note-properties":{"base":"[[Downtime Activities Database.base]]","Effect":"","Requirements":"[[Disguise Station]]","Related":null}}
 ---
 
 > [!tip] 💡

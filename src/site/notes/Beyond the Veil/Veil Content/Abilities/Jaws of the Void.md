@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/jaws-of-the-void/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":["Condition 2"],"MasterySkills":["Outsider"],"Traits":"Attack Size Difference ","defenses":["Defense","Reflex"],"Actions":"2 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/jaws-of-the-void/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Adjacent]]"],"Tags":["Conditions2"],"MasterySkills":["[[Outsider]]"],"Traits":["[[Attack]]","[[Beyond the Veil/Veil Glossary/Size Difference\|Size Difference]]"],"defenses":["[[Defense]]","[[Beyond the Veil/Veil Glossary/Reflex\|Reflex]]"],"Actions":"2 Actions","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/bind-spirit/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":[],"Traits":"Sacriledge ","Primary Skill":[],"Kits or Tools":"","Tier":["Master"],"Casting Cost":"","Secondary Skill/s":[]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/bind-spirit/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":[],"Traits":["[[Sacrilege]]"],"Kits or Tools":"","Skills":[],"Rank":"[[Master]]","sortOrderByRank":3}}
 ---
 
 Bind Spirit is essentially a a stronger version of [[Beyond the Veil/Veil Content/Rituals/Voice the Dead\|Voice the Dead]] but it binds a deal soul to the locaiton, creating an Ethereal ghost

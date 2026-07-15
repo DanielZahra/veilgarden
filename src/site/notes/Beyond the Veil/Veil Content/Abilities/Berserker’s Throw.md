@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/berserker-s-throw/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Varies"],"Tags":["Effect","Action Economy"],"MasterySkills":["Berserker"],"Traits":"Attack Movement ","defenses":["Defense","Fortitude"],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/berserker-s-throw/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Varies"],"Tags":["Effect","Action Economy"],"MasterySkills":["[[Berserker]]"],"Traits":"Attack Movement ","defenses":["Defense","Fortitude"],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

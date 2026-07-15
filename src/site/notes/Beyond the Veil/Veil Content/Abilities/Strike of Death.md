@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/strike-of-death/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Rigor Mortis","Condition"],"MasterySkills":["Assassination"],"Traits":"Attack ","defenses":["Defense","Fortitude"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/strike-of-death/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Weapon Range"],"Tags":["Rigor Mortis","Condition"],"MasterySkills":["[[Assassination]]"],"Traits":"Attack ","defenses":["Defense","Fortitude"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 >

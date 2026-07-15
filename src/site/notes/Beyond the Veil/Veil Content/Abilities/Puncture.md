@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/puncture/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":[],"MasterySkills":["Knives"],"Traits":"Attack ","defenses":["Defense","Fortitude"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/puncture/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Adjacent"],"Tags":[],"MasterySkills":["[[Knives]]"],"Traits":"Attack ","defenses":["Defense","Fortitude"],"Actions":"1 Action","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
 >You flip the grip on your dagger and you punch it deep in a creature, levaing the creature with a dagger stuck in an open wounds as they hemmorage blood.

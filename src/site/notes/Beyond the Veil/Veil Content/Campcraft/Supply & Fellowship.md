@@ -1,65 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/campcraft/supply-and-fellowship/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/campcraft/supply-and-fellowship/","dg-note-properties":{"base":"[[Veil Glossary.base]]"}}
 ---
 
+#### [[Beyond the Veil/Veil Content/Campcraft/Supply & Fellowship\|Supply & Fellowship]] [[Beyond the Veil/Veil Glossary/Gear\|Gear]]
+| Item Name                                                   | Rank                                              | Traits                                          | Dossier                                                                                | Actions            | Stack | Wealth Cost | Multi-Purchase |
+| ----------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------ | ----- | ----------- | -------------- |
+| [[Beyond the Veil/Veil Content/Gear/Backpack\|Backpack]] | [[Beyond the Veil/Veil Glossary/Adept\|Adept]] | [[Beyond the Veil/Veil Glossary/Worn\|Worn]] | [[Beyond the Veil/Veil Content/Campcraft/Supply & Fellowship\|Supply & Fellowship]] | 3 Interact Actions | 1     | -           | true           |
 
-```base
-filters:
-  and:
-    - base == link("Campcraft Passive Database.base")
-    - Dossier.contains(link("Supply & Fellowship"))
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - Dossier
-      - Wealth Cost
-      - Requirements
-      - Traits
-      - Text
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-    columnSize:
-      file.name: 260
-      note.Requirements: 228
-      note.Text: 859
-    rowHeight: medium
+{ .block-language-dataview}
 
-```
+#### [[Beyond the Veil/Veil Content/Campcraft/Supply & Fellowship\|Supply & Fellowship]] [[Beyond the Veil/Veil Glossary/Campcraft\|Campcraft]] Upgrades
+| Name                                                                                                              | Rank                      | Dossier                                                                                                   | Requirements             | Wealth Cost | Traits |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------ | ----------- | ------ |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Boiled Leather Backpacks\|Boiled Leather Backpacks]] | <ul><li>Adept</li></ul>   | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Supply & Fellowship.md\\|Supply & Fellowship]]</li></ul> |                          | 2           |        |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Camp Assistant\|Camp Assistant]]                     | <ul><li>Adept</li></ul>   | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Supply & Fellowship.md\\|Supply & Fellowship]]</li></ul> |                          | 10          |        |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Camp Assistant 2\|Camp Assistant 2]]                 | <ul><li>Veteran</li></ul> | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Supply & Fellowship.md\\|Supply & Fellowship]]</li></ul> |                          | 10          |        |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Pocket Dimension Bags\|Pocket Dimension Bags]]       | <ul><li>Veteran</li></ul> | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Supply & Fellowship.md\\|Supply & Fellowship]]</li></ul> | Boiled Leather Backpacks | 4           |        |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Camp Assistant 3\|Camp Assistant 3]]                 | <ul><li>Master</li></ul>  | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Supply & Fellowship.md\\|Supply & Fellowship]]</li></ul> |                          | 10          |        |
+| [[Beyond the Veil/Veil Content/Campcraft Passive Database/Planar Storage\|Planar Storage]]                     | <ul><li>Master</li></ul>  | <ul><li>[[Beyond the Veil/Veil Content/Campcraft/Supply & Fellowship.md\\|Supply & Fellowship]]</li></ul> | Pocket Dimension Bags    | 8           |        |
 
-
-
-```base
-filters:
-  and:
-    - base == link("Gear.base")
-    - Dossier.contains(link("Supply & Fellowship"))
-properties:
-  file.name:
-    displayName: Name
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - rank
-      - Traits
-      - Dossier
-      - Multi-Purchase
-      - Stack
-      - Wealth Cost
-      - Actions
-    sort:
-      - property: sortOrderByRank
-        direction: ASC
-    columnSize:
-      note.Traits: 362
-      note.Dossier: 238
-
-```
+{ .block-language-dataview}

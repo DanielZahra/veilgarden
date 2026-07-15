@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/mindfulness/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":[],"MasterySkills":["Intuition","Smarts","Influence"],"Traits":"Skills","defenses":[],"Actions":"Reaction","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/mindfulness/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":[],"MasterySkills":["[[Influence]]","[[Intuition]]","[[Smarts]]"],"Traits":"Skills","defenses":[],"Actions":"Reaction","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > [!note] 🗺️

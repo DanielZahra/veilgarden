@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/toxic-cloud/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Range 12]]","[[Burst 3x3]]"],"Tags":["Condition"],"MasterySkills":["Envenomer"],"Traits":"Earth ","defenses":["Fortitude"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/toxic-cloud/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Range 12]]","[[Burst 3x3]]"],"Tags":["Condition"],"MasterySkills":["[[Envenomer]]"],"Traits":"Earth ","defenses":["Fortitude"],"Actions":"2 Actions","rank":"[[Adept]]","sortOrderByRank":1}}
 ---
 
-> 
 > You spew a cloud of toxic gas infecting those that are in the area.
 
 - Prowess roll vs Fortitude
@@ -10,10 +9,10 @@
 
 ---
 
-**Critical Success: **Creatures take 2 [[Beyond the Veil/Veil Glossary/Earth Damage\|Earth Damage]] and also gain 4 [[Beyond the Veil/Veil Glossary/Persistent/Persistent\|Persistent]] [[Beyond the Veil/Veil Glossary/Earth Damage\|Earth Damage]] **
-****Success: **Creatures take 1 [[Beyond the Veil/Veil Glossary/Earth Damage\|Earth Damage]] and also gain 2 [[Beyond the Veil/Veil Glossary/Persistent/Persistent\|Persistent]] [[Beyond the Veil/Veil Glossary/Earth Damage\|Earth Damage]] **
-****Failure: **Creatures take 1 [[Beyond the Veil/Veil Glossary/Earth Damage\|Earth Damage]] **
-****Critical Failure: **No Effect
+**Critical Success**: Creatures take 2 [[Beyond the Veil/Veil Glossary/Earth Damage\|Earth Damage]] and also gain 4 [[Beyond the Veil/Veil Glossary/Persistent/Persistent\|Persistent]] [[Beyond the Veil/Veil Glossary/Earth Damage\|Earth Damage]] 
+**Success**: Creatures take 1 [[Beyond the Veil/Veil Glossary/Earth Damage\|Earth Damage]] and also gain 2 [[Beyond the Veil/Veil Glossary/Persistent/Persistent\|Persistent]] [[Beyond the Veil/Veil Glossary/Earth Damage\|Earth Damage]] 
+**Failure**: Creatures take 1 [[Beyond the Veil/Veil Glossary/Earth Damage\|Earth Damage]] **
+**Critical Failure**: No Effect
 
 ---
 

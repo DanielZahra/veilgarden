@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/exsiccate/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Range 12"],"Tags":[],"MasterySkills":["Pyromancer","Torchbearer"],"Traits":"Fire ","defenses":[],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/exsiccate/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["[[Range 12]]"],"Tags":[],"MasterySkills":["[[Pyromancer]]","[[Torchbearer]]"],"Traits":["[[Fire]]"],"defenses":[],"Actions":"1 Action","rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > 

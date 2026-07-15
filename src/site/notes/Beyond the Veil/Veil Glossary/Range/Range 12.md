@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/range/range-12/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-glossary/range/range-12/","dg-note-properties":{"base":"[[Veil Glossary.base]]"}}
 ---
 
 

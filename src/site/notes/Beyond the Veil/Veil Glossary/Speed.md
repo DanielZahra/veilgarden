@@ -12,3 +12,4 @@ When you have any type other other movement, [[Beyond the Veil/Veil Glossary/Spe
 - [[Beyond the Veil/Veil Glossary/Climbing Speed\|Climbing Speed]]
 - [[Beyond the Veil/Veil Glossary/Grav Speed\|Grav Speed]]
 - [[Beyond the Veil/Veil Glossary/Wall Walking\|Wall Walking]]
+- [[Beyond the Veil/Veil Glossary/Liquid Walking\|Liquid Walking]]

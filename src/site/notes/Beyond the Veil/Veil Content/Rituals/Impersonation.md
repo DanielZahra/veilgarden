@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/impersonation/","dg-note-properties":{"base":"[[Rituals.base]]","Primary DC":["Varies"],"Traits":"","Wealth Cost":"8","Cast Time":"Downtime Activity","Primary Skill":["Intuition","Influence"],"Kits or Tools":"Disguise Station ","Tier":["Veteran"],"Casting Cost":"","Secondary Skill/s":["Intuition","Smarts","Agility","Subterfuge","Influence"]}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/rituals/impersonation/","dg-note-properties":{"base":"[[Rituals.base]]","Skill Check DC":["Varies"],"Traits":"","Wealth Cost":"8","Cast Time":"Downtime Activity","Kits or Tools":"Disguise Station ","Skills":["Intuition","Smarts","Agility","Subterfuge","Influence"],"Rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > [!note] 

@@ -5,7 +5,7 @@
 > You summon a magically created rod of electrical power that zaps creatures in it’s range.
 
 - 2x2 [[Beyond the Veil/Veil Glossary/Burst\|Burst]] until [[Beyond the Veil/Veil Glossary/End of Encounter\|End of Encounter]].
-- Prowess roll vs Reflex (Static Roll)
+- [[Prowess roll vs Reflex (Static Roll)\|Prowess roll vs Reflex (Static Roll)]]
 - [[Beyond the Veil/Veil Glossary/Creatures in the area or enter the area during their turn\|Creatures in the area or enter the area during their turn]]+ [[Beyond the Veil/Veil Glossary/Air Damage\|Air Damage]] 5 
 
 ---

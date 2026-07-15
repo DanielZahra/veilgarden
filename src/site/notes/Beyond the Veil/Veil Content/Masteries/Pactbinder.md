@@ -34,4 +34,6 @@
             - Debuff Defense, roll vs will DC
             - Chose a single Damage type as a bane.
     - Veteran
+	    - Combo Pact to strike and gain a pact or some sort
+	    - Combo of healing
     - Master

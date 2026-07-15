@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/nightvision/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Darksight"],"MasterySkills":["Perception"],"Traits":"Light Skills ","defenses":[],"Actions":["3 Actions"],"rank":"[[Veteran]]","sortOrderByRank":2}}
+{"dg-publish":true,"permalink":"/beyond-the-veil/veil-content/abilities/nightvision/","dg-note-properties":{"base":"[[Abilities.base]]","RangeArea":["Self"],"Tags":["Darksight"],"MasterySkills":["[[Perception]]"],"Traits":["[[Light]]","[[Skills]]"],"defenses":[],"Actions":["3 Actions"],"rank":"[[Veteran]]","sortOrderByRank":2}}
 ---
 
 > Your eyes gleam with mana and your senses turn darkness into a more visible pattern.
